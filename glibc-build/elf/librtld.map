@@ -1,0 +1,2309 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(check_fds.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(errno.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(check_fds.os) (__libc_errno)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setjmp.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__sigsetjmp)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(__longjmp.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__longjmp)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(scratch_buffer_set_array_size.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__libc_scratch_buffer_set_array_size)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (strchr)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (strcmp)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (strcspn)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strdup.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__strdup)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (strlen)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (strnlen)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (strncmp)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (memchr)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (memcmp)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (memmove)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (memset)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mempcpy.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__mempcpy)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__stpcpy)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(check_fds.os) (__GI_memcpy)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (rawmemchr)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp.os) (__strcmp_sse2)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2-unaligned.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp.os) (__strcmp_sse2_unaligned)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-ssse3.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp.os) (__strcmp_ssse3)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-avx2.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp.os) (__strcmp_avx2)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse2.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp.os) (__strncmp_sse2)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-ssse3.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp.os) (__strncmp_ssse3)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse4_2.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp.os) (__strncmp_sse42)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-avx2.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp.os) (__strncmp_avx2)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-sse2.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr.os) (__memchr_sse2)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-sse2.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr.os) (__rawmemchr_sse2)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-avx2.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr.os) (__memchr_avx2)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-avx2.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr.os) (__rawmemchr_avx2)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse2.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp.os) (__memcmp_sse2)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-avx2-movbe.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp.os) (__memcmp_avx2_movbe)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse4.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp.os) (__memcmp_sse4_1)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mempcpy.os) (__mempcpy_ssse3)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove.os) (__memmove_ssse3)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3-back.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mempcpy.os) (__mempcpy_ssse3_back)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3-back.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove.os) (__memmove_ssse3_back)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mempcpy.os) (__mempcpy_avx512_no_vzeroupper)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr.os) (__strchr_sse2)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-avx2.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr.os) (__strchr_avx2)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-sse2.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen.os) (__strlen_sse2)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-sse2.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen.os) (__strnlen_sse2)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-avx2.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen.os) (__strlen_avx2)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-avx2.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen.os) (__strnlen_avx2)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy.os) (__stpcpy_sse2)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-ssse3.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy.os) (__stpcpy_ssse3)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2-unaligned.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy.os) (__stpcpy_sse2_unaligned)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2-no-bsf.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr.os) (__strchr_sse2_no_bsf)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-ssse3.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp.os) (__memcmp_ssse3)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-sse2.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn.os) (__strcspn_sse2)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-c.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn.os) (__strcspn_sse42)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(varshift.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-c.os) (___m128i_shift_right)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset.os) (__memset_avx512_no_vzeroupper)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mempcpy.os) (__mempcpy_sse2_unaligned)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx-unaligned-erms.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mempcpy.os) (__mempcpy_avx_unaligned)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mempcpy.os) (__mempcpy_avx512_unaligned)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-sse2-unaligned-erms.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset.os) (__memset_sse2_unaligned)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx2-unaligned-erms.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset.os) (__memset_avx2_unaligned)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-unaligned-erms.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset.os) (__memset_avx512_unaligned)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(cacheinfo.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3-back.os) (__x86_data_cache_size)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(closedir.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__closedir)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rewinddir.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__rewinddir)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(readdir64.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__readdir)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fdopendir.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__fdopendir)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(uname.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__uname)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(_exit.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__GI__exit)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getpid.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__getpid)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(environ.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__environ)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(xstat.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__GI___xstat64)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fxstat.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__GI___fxstat64)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lxstat.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__GI___lxstat64)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lseek64.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rewinddir.os) (__GI___lseek)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(access.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__access)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(close_nocancel.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__GI___close_nocancel)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fcntl_nocancel.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__GI___fcntl64_nocancel)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(open64_nocancel.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__GI___open64_nocancel)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(openat64_nocancel.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__GI___openat64_nocancel)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(read_nocancel.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__GI___read_nocancel)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(write_nocancel.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__GI___write_nocancel)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mmap64.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__mmap)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(munmap.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__munmap)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mprotect.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__mprotect)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(profil.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (__profil)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(prof-freq.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(profil.os) (__GI___profile_frequency)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc-lowlevellock.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rewinddir.os) (__lll_lock_wait_private)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc_multiple_threads.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rewinddir.os) (__libc_multiple_threads)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(dl-addr-obj.os)
+                              /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os (_dl_addr_inside_object)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(sigaction.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(profil.os) (__GI___sigaction)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setitimer.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(profil.os) (__setitimer)
+/home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getdents64.os)
+                              /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(readdir64.os) (__getdents64)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x0000000000000000                __stack_chk_fail = 0x0
+                0x0000000000000000                __stack_chk_fail_local = 0x0
+START GROUP
+LOAD /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+LOAD /home/holy/vscode_remote_setup/glibc-build/libc_pic.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/7/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.init
+ *(.rela.init)
+
+.rela.text
+ *(.rela.text)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rela.data
+ *(.rela.data)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.got
+ *(.rela.got)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.ldata
+ *(.rela.ldata)
+
+.rela.lbss
+ *(.rela.lbss)
+
+.rela.lrodata
+ *(.rela.lrodata)
+
+.rela.ifunc
+ *(.rela.ifunc)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT_NONE(.init))
+
+.plt
+ *(.plt)
+ *(.iplt)
+
+.plt.got
+ *(.plt.got)
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000000000    0x1f1dc
+ *(.text .stub)
+ .text          0x0000000000000000    0x18b40 /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+                0x0000000000000000                _start
+                0x0000000000000008                _dl_start_user
+                0x0000000000001270                handle_ld_preload
+                0x00000000000068d0                _dl_dst_count
+                0x0000000000006970                _dl_dst_substitute
+                0x0000000000007130                _dl_init_paths
+                0x0000000000007430                _dl_map_object
+                0x0000000000007eb0                _dl_rtld_di_serinfo
+                0x0000000000008e00                _dl_lookup_symbol_x
+                0x0000000000009d20                _dl_setup_hash
+                0x0000000000009dd0                _dl_add_to_namespace_list
+                0x0000000000009e60                _dl_new_object
+                0x000000000000a1d0                _dl_try_allocate_static_tls
+                0x000000000000a2b0                _dl_allocate_static_tls
+                0x000000000000a2e0                _dl_nothread_init_static_tls
+                0x000000000000a320                _dl_protect_relro
+                0x000000000000a390                _dl_reloc_bad_type
+                0x000000000000a460                _dl_relocate_object
+                0x000000000000be90                _dl_map_object_deps
+                0x000000000000cee0                _dl_important_hwcaps
+                0x000000000000d6a0                _dl_fixup
+                0x000000000000d860                _dl_profile_fixup
+                0x000000000000de50                _dl_call_pltexit
+                0x000000000000e070                _dl_init
+                0x000000000000e1b0                _dl_fini
+                0x000000000000e590                _dl_debug_state
+                0x000000000000e590                __GI__dl_debug_state
+                0x000000000000e5a0                _dl_debug_initialize
+                0x000000000000ec30                _dl_sysdep_read_whole_file
+                0x000000000000ecc0                _dl_debug_printf
+                0x000000000000ed70                _dl_debug_printf_c
+                0x000000000000ee20                _dl_dprintf
+                0x000000000000eec0                _dl_name_match_p
+                0x000000000000ef30                _dl_higher_prime_number
+                0x000000000000efb0                _dl_strtoul
+                0x000000000000f120                _dl_check_map_versions
+                0x000000000000f880                _dl_check_all_versions
+                0x000000000000f8f0                _dl_start_profile
+                0x0000000000010050                __GI__dl_mcount
+                0x0000000000010050                _dl_mcount
+                0x00000000000105a0                _dl_next_tls_modid
+                0x00000000000106a0                _dl_count_modids
+                0x0000000000010710                _dl_determine_tlsoffset
+                0x00000000000108d0                _dl_get_tls_static_info
+                0x00000000000108f0                _dl_allocate_tls_storage
+                0x00000000000109b0                __GI__dl_allocate_tls_init
+                0x00000000000109b0                _dl_allocate_tls_init
+                0x0000000000010c30                __GI__dl_allocate_tls
+                0x0000000000010c30                _dl_allocate_tls
+                0x0000000000010c70                _dl_deallocate_tls
+                0x0000000000010c70                __GI__dl_deallocate_tls
+                0x0000000000010cf0                _dl_update_slotinfo
+                0x0000000000010f60                __GI___tls_get_addr
+                0x0000000000010f60                ___tls_get_addr
+                0x0000000000010fa0                _dl_tls_get_addr_soft
+                0x0000000000011020                _dl_add_to_slotinfo
+                0x0000000000011110                __tls_get_addr_slow
+                0x0000000000011140                _dl_get_origin
+                0x00000000000112e0                _dl_scope_free
+                0x00000000000113b0                _dl_make_stack_executable
+                0x00000000000113b0                __GI__dl_make_stack_executable
+                0x0000000000011620                __GI__dl_find_dso_for_object
+                0x0000000000011620                _dl_find_dso_for_object
+                0x00000000000116f0                _dl_open
+                0x0000000000011a10                _dl_show_scope
+                0x0000000000012420                _dl_close_worker
+                0x0000000000013460                _dl_close
+                0x00000000000134d0                _dl_runtime_profile_avx512
+                0x0000000000013950                _dl_runtime_profile_avx
+                0x0000000000013dd0                _dl_runtime_profile_sse
+                0x0000000000013fd0                _dl_runtime_resolve_fxsave
+                0x0000000000014050                _dl_runtime_resolve_xsave
+                0x0000000000014120                _dl_runtime_resolve_xsavec
+                0x0000000000014210                _dl_exception_create
+                0x0000000000014210                __GI__dl_exception_create
+                0x0000000000014310                __GI__dl_exception_create_format
+                0x0000000000014310                _dl_exception_create_format
+                0x0000000000014630                _dl_exception_free
+                0x0000000000014630                __GI__dl_exception_free
+                0x0000000000014660                _dl_sort_maps
+                0x0000000000014940                _dl_cache_libcmp
+                0x0000000000014a10                _dl_load_cache_lookup
+                0x0000000000015090                _dl_unload_cache
+                0x0000000000015190                __tunable_set_val
+                0x00000000000151b0                __GI___tunables_init
+                0x0000000000015670                __tunable_get_val
+                0x0000000000015670                __GI___tunable_get_val
+                0x00000000000156d0                _dl_make_tlsdesc_dynamic
+                0x00000000000159d0                _dl_tlsdesc_resolve_rela_fixup
+                0x0000000000015b90                _dl_tlsdesc_resolve_hold_fixup
+                0x0000000000015bd0                _dl_unmap
+                0x0000000000015c50                _dl_tlsdesc_return
+                0x0000000000015c60                _dl_tlsdesc_undefweak
+                0x0000000000015c70                _dl_tlsdesc_dynamic
+                0x0000000000015d10                _dl_tlsdesc_resolve_rela
+                0x0000000000015d80                _dl_tlsdesc_resolve_hold
+                0x0000000000015e00                __tls_get_addr
+                0x0000000000015e40                __get_cpu_features
+                0x0000000000015e50                _dl_tunable_set_hwcaps
+                0x0000000000016dc0                _dl_sysdep_start
+                0x0000000000017590                _dl_sysdep_start_cleanup
+                0x00000000000175a0                _dl_show_auxv
+                0x0000000000017720                _dl_discover_osversion
+                0x0000000000017900                _dl_next_ld_env_entry
+                0x0000000000017950                unsetenv
+                0x00000000000179c0                malloc
+                0x0000000000017af0                calloc
+                0x0000000000017b30                free
+                0x0000000000017b70                __sigjmp_save
+                0x0000000000017b80                __strerror_r
+                0x0000000000017c60                __GI___libc_fatal
+                0x0000000000017c60                __libc_fatal
+                0x0000000000017c90                __GI___chk_fail
+                0x0000000000017c90                __chk_fail
+                0x0000000000017ca0                __GI___assert_fail
+                0x0000000000017ca0                __assert_fail
+                0x0000000000017cf0                realloc
+                0x0000000000017d80                __GI___assert_perror_fail
+                0x0000000000017d80                __assert_perror_fail
+                0x0000000000017df0                _itoa
+                0x0000000000017e40                __strsep
+                0x0000000000017e40                strsep
+                0x0000000000017e40                __strsep_g
+                0x0000000000017f80                _dl_signal_exception
+                0x0000000000017fd0                _dl_signal_error
+                0x0000000000018020                _dl_signal_cexception
+                0x00000000000180a0                _dl_signal_cerror
+                0x0000000000018130                _dl_catch_exception
+                0x00000000000181e0                _dl_catch_error
+                0x0000000000018230                _dl_receive_error
+                0x0000000000018270                _dl_resolve_conflicts
+                0x00000000000183e0                __brk
+                0x00000000000183e0                brk
+                0x0000000000018430                sbrk
+                0x0000000000018430                __sbrk
+                0x00000000000184c0                __getcwd
+                0x00000000000184c0                getcwd
+                0x00000000000188f0                openat64
+                0x0000000000018950                __alloc_dir
+                0x0000000000018a50                __opendir
+                0x0000000000018a50                opendir
+                0x0000000000018af0                __fxstatat
+                0x0000000000018af0                __fxstatat64
+                0x0000000000018af0                __GI___fxstatat64
+ .text          0x0000000000018b40       0xe2 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(check_fds.os)
+                0x0000000000018bf0                __libc_check_standard_fds
+ .text          0x0000000000018c22        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(errno.os)
+ *fill*         0x0000000000018c22        0xe 
+ .text          0x0000000000018c30       0x57 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setjmp.os)
+                0x0000000000018c30                __sigsetjmp
+                0x0000000000018c30                __GI___sigsetjmp
+ *fill*         0x0000000000018c87        0x9 
+ .text          0x0000000000018c90       0x50 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(__longjmp.os)
+                0x0000000000018c90                __longjmp
+ .text          0x0000000000018ce0       0xb8 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(scratch_buffer_set_array_size.os)
+                0x0000000000018ce0                __libc_scratch_buffer_set_array_size
+                0x0000000000018ce0                __GI___libc_scratch_buffer_set_array_size
+ *fill*         0x0000000000018d98        0x8 
+ .text          0x0000000000018da0       0x3b /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr.os)
+                0x0000000000018da0                __GI_strchr
+                0x0000000000018da0                index
+                0x0000000000018da0                strchr
+ *fill*         0x0000000000018ddb        0x5 
+ .text          0x0000000000018de0       0x48 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp.os)
+                0x0000000000018de0                __GI_strcmp
+                0x0000000000018de0                strcmp
+ *fill*         0x0000000000018e28        0x8 
+ .text          0x0000000000018e30       0x1e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn.os)
+                0x0000000000018e30                strcspn
+                0x0000000000018e30                __GI_strcspn
+ *fill*         0x0000000000018e4e        0x2 
+ .text          0x0000000000018e50       0x41 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strdup.os)
+                0x0000000000018e50                __GI___strdup
+                0x0000000000018e50                __strdup
+                0x0000000000018e50                strdup
+ *fill*         0x0000000000018e91        0xf 
+ .text          0x0000000000018ea0       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen.os)
+                0x0000000000018ea0                strlen
+                0x0000000000018ea0                __GI_strlen
+ *fill*         0x0000000000018eca        0x6 
+ .text          0x0000000000018ed0       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen.os)
+                0x0000000000018ed0                __strnlen
+                0x0000000000018ed0                strnlen
+                0x0000000000018ed0                __GI___strnlen
+                0x0000000000018ed0                __GI_strnlen
+ *fill*         0x0000000000018efa        0x6 
+ .text          0x0000000000018f00       0x52 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp.os)
+                0x0000000000018f00                __GI_strncmp
+                0x0000000000018f00                strncmp
+ *fill*         0x0000000000018f52        0xe 
+ .text          0x0000000000018f60       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr.os)
+                0x0000000000018f60                __GI_memchr
+                0x0000000000018f60                memchr
+                0x0000000000018f60                __memchr
+ *fill*         0x0000000000018f8a        0x6 
+ .text          0x0000000000018f90       0x5e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp.os)
+                0x0000000000018f90                bcmp
+                0x0000000000018f90                __GI_memcmp
+                0x0000000000018f90                memcmp
+ *fill*         0x0000000000018fee        0x2 
+ .text          0x0000000000018ff0       0xca /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove.os)
+                0x0000000000018ff0                memmove
+                0x0000000000018ff0                __GI_memmove
+                0x0000000000018ff0                __libc_memmove
+ *fill*         0x00000000000190ba        0x6 
+ .text          0x00000000000190c0       0x99 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset.os)
+                0x00000000000190c0                __GI_memset
+                0x00000000000190c0                memset
+ *fill*         0x0000000000019159        0x7 
+ .text          0x0000000000019160       0xca /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mempcpy.os)
+                0x0000000000019160                mempcpy
+                0x0000000000019160                __GI_mempcpy
+                0x0000000000019160                __mempcpy
+                0x0000000000019160                __GI___mempcpy
+ *fill*         0x000000000001922a        0x6 
+ .text          0x0000000000019230       0x2f /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy.os)
+                0x0000000000019230                stpcpy
+                0x0000000000019230                __GI_stpcpy
+                0x0000000000019230                __stpcpy
+                0x0000000000019230                __GI___stpcpy
+ *fill*         0x000000000001925f        0x1 
+ .text          0x0000000000019260       0xca /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy.os)
+                0x0000000000019260                __GI_memcpy
+                0x0000000000019260                __new_memcpy
+                0x0000000000019260                memcpy@@GLIBC_2.14
+ *fill*         0x000000000001932a        0x6 
+ .text          0x0000000000019330       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr.os)
+                0x0000000000019330                __GI___rawmemchr
+                0x0000000000019330                __rawmemchr
+                0x0000000000019330                rawmemchr
+ *fill*         0x000000000001935a        0x6 
+ .text          0x0000000000019360     0x1439 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2.os)
+                0x0000000000019360                __strcmp_sse2
+ *fill*         0x000000000001a799        0x7 
+ .text          0x000000000001a7a0      0x2a3 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2-unaligned.os)
+                0x000000000001a7a0                __strcmp_sse2_unaligned
+ .text          0x000000000001aa43        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-ssse3.os)
+ .text          0x000000000001aa43        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-avx2.os)
+ *fill*         0x000000000001aa43        0xd 
+ .text          0x000000000001aa50     0x1849 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse2.os)
+                0x000000000001aa50                __strncmp_sse2
+ .text          0x000000000001c299        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-ssse3.os)
+ .text          0x000000000001c299        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse4_2.os)
+ .text          0x000000000001c299        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-avx2.os)
+ *fill*         0x000000000001c299        0x7 
+ .text          0x000000000001c2a0      0x323 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-sse2.os)
+                0x000000000001c2a0                __memchr_sse2
+ *fill*         0x000000000001c5c3        0xd 
+ .text          0x000000000001c5d0      0x1f9 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-sse2.os)
+                0x000000000001c5d0                __rawmemchr_sse2
+ .text          0x000000000001c7c9        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-avx2.os)
+ .text          0x000000000001c7c9        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-avx2.os)
+ *fill*         0x000000000001c7c9        0x7 
+ .text          0x000000000001c7d0      0x400 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse2.os)
+                0x000000000001c7d0                __memcmp_sse2
+ .text          0x000000000001cbd0        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-avx2-movbe.os)
+ .text          0x000000000001cbd0        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse4.os)
+ .text          0x000000000001cbd0        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3.os)
+ .text          0x000000000001cbd0        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3.os)
+ .text          0x000000000001cbd0        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3-back.os)
+ .text          0x000000000001cbd0        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .text          0x000000000001cbd0        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .text          0x000000000001cbd0      0x21a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2.os)
+                0x000000000001cbd0                __strchr_sse2
+ .text          0x000000000001cdea        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-avx2.os)
+ *fill*         0x000000000001cdea        0x6 
+ .text          0x000000000001cdf0      0x19c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-sse2.os)
+                0x000000000001cdf0                __strlen_sse2
+                0x000000000001cdf0                __GI___strlen_sse2
+ *fill*         0x000000000001cf8c        0x4 
+ .text          0x000000000001cf90      0x218 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-sse2.os)
+                0x000000000001cf90                __strnlen_sse2
+ .text          0x000000000001d1a8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-avx2.os)
+ .text          0x000000000001d1a8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-avx2.os)
+ *fill*         0x000000000001d1a8        0x8 
+ .text          0x000000000001d1b0       0xdc /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2.os)
+                0x000000000001d1b0                __stpcpy_sse2
+ .text          0x000000000001d28c        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-ssse3.os)
+ *fill*         0x000000000001d28c        0x4 
+ .text          0x000000000001d290      0x6b0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2-unaligned.os)
+                0x000000000001d290                __stpcpy_sse2_unaligned
+ .text          0x000000000001d940        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .text          0x000000000001d940        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-ssse3.os)
+ .text          0x000000000001d940       0x97 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-sse2.os)
+                0x000000000001d940                __strcspn_sse2
+ .text          0x000000000001d9d7        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-c.os)
+ .text          0x000000000001d9d7        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(varshift.os)
+ .text          0x000000000001d9d7        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ *fill*         0x000000000001d9d7        0x9 
+ .text          0x000000000001d9e0      0x3e9 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+                0x000000000001d9e0                __mempcpy_chk_sse2_unaligned
+                0x000000000001d9f0                __mempcpy_sse2_unaligned
+                0x000000000001da00                __memcpy_chk_sse2_unaligned
+                0x000000000001da00                __memmove_chk_sse2_unaligned
+                0x000000000001da10                __memmove_sse2_unaligned
+                0x000000000001da10                __memcpy_sse2_unaligned
+                0x000000000001da10                memcpy@GLIBC_2.2.5
+                0x000000000001da40                __mempcpy_chk_erms
+                0x000000000001da50                __mempcpy_erms
+                0x000000000001da60                __memcpy_chk_erms
+                0x000000000001da60                __memmove_chk_erms
+                0x000000000001da70                __memmove_erms
+                0x000000000001da70                __memcpy_erms
+                0x000000000001daa0                __mempcpy_chk_sse2_unaligned_erms
+                0x000000000001dab0                __mempcpy_sse2_unaligned_erms
+                0x000000000001dac0                __memmove_chk_sse2_unaligned_erms
+                0x000000000001dac0                __memcpy_chk_sse2_unaligned_erms
+                0x000000000001dad0                __memmove_sse2_unaligned_erms
+                0x000000000001dad0                __memcpy_sse2_unaligned_erms
+ .text          0x000000000001ddc9        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .text          0x000000000001ddc9        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ *fill*         0x000000000001ddc9        0x7 
+ .text          0x000000000001ddd0      0x1b3 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-sse2-unaligned-erms.os)
+                0x000000000001ddd0                __bzero
+                0x000000000001ddd0                bzero
+                0x000000000001dde0                __wmemset_chk_sse2_unaligned
+                0x000000000001ddf0                __wmemset_sse2_unaligned
+                0x000000000001de10                __memset_chk_sse2_unaligned
+                0x000000000001de20                __memset_sse2_unaligned
+                0x000000000001de60                __memset_chk_erms
+                0x000000000001de70                __memset_erms
+                0x000000000001de90                __memset_chk_sse2_unaligned_erms
+                0x000000000001dea0                __memset_sse2_unaligned_erms
+ .text          0x000000000001df83        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .text          0x000000000001df83        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ *fill*         0x000000000001df83        0xd 
+ .text          0x000000000001df90      0x5ad /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(cacheinfo.os)
+                0x000000000001e510                __cache_sysconf
+ *fill*         0x000000000001e53d        0x3 
+ .text          0x000000000001e540       0x2c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(closedir.os)
+                0x000000000001e540                __closedir
+                0x000000000001e540                closedir
+ *fill*         0x000000000001e56c        0x4 
+ .text          0x000000000001e570       0x93 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rewinddir.os)
+                0x000000000001e570                rewinddir
+                0x000000000001e570                __rewinddir
+                0x000000000001e570                __GI___rewinddir
+ *fill*         0x000000000001e603        0xd 
+ .text          0x000000000001e610      0x100 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(readdir64.os)
+                0x000000000001e610                readdir
+                0x000000000001e610                __readdir64
+                0x000000000001e610                __readdir
+                0x000000000001e610                __GI___readdir64
+                0x000000000001e610                readdir64
+ .text          0x000000000001e710       0xa2 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fdopendir.os)
+                0x000000000001e710                fdopendir
+                0x000000000001e710                __fdopendir
+ *fill*         0x000000000001e7b2        0xe 
+ .text          0x000000000001e7c0       0x21 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(uname.os)
+                0x000000000001e7c0                uname
+                0x000000000001e7c0                __GI_uname
+                0x000000000001e7c0                __uname
+                0x000000000001e7c0                __GI___uname
+ *fill*         0x000000000001e7e1        0xf 
+ .text          0x000000000001e7f0       0x58 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(_exit.os)
+                0x000000000001e7f0                _Exit
+                0x000000000001e7f0                __GI__exit
+                0x000000000001e7f0                _exit
+ *fill*         0x000000000001e848        0x8 
+ .text          0x000000000001e850        0x8 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getpid.os)
+                0x000000000001e850                __getpid
+                0x000000000001e850                getpid
+                0x000000000001e850                __GI_getpid
+                0x000000000001e850                __GI___getpid
+ .text          0x000000000001e858        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(environ.os)
+ *fill*         0x000000000001e858        0x8 
+ .text          0x000000000001e860       0x4c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(xstat.os)
+                0x000000000001e860                _xstat
+                0x000000000001e860                __xstat64
+                0x000000000001e860                __GI___xstat64
+                0x000000000001e860                __GI___xstat
+                0x000000000001e860                __xstat
+ *fill*         0x000000000001e8ac        0x4 
+ .text          0x000000000001e8b0       0x4c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fxstat.os)
+                0x000000000001e8b0                __GI___fxstat
+                0x000000000001e8b0                __GI___fxstat64
+                0x000000000001e8b0                __fxstat64
+                0x000000000001e8b0                _fxstat
+                0x000000000001e8b0                __fxstat
+ *fill*         0x000000000001e8fc        0x4 
+ .text          0x000000000001e900       0x4c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lxstat.os)
+                0x000000000001e900                __GI___lxstat
+                0x000000000001e900                _lxstat
+                0x000000000001e900                __lxstat
+                0x000000000001e900                __lxstat64
+                0x000000000001e900                __GI___lxstat64
+ *fill*         0x000000000001e94c        0x4 
+ .text          0x000000000001e950       0x2c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lseek64.os)
+                0x000000000001e950                __compat_llseek
+                0x000000000001e950                __GI___lseek
+                0x000000000001e950                __lseek64
+                0x000000000001e950                lseek
+                0x000000000001e950                __libc_lseek64
+                0x000000000001e950                llseek@GLIBC_2.2.5
+                0x000000000001e950                __lseek
+                0x000000000001e950                __libc_lseek
+                0x000000000001e950                lseek64
+ *fill*         0x000000000001e97c        0x4 
+ .text          0x000000000001e980       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(access.os)
+                0x000000000001e980                access
+                0x000000000001e980                __access
+ *fill*         0x000000000001e9aa        0x6 
+ .text          0x000000000001e9b0       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(close_nocancel.os)
+                0x000000000001e9b0                __GI___close_nocancel
+                0x000000000001e9b0                __close_nocancel
+ *fill*         0x000000000001e9da        0x6 
+ .text          0x000000000001e9e0       0x8f /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fcntl_nocancel.os)
+                0x000000000001e9e0                __fcntl64_nocancel_adjusted
+                0x000000000001ea40                __fcntl64_nocancel
+                0x000000000001ea40                __GI___fcntl64_nocancel
+ *fill*         0x000000000001ea6f        0x1 
+ .text          0x000000000001ea70       0x7a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(open64_nocancel.os)
+                0x000000000001ea70                __GI___open_nocancel
+                0x000000000001ea70                __open_nocancel
+                0x000000000001ea70                __GI___open64_nocancel
+                0x000000000001ea70                __open64_nocancel
+ *fill*         0x000000000001eaea        0x6 
+ .text          0x000000000001eaf0       0x6a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(openat64_nocancel.os)
+                0x000000000001eaf0                __GI___openat64_nocancel
+                0x000000000001eaf0                __openat64_nocancel
+                0x000000000001eaf0                __GI___openat_nocancel
+                0x000000000001eaf0                __openat_nocancel
+ *fill*         0x000000000001eb5a        0x6 
+ .text          0x000000000001eb60       0x24 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(read_nocancel.os)
+                0x000000000001eb60                __read_nocancel
+                0x000000000001eb60                __GI___read_nocancel
+ *fill*         0x000000000001eb84        0xc 
+ .text          0x000000000001eb90       0x2c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(write_nocancel.os)
+                0x000000000001eb90                __GI___write_nocancel
+                0x000000000001eb90                __write_nocancel
+ *fill*         0x000000000001ebbc        0x4 
+ .text          0x000000000001ebc0       0xe0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mmap64.os)
+                0x000000000001ebc0                __GI___mmap
+                0x000000000001ebc0                __mmap
+                0x000000000001ebc0                mmap
+                0x000000000001ebc0                __GI___mmap64
+                0x000000000001ebc0                __mmap64
+                0x000000000001ebc0                mmap64
+ .text          0x000000000001eca0       0x21 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(munmap.os)
+                0x000000000001eca0                munmap
+                0x000000000001eca0                __GI___munmap
+                0x000000000001eca0                __GI_munmap
+                0x000000000001eca0                __munmap
+ *fill*         0x000000000001ecc1        0xf 
+ .text          0x000000000001ecd0       0x21 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mprotect.os)
+                0x000000000001ecd0                __mprotect
+                0x000000000001ecd0                __GI___mprotect
+                0x000000000001ecd0                __GI_mprotect
+                0x000000000001ecd0                mprotect
+ *fill*         0x000000000001ecf1        0xf 
+ .text          0x000000000001ed00      0x1c1 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(profil.os)
+                0x000000000001ed50                __profil
+                0x000000000001ed50                profil
+ *fill*         0x000000000001eec1        0xf 
+ .text          0x000000000001eed0        0xb /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(prof-freq.os)
+                0x000000000001eed0                __GI___profile_frequency
+                0x000000000001eed0                __profile_frequency
+ *fill*         0x000000000001eedb        0x5 
+ .text          0x000000000001eee0       0x4c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc-lowlevellock.os)
+                0x000000000001eee0                __lll_lock_wait_private
+                0x000000000001ef10                __lll_unlock_wake_private
+ .text          0x000000000001ef2c        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc_multiple_threads.os)
+ *fill*         0x000000000001ef2c        0x4 
+ .text          0x000000000001ef30       0x53 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(dl-addr-obj.os)
+                0x000000000001ef30                _dl_addr_inside_object
+ *fill*         0x000000000001ef83        0xd 
+ .text          0x000000000001ef90      0x1ec /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(sigaction.os)
+                0x000000000001efb0                __libc_sigaction
+                0x000000000001efb0                __GI___libc_sigaction
+                0x000000000001f150                sigaction
+                0x000000000001f150                __GI___sigaction
+                0x000000000001f150                __sigaction
+ *fill*         0x000000000001f17c        0x4 
+ .text          0x000000000001f180       0x21 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setitimer.os)
+                0x000000000001f180                setitimer
+                0x000000000001f180                __setitimer
+                0x000000000001f180                __GI_setitimer
+                0x000000000001f180                __GI___setitimer
+ *fill*         0x000000000001f1a1        0xf 
+ .text          0x000000000001f1b0       0x2c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getdents64.os)
+                0x000000000001f1b0                __getdents
+                0x000000000001f1b0                __getdents64
+ *(.gnu.warning)
+
+.text.unlikely  0x0000000000000000      0x172
+ .text.unlikely
+                0x0000000000000000      0x172 /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+
+.text.ssse3     0x0000000000000000     0xed43
+ .text.ssse3    0x0000000000000000     0x1259 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-ssse3.os)
+                0x0000000000000000                __GI___strcmp_ssse3
+                0x0000000000000000                __strcmp_ssse3
+ *fill*         0x0000000000001259        0x7 
+ .text.ssse3    0x0000000000001260     0x1759 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-ssse3.os)
+                0x0000000000001260                __strncmp_ssse3
+ *fill*         0x00000000000029b9        0x7 
+ .text.ssse3    0x00000000000029c0     0x29e6 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3.os)
+                0x00000000000029c0                __mempcpy_chk_ssse3
+                0x00000000000029d0                __mempcpy_ssse3
+                0x00000000000029e0                __memcpy_chk_ssse3
+                0x00000000000029f0                __memcpy_ssse3
+ *fill*         0x00000000000053a6        0xa 
+ .text.ssse3    0x00000000000053b0     0x2b77 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3.os)
+                0x00000000000053b0                __memmove_chk_ssse3
+                0x00000000000053c0                __memmove_ssse3
+ *fill*         0x0000000000007f27        0x9 
+ .text.ssse3    0x0000000000007f30     0x2ae6 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3-back.os)
+                0x0000000000007f30                __mempcpy_chk_ssse3_back
+                0x0000000000007f40                __mempcpy_ssse3_back
+                0x0000000000007f50                __memcpy_chk_ssse3_back
+                0x0000000000007f60                __memcpy_ssse3_back
+ *fill*         0x000000000000aa16        0xa 
+ .text.ssse3    0x000000000000aa20     0x2b16 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3-back.os)
+                0x000000000000aa20                __memmove_chk_ssse3_back
+                0x000000000000aa30                __memmove_ssse3_back
+ *fill*         0x000000000000d536        0xa 
+ .text.ssse3    0x000000000000d540     0x1803 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-ssse3.os)
+                0x000000000000d540                __stpcpy_ssse3
+
+.text.avx       0x0000000000000000     0x1e3b
+ .text.avx      0x0000000000000000      0x43f /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-avx2.os)
+                0x0000000000000000                __strcmp_avx2
+ *fill*         0x000000000000043f        0x1 
+ .text.avx      0x0000000000000440      0x508 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-avx2.os)
+                0x0000000000000440                __strncmp_avx2
+ *fill*         0x0000000000000948        0x8 
+ .text.avx      0x0000000000000950      0x2cd /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-avx2.os)
+                0x0000000000000950                __memchr_avx2
+ *fill*         0x0000000000000c1d        0x3 
+ .text.avx      0x0000000000000c20      0x13d /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-avx2.os)
+                0x0000000000000c20                __rawmemchr_avx2
+ *fill*         0x0000000000000d5d        0x3 
+ .text.avx      0x0000000000000d60      0x3d4 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-avx2-movbe.os)
+                0x0000000000000d60                __memcmp_avx2_movbe
+ *fill*         0x0000000000001134        0xc 
+ .text.avx      0x0000000000001140      0x224 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-avx2.os)
+                0x0000000000001140                __strchr_avx2
+ *fill*         0x0000000000001364        0xc 
+ .text.avx      0x0000000000001370      0x18e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-avx2.os)
+                0x0000000000001370                __strlen_avx2
+ *fill*         0x00000000000014fe        0x2 
+ .text.avx      0x0000000000001500      0x31e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-avx2.os)
+                0x0000000000001500                __strnlen_avx2
+ *fill*         0x000000000000181e        0x2 
+ .text.avx      0x0000000000001820      0x464 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx-unaligned-erms.os)
+                0x0000000000001820                __mempcpy_chk_avx_unaligned
+                0x0000000000001830                __mempcpy_avx_unaligned
+                0x0000000000001840                __memcpy_chk_avx_unaligned
+                0x0000000000001840                __memmove_chk_avx_unaligned
+                0x0000000000001850                __memcpy_avx_unaligned
+                0x0000000000001850                __memmove_avx_unaligned
+                0x0000000000001880                __mempcpy_chk_avx_unaligned_erms
+                0x0000000000001890                __mempcpy_avx_unaligned_erms
+                0x00000000000018a0                __memmove_chk_avx_unaligned_erms
+                0x00000000000018a0                __memcpy_chk_avx_unaligned_erms
+                0x00000000000018b0                __memcpy_avx_unaligned_erms
+                0x00000000000018b0                __memmove_avx_unaligned_erms
+ *fill*         0x0000000000001c84        0xc 
+ .text.avx      0x0000000000001c90      0x1ab /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx2-unaligned-erms.os)
+                0x0000000000001c90                __wmemset_chk_avx2_unaligned
+                0x0000000000001ca0                __wmemset_avx2_unaligned
+                0x0000000000001cc0                __memset_chk_avx2_unaligned
+                0x0000000000001cd0                __memset_avx2_unaligned
+                0x0000000000001d00                __memset_avx2_erms
+                0x0000000000001d20                __memset_chk_avx2_unaligned_erms
+                0x0000000000001d30                __memset_avx2_unaligned_erms
+
+.text.sse4.2    0x0000000000000000     0x1111
+ .text.sse4.2   0x0000000000000000      0xfd9 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse4_2.os)
+                0x0000000000000000                __strncmp_sse42
+ *fill*         0x0000000000000fd9        0x7 
+ .text.sse4.2   0x0000000000000fe0      0x131 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-c.os)
+                0x0000000000000fe0                __strcspn_sse42
+
+.text.sse4.1    0x0000000000000000     0x163e
+ .text.sse4.1   0x0000000000000000     0x163e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse4.os)
+                0x0000000000000000                __memcmp_sse4_1
+
+.text.avx512    0x0000000000000000     0x1171
+ .text.avx512   0x0000000000000000      0x76b /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+                0x0000000000000000                __mempcpy_chk_avx512_no_vzeroupper
+                0x0000000000000010                __mempcpy_avx512_no_vzeroupper
+                0x0000000000000020                __memcpy_chk_avx512_no_vzeroupper
+                0x0000000000000020                __memmove_chk_avx512_no_vzeroupper
+                0x0000000000000030                __memcpy_avx512_no_vzeroupper
+                0x0000000000000030                __memmove_avx512_no_vzeroupper
+ *fill*         0x000000000000076b        0x5 
+ .text.avx512   0x0000000000000770      0x280 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+                0x0000000000000770                __memset_chk_avx512_no_vzeroupper
+                0x0000000000000780                __memset_avx512_no_vzeroupper
+ .text.avx512   0x00000000000009f0      0x57c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+                0x00000000000009f0                __mempcpy_chk_avx512_unaligned
+                0x0000000000000a00                __mempcpy_avx512_unaligned
+                0x0000000000000a10                __memcpy_chk_avx512_unaligned
+                0x0000000000000a10                __memmove_chk_avx512_unaligned
+                0x0000000000000a20                __memmove_avx512_unaligned
+                0x0000000000000a20                __memcpy_avx512_unaligned
+                0x0000000000000a60                __mempcpy_chk_avx512_unaligned_erms
+                0x0000000000000a70                __mempcpy_avx512_unaligned_erms
+                0x0000000000000a80                __memcpy_chk_avx512_unaligned_erms
+                0x0000000000000a80                __memmove_chk_avx512_unaligned_erms
+                0x0000000000000a90                __memmove_avx512_unaligned_erms
+                0x0000000000000a90                __memcpy_avx512_unaligned_erms
+ *fill*         0x0000000000000f6c        0x4 
+ .text.avx512   0x0000000000000f70      0x201 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-unaligned-erms.os)
+                0x0000000000000f70                __wmemset_chk_avx512_unaligned
+                0x0000000000000f80                __wmemset_avx512_unaligned
+                0x0000000000000fa0                __memset_chk_avx512_unaligned
+                0x0000000000000fb0                __memset_avx512_unaligned
+                0x0000000000000ff0                __memset_avx512_erms
+                0x0000000000001010                __memset_chk_avx512_unaligned_erms
+                0x0000000000001020                __memset_avx512_unaligned_erms
+
+.text.atom      0x0000000000000000     0x1a83
+ .text.atom     0x0000000000000000      0x315 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2-no-bsf.os)
+                0x0000000000000000                __strchr_sse2_no_bsf
+ *fill*         0x0000000000000315        0xb 
+ .text.atom     0x0000000000000320     0x1763 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-ssse3.os)
+                0x0000000000000320                __memcmp_ssse3
+
+.text.startup   0x0000000000000000      0x497
+ .text.startup  0x0000000000000000      0x497 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(cacheinfo.os)
+
+.fini
+ *(SORT_NONE(.fini))
+
+.rodata         0x0000000000000000     0x11e0
+ *(.rodata)
+ .rodata        0x0000000000000000      0xd48 /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+                0x0000000000000ca0                __GI__itoa_lower_digits
+                0x0000000000000ca0                _itoa_lower_digits
+ .rodata        0x0000000000000d48       0x40 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2.os)
+ .rodata        0x0000000000000d88       0x40 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-ssse3.os)
+ .rodata        0x0000000000000dc8       0x40 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse2.os)
+ .rodata        0x0000000000000e08       0x40 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-ssse3.os)
+ .rodata        0x0000000000000e48       0x80 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ *fill*         0x0000000000000ec8        0x8 
+ .rodata        0x0000000000000ed0       0x1f /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(varshift.os)
+                0x0000000000000ed0                ___m128i_shift_right
+ *fill*         0x0000000000000eef       0x11 
+ .rodata        0x0000000000000f00      0x2e0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(cacheinfo.os)
+
+.rodata.str1.1  0x0000000000000000     0x124b
+ .rodata.str1.1
+                0x0000000000000000     0x11fe /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+ .rodata.str1.1
+                0x00000000000011fe       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(check_fds.os)
+ .rodata.str1.1
+                0x0000000000001212       0x39 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(cacheinfo.os)
+
+.rodata.str1.8  0x0000000000000000     0x2553
+ .rodata.str1.8
+                0x0000000000000000     0x2541 /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+ *fill*         0x0000000000002541        0x7 
+ .rodata.str1.8
+                0x0000000000002548        0xb /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(cacheinfo.os)
+
+.rodata.str1.16
+                0x0000000000000000      0x361
+ .rodata.str1.16
+                0x0000000000000000      0x346 /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+ *fill*         0x0000000000000346        0xa 
+ .rodata.str1.16
+                0x0000000000000350       0x11 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(cacheinfo.os)
+
+.rodata.cst16   0x0000000000000000       0x20
+ .rodata.cst16  0x0000000000000000       0x20 /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+
+.rodata.cst4    0x0000000000000000        0x4
+ .rodata.cst4   0x0000000000000000        0x4 /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+
+.rodata.str1.32
+                0x0000000000000000       0x3b
+ .rodata.str1.32
+                0x0000000000000000       0x3b /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+
+.rodata.sse4.2  0x0000000000000000       0x40
+ .rodata.sse4.2
+                0x0000000000000000       0x40 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse4_2.os)
+
+.rodata.sse4.1  0x0000000000000000      0x140
+ .rodata.sse4.1
+                0x0000000000000000      0x140 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse4.os)
+
+.rodata.ssse3   0x0000000000000000      0xd80
+ .rodata.ssse3  0x0000000000000000      0x1c0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3.os)
+ .rodata.ssse3  0x00000000000001c0      0x1c0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3.os)
+ .rodata.ssse3  0x0000000000000380      0x500 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3-back.os)
+ .rodata.ssse3  0x0000000000000880      0x500 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3-back.os)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x3d54
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x2480 /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+                                       0x24c4 (size before relaxing)
+ *fill*         0x0000000000002480        0x0 
+ .eh_frame      0x0000000000002480       0x68 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(check_fds.os)
+ .eh_frame      0x00000000000024e8       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setjmp.os)
+ .eh_frame      0x0000000000002518       0x48 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(__longjmp.os)
+ .eh_frame      0x0000000000002560       0x60 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(scratch_buffer_set_array_size.os)
+ .eh_frame      0x00000000000025c0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr.os)
+ .eh_frame      0x00000000000025f0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp.os)
+ .eh_frame      0x0000000000002620       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn.os)
+ .eh_frame      0x0000000000002650       0x50 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strdup.os)
+ .eh_frame      0x00000000000026a0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen.os)
+ .eh_frame      0x00000000000026d0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen.os)
+ .eh_frame      0x0000000000002700       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp.os)
+ .eh_frame      0x0000000000002730       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr.os)
+ .eh_frame      0x0000000000002760       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp.os)
+ .eh_frame      0x0000000000002790       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove.os)
+ .eh_frame      0x00000000000027c0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset.os)
+ .eh_frame      0x00000000000027f0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mempcpy.os)
+ .eh_frame      0x0000000000002820       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy.os)
+ .eh_frame      0x0000000000002850       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy.os)
+ .eh_frame      0x0000000000002880       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr.os)
+ .eh_frame      0x00000000000028b0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2.os)
+ .eh_frame      0x00000000000028e0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .eh_frame      0x0000000000002910       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-ssse3.os)
+ .eh_frame      0x0000000000002940       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-avx2.os)
+ .eh_frame      0x0000000000002970       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse2.os)
+ .eh_frame      0x00000000000029a0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-ssse3.os)
+ .eh_frame      0x00000000000029d0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse4_2.os)
+ .eh_frame      0x0000000000002a00       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-avx2.os)
+ .eh_frame      0x0000000000002a30       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-sse2.os)
+ .eh_frame      0x0000000000002a60       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-sse2.os)
+ .eh_frame      0x0000000000002a90       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-avx2.os)
+ .eh_frame      0x0000000000002ac0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-avx2.os)
+ .eh_frame      0x0000000000002af0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse2.os)
+ .eh_frame      0x0000000000002b20       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-avx2-movbe.os)
+ .eh_frame      0x0000000000002b50       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse4.os)
+ .eh_frame      0x0000000000002b80       0x68 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3.os)
+ .eh_frame      0x0000000000002be8       0x40 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3.os)
+ .eh_frame      0x0000000000002c28       0x68 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3-back.os)
+ .eh_frame      0x0000000000002c90       0x40 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .eh_frame      0x0000000000002cd0       0x68 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .eh_frame      0x0000000000002d38       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2.os)
+ .eh_frame      0x0000000000002d68       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-avx2.os)
+ .eh_frame      0x0000000000002d98       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-sse2.os)
+ .eh_frame      0x0000000000002dc8       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-sse2.os)
+ .eh_frame      0x0000000000002df8       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-avx2.os)
+ .eh_frame      0x0000000000002e28       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-avx2.os)
+ .eh_frame      0x0000000000002e58       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2.os)
+ .eh_frame      0x0000000000002e88       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-ssse3.os)
+ .eh_frame      0x0000000000002eb8       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .eh_frame      0x0000000000002ee8       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .eh_frame      0x0000000000002f18       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-ssse3.os)
+ .eh_frame      0x0000000000002f48       0x38 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-sse2.os)
+ .eh_frame      0x0000000000002f80       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-c.os)
+ .eh_frame      0x0000000000002fb0       0x40 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .eh_frame      0x0000000000002ff0      0x108 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+ .eh_frame      0x00000000000030f8       0xb8 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .eh_frame      0x00000000000031b0       0xb8 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .eh_frame      0x0000000000003268       0xd0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-sse2-unaligned-erms.os)
+ .eh_frame      0x0000000000003338       0xa8 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .eh_frame      0x00000000000033e0       0xa8 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .eh_frame      0x0000000000003488      0x198 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(cacheinfo.os)
+ .eh_frame      0x0000000000003620       0x38 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(closedir.os)
+ .eh_frame      0x0000000000003658       0x40 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rewinddir.os)
+ .eh_frame      0x0000000000003698       0x68 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(readdir64.os)
+ .eh_frame      0x0000000000003700       0x50 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fdopendir.os)
+ .eh_frame      0x0000000000003750       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(uname.os)
+ .eh_frame      0x0000000000003780       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(_exit.os)
+ .eh_frame      0x00000000000037b0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getpid.os)
+ .eh_frame      0x00000000000037e0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(xstat.os)
+ .eh_frame      0x0000000000003810       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fxstat.os)
+ .eh_frame      0x0000000000003840       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lxstat.os)
+ .eh_frame      0x0000000000003870       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lseek64.os)
+ .eh_frame      0x00000000000038a0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(access.os)
+ .eh_frame      0x00000000000038d0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(close_nocancel.os)
+ .eh_frame      0x0000000000003900       0x48 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fcntl_nocancel.os)
+ .eh_frame      0x0000000000003948       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(open64_nocancel.os)
+ .eh_frame      0x0000000000003978       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(openat64_nocancel.os)
+ .eh_frame      0x00000000000039a8       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(read_nocancel.os)
+ .eh_frame      0x00000000000039d8       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(write_nocancel.os)
+ .eh_frame      0x0000000000003a08       0x70 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mmap64.os)
+ .eh_frame      0x0000000000003a78       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(munmap.os)
+ .eh_frame      0x0000000000003aa8       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mprotect.os)
+ .eh_frame      0x0000000000003ad8       0x80 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(profil.os)
+ .eh_frame      0x0000000000003b58       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(prof-freq.os)
+ .eh_frame      0x0000000000003b88       0x60 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc-lowlevellock.os)
+ .eh_frame      0x0000000000003be8       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(dl-addr-obj.os)
+ .eh_frame      0x0000000000003c18       0xe0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(sigaction.os)
+                                         0xe8 (size before relaxing)
+ .eh_frame      0x0000000000003cf8       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setitimer.os)
+ .eh_frame      0x0000000000003d28       0x2c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getdents64.os)
+                                         0x30 (size before relaxing)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss           0x0000000000000000        0x4
+ *(.tbss)
+ .tbss          0x0000000000000000        0x4 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(errno.os)
+                0x0000000000000000                errno
+                0x0000000000000000                __libc_errno
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+ *(.igot)
+
+.got.plt
+ *(.got.plt)
+ *(.igot.plt)
+
+.data           0x0000000000000000      0xfd8
+ *(.data)
+ .data          0x0000000000000000      0xf98 /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(check_fds.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(errno.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setjmp.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(__longjmp.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(scratch_buffer_set_array_size.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strdup.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mempcpy.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-ssse3.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-avx2.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse2.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-ssse3.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse4_2.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-avx2.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-sse2.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-sse2.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-avx2.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-avx2.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse2.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-avx2-movbe.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse4.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3-back.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-avx2.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-sse2.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-sse2.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-avx2.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-avx2.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-ssse3.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-ssse3.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-sse2.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-c.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(varshift.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-sse2-unaligned-erms.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .data          0x0000000000000f98        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .data          0x0000000000000f98       0x40 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(cacheinfo.os)
+                0x0000000000000f98                __x86_raw_shared_cache_size
+                0x0000000000000fa0                __x86_raw_shared_cache_size_half
+                0x0000000000000fa8                __x86_shared_cache_size
+                0x0000000000000fb0                __x86_shared_cache_size_half
+                0x0000000000000fb8                __x86_raw_data_cache_size
+                0x0000000000000fc0                __x86_raw_data_cache_size_half
+                0x0000000000000fc8                __x86_data_cache_size
+                0x0000000000000fd0                __x86_data_cache_size_half
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(closedir.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rewinddir.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(readdir64.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fdopendir.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(uname.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(_exit.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getpid.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(environ.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(xstat.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fxstat.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lxstat.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lseek64.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(access.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(close_nocancel.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fcntl_nocancel.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(open64_nocancel.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(openat64_nocancel.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(read_nocancel.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(write_nocancel.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mmap64.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(munmap.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mprotect.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(profil.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(prof-freq.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc-lowlevellock.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc_multiple_threads.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(dl-addr-obj.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(sigaction.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setitimer.os)
+ .data          0x0000000000000fd8        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getdents64.os)
+
+.data.rel.ro    0x0000000000000000      0x834
+ .data.rel.ro   0x0000000000000000      0x834 /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+                0x00000000000000b0                __pointer_chk_guard_local
+                0x00000000000000b8                _dl_skip_args
+                0x00000000000000c0                __GI__dl_argv
+                0x00000000000000c0                _dl_argv
+                0x00000000000000c8                _dl_argc
+                0x00000000000000e0                _rtld_global_ro
+                0x00000000000000e0                _rtld_local_ro
+                0x00000000000002d0                __stack_prot
+                0x0000000000000820                _dl_random
+                0x0000000000000828                __libc_stack_end
+                0x0000000000000828                __GI___libc_stack_end
+                0x0000000000000830                __GI___libc_enable_secure
+                0x0000000000000830                __libc_enable_secure
+
+.init_array     0x0000000000000000        0x8
+ .init_array    0x0000000000000000        0x8 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(cacheinfo.os)
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000      0x200
+ *(.bss)
+ .bss           0x0000000000000000      0x118 /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+                0x00000000000000e0                __libc_multiple_libcs
+                0x0000000000000110                __curbrk
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(check_fds.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(errno.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setjmp.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(__longjmp.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(scratch_buffer_set_array_size.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strdup.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mempcpy.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-ssse3.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-avx2.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse2.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-ssse3.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse4_2.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-avx2.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-sse2.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-sse2.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-avx2.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-avx2.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse2.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-avx2-movbe.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse4.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3-back.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-avx2.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-sse2.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-sse2.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-avx2.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-avx2.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-ssse3.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-ssse3.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-sse2.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-c.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(varshift.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-sse2-unaligned-erms.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(cacheinfo.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(closedir.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rewinddir.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(readdir64.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fdopendir.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(uname.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(_exit.os)
+ .bss           0x0000000000000118        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getpid.os)
+ .bss           0x0000000000000118        0x8 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(environ.os)
+                0x0000000000000118                _environ
+                0x0000000000000118                __environ
+                0x0000000000000118                environ
+ .bss           0x0000000000000120        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(xstat.os)
+ .bss           0x0000000000000120        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fxstat.os)
+ .bss           0x0000000000000120        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lxstat.os)
+ .bss           0x0000000000000120        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lseek64.os)
+ .bss           0x0000000000000120        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(access.os)
+ .bss           0x0000000000000120        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(close_nocancel.os)
+ .bss           0x0000000000000120        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fcntl_nocancel.os)
+ .bss           0x0000000000000120        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(open64_nocancel.os)
+ .bss           0x0000000000000120        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(openat64_nocancel.os)
+ .bss           0x0000000000000120        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(read_nocancel.os)
+ .bss           0x0000000000000120        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(write_nocancel.os)
+ .bss           0x0000000000000120        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mmap64.os)
+ .bss           0x0000000000000120        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(munmap.os)
+ .bss           0x0000000000000120        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mprotect.os)
+ .bss           0x0000000000000120       0xe0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(profil.os)
+ .bss           0x0000000000000200        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(prof-freq.os)
+ .bss           0x0000000000000200        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc-lowlevellock.os)
+ .bss           0x0000000000000200        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc_multiple_threads.os)
+ .bss           0x0000000000000200        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(dl-addr-obj.os)
+ .bss           0x0000000000000200        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(sigaction.os)
+ .bss           0x0000000000000200        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setitimer.os)
+ .bss           0x0000000000000200        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getdents64.os)
+ *(COMMON)
+ COMMON         0x0000000000000200        0x0 /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+ COMMON         0x0000000000000200        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(cacheinfo.os)
+ COMMON         0x0000000000000200        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc_multiple_threads.os)
+
+.lbss
+ *(.dynlbss)
+ *(.lbss)
+ *(LARGE_COMMON)
+
+.lrodata
+ *(.lrodata)
+
+.ldata
+ *(.ldata)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0xd74
+ *(.comment)
+ .comment       0x0000000000000000      0x612 /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+ .comment       0x0000000000000612       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(check_fds.os)
+ .comment       0x000000000000063c       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(errno.os)
+ .comment       0x0000000000000666       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(scratch_buffer_set_array_size.os)
+ .comment       0x0000000000000690       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr.os)
+ .comment       0x00000000000006ba       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp.os)
+ .comment       0x00000000000006e4       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn.os)
+ .comment       0x000000000000070e       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strdup.os)
+ .comment       0x0000000000000738       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen.os)
+ .comment       0x0000000000000762       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen.os)
+ .comment       0x000000000000078c       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp.os)
+ .comment       0x00000000000007b6       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr.os)
+ .comment       0x00000000000007e0       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp.os)
+ .comment       0x000000000000080a       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove.os)
+ .comment       0x0000000000000834       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset.os)
+ .comment       0x000000000000085e       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mempcpy.os)
+ .comment       0x0000000000000888       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy.os)
+ .comment       0x00000000000008b2       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy.os)
+ .comment       0x00000000000008dc       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr.os)
+ .comment       0x0000000000000906       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-c.os)
+ .comment       0x0000000000000930       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(varshift.os)
+ .comment       0x000000000000095a       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(cacheinfo.os)
+ .comment       0x0000000000000984       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(closedir.os)
+ .comment       0x00000000000009ae       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rewinddir.os)
+ .comment       0x00000000000009d8       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(readdir64.os)
+ .comment       0x0000000000000a02       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fdopendir.os)
+ .comment       0x0000000000000a2c       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(_exit.os)
+ .comment       0x0000000000000a56       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(environ.os)
+ .comment       0x0000000000000a80       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(xstat.os)
+ .comment       0x0000000000000aaa       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fxstat.os)
+ .comment       0x0000000000000ad4       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lxstat.os)
+ .comment       0x0000000000000afe       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lseek64.os)
+ .comment       0x0000000000000b28       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(access.os)
+ .comment       0x0000000000000b52       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(close_nocancel.os)
+ .comment       0x0000000000000b7c       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fcntl_nocancel.os)
+ .comment       0x0000000000000ba6       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(open64_nocancel.os)
+ .comment       0x0000000000000bd0       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(openat64_nocancel.os)
+ .comment       0x0000000000000bfa       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(read_nocancel.os)
+ .comment       0x0000000000000c24       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(write_nocancel.os)
+ .comment       0x0000000000000c4e       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mmap64.os)
+ .comment       0x0000000000000c78       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(profil.os)
+ .comment       0x0000000000000ca2       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(prof-freq.os)
+ .comment       0x0000000000000ccc       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc_multiple_threads.os)
+ .comment       0x0000000000000cf6       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(dl-addr-obj.os)
+ .comment       0x0000000000000d20       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(sigaction.os)
+ .comment       0x0000000000000d4a       0x2a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getdents64.os)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(scratch_buffer_set_array_size.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strdup.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mempcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-avx2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse4_2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-avx2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-avx2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-avx2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-avx2-movbe.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse4.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3-back.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-avx2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-avx2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-avx2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-sse2.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-c.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(varshift.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-sse2-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(cacheinfo.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(readdir64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(xstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lseek64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(close_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fcntl_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(open64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(openat64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(read_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(write_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mmap64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc-lowlevellock.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc_multiple_threads.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(dl-addr-obj.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setitimer.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getdents64.os)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000     0x18b0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x7a0 /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+ .debug_aranges
+                0x00000000000007a0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(check_fds.os)
+ .debug_aranges
+                0x00000000000007d0       0x20 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(errno.os)
+ .debug_aranges
+                0x00000000000007f0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setjmp.os)
+ .debug_aranges
+                0x0000000000000820       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(__longjmp.os)
+ .debug_aranges
+                0x0000000000000850       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(scratch_buffer_set_array_size.os)
+ .debug_aranges
+                0x0000000000000880       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr.os)
+ .debug_aranges
+                0x00000000000008b0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp.os)
+ .debug_aranges
+                0x00000000000008e0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn.os)
+ .debug_aranges
+                0x0000000000000910       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strdup.os)
+ .debug_aranges
+                0x0000000000000940       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen.os)
+ .debug_aranges
+                0x0000000000000970       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen.os)
+ .debug_aranges
+                0x00000000000009a0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp.os)
+ .debug_aranges
+                0x00000000000009d0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr.os)
+ .debug_aranges
+                0x0000000000000a00       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp.os)
+ .debug_aranges
+                0x0000000000000a30       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove.os)
+ .debug_aranges
+                0x0000000000000a60       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset.os)
+ .debug_aranges
+                0x0000000000000a90       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mempcpy.os)
+ .debug_aranges
+                0x0000000000000ac0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy.os)
+ .debug_aranges
+                0x0000000000000af0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy.os)
+ .debug_aranges
+                0x0000000000000b20       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr.os)
+ .debug_aranges
+                0x0000000000000b50       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2.os)
+ .debug_aranges
+                0x0000000000000b80       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_aranges
+                0x0000000000000bb0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-ssse3.os)
+ .debug_aranges
+                0x0000000000000be0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-avx2.os)
+ .debug_aranges
+                0x0000000000000c10       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse2.os)
+ .debug_aranges
+                0x0000000000000c40       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-ssse3.os)
+ .debug_aranges
+                0x0000000000000c70       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse4_2.os)
+ .debug_aranges
+                0x0000000000000ca0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-avx2.os)
+ .debug_aranges
+                0x0000000000000cd0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-sse2.os)
+ .debug_aranges
+                0x0000000000000d00       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-sse2.os)
+ .debug_aranges
+                0x0000000000000d30       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-avx2.os)
+ .debug_aranges
+                0x0000000000000d60       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-avx2.os)
+ .debug_aranges
+                0x0000000000000d90       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse2.os)
+ .debug_aranges
+                0x0000000000000dc0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-avx2-movbe.os)
+ .debug_aranges
+                0x0000000000000df0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse4.os)
+ .debug_aranges
+                0x0000000000000e20       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3.os)
+ .debug_aranges
+                0x0000000000000e50       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3.os)
+ .debug_aranges
+                0x0000000000000e80       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_aranges
+                0x0000000000000eb0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_aranges
+                0x0000000000000ee0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_aranges
+                0x0000000000000f10       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2.os)
+ .debug_aranges
+                0x0000000000000f40       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-avx2.os)
+ .debug_aranges
+                0x0000000000000f70       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-sse2.os)
+ .debug_aranges
+                0x0000000000000fa0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-sse2.os)
+ .debug_aranges
+                0x0000000000000fd0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-avx2.os)
+ .debug_aranges
+                0x0000000000001000       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-avx2.os)
+ .debug_aranges
+                0x0000000000001030       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2.os)
+ .debug_aranges
+                0x0000000000001060       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_aranges
+                0x0000000000001090       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_aranges
+                0x00000000000010c0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_aranges
+                0x00000000000010f0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-ssse3.os)
+ .debug_aranges
+                0x0000000000001120       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-sse2.os)
+ .debug_aranges
+                0x0000000000001150       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-c.os)
+ .debug_aranges
+                0x0000000000001180       0x20 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(varshift.os)
+ .debug_aranges
+                0x00000000000011a0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_aranges
+                0x00000000000011d0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000001200       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000001230       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000001260       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-sse2-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000001290       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .debug_aranges
+                0x00000000000012c0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .debug_aranges
+                0x00000000000012f0       0x40 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(cacheinfo.os)
+ .debug_aranges
+                0x0000000000001330       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(closedir.os)
+ .debug_aranges
+                0x0000000000001360       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rewinddir.os)
+ .debug_aranges
+                0x0000000000001390       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(readdir64.os)
+ .debug_aranges
+                0x00000000000013c0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fdopendir.os)
+ .debug_aranges
+                0x00000000000013f0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(uname.os)
+ .debug_aranges
+                0x0000000000001420       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(_exit.os)
+ .debug_aranges
+                0x0000000000001450       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getpid.os)
+ .debug_aranges
+                0x0000000000001480       0x20 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(environ.os)
+ .debug_aranges
+                0x00000000000014a0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(xstat.os)
+ .debug_aranges
+                0x00000000000014d0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fxstat.os)
+ .debug_aranges
+                0x0000000000001500       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lxstat.os)
+ .debug_aranges
+                0x0000000000001530       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lseek64.os)
+ .debug_aranges
+                0x0000000000001560       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(access.os)
+ .debug_aranges
+                0x0000000000001590       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(close_nocancel.os)
+ .debug_aranges
+                0x00000000000015c0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fcntl_nocancel.os)
+ .debug_aranges
+                0x00000000000015f0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(open64_nocancel.os)
+ .debug_aranges
+                0x0000000000001620       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(openat64_nocancel.os)
+ .debug_aranges
+                0x0000000000001650       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(read_nocancel.os)
+ .debug_aranges
+                0x0000000000001680       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(write_nocancel.os)
+ .debug_aranges
+                0x00000000000016b0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mmap64.os)
+ .debug_aranges
+                0x00000000000016e0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(munmap.os)
+ .debug_aranges
+                0x0000000000001710       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mprotect.os)
+ .debug_aranges
+                0x0000000000001740       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(profil.os)
+ .debug_aranges
+                0x0000000000001770       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(prof-freq.os)
+ .debug_aranges
+                0x00000000000017a0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc-lowlevellock.os)
+ .debug_aranges
+                0x00000000000017d0       0x20 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc_multiple_threads.os)
+ .debug_aranges
+                0x00000000000017f0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(dl-addr-obj.os)
+ .debug_aranges
+                0x0000000000001820       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(sigaction.os)
+ .debug_aranges
+                0x0000000000001850       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setitimer.os)
+ .debug_aranges
+                0x0000000000001880       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getdents64.os)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0xf21bb
+ *(.debug_info)
+ .debug_info    0x0000000000000000    0x9299d /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+ .debug_info    0x000000000009299d      0xad5 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(check_fds.os)
+ .debug_info    0x0000000000093472      0x6d1 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(errno.os)
+ .debug_info    0x0000000000093b43       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setjmp.os)
+ .debug_info    0x0000000000093b71       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(__longjmp.os)
+ .debug_info    0x0000000000093b9f      0x962 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(scratch_buffer_set_array_size.os)
+ .debug_info    0x0000000000094501     0x38ed /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr.os)
+ .debug_info    0x0000000000097dee     0x3913 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp.os)
+ .debug_info    0x000000000009b701     0x3913 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn.os)
+ .debug_info    0x000000000009f014      0x217 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strdup.os)
+ .debug_info    0x000000000009f22b     0x38e8 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen.os)
+ .debug_info    0x00000000000a2b13     0x38ed /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen.os)
+ .debug_info    0x00000000000a6400     0x3918 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp.os)
+ .debug_info    0x00000000000a9d18     0x38f2 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr.os)
+ .debug_info    0x00000000000ad60a     0x3908 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp.os)
+ .debug_info    0x00000000000b0f12     0x3908 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove.os)
+ .debug_info    0x00000000000b481a     0x3908 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset.os)
+ .debug_info    0x00000000000b8122     0x3912 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mempcpy.os)
+ .debug_info    0x00000000000bba34     0x391d /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy.os)
+ .debug_info    0x00000000000bf351     0x3912 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy.os)
+ .debug_info    0x00000000000c2c63     0x38ed /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr.os)
+ .debug_info    0x00000000000c6550       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2.os)
+ .debug_info    0x00000000000c657e       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_info    0x00000000000c65ac       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-ssse3.os)
+ .debug_info    0x00000000000c65da       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-avx2.os)
+ .debug_info    0x00000000000c6608       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse2.os)
+ .debug_info    0x00000000000c6636       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-ssse3.os)
+ .debug_info    0x00000000000c6664       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse4_2.os)
+ .debug_info    0x00000000000c6692       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-avx2.os)
+ .debug_info    0x00000000000c66c0       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-sse2.os)
+ .debug_info    0x00000000000c66ee       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-sse2.os)
+ .debug_info    0x00000000000c671c       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-avx2.os)
+ .debug_info    0x00000000000c674a       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-avx2.os)
+ .debug_info    0x00000000000c6778       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse2.os)
+ .debug_info    0x00000000000c67a6       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-avx2-movbe.os)
+ .debug_info    0x00000000000c67d4       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse4.os)
+ .debug_info    0x00000000000c6802       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3.os)
+ .debug_info    0x00000000000c6830       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3.os)
+ .debug_info    0x00000000000c685e       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_info    0x00000000000c688c       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_info    0x00000000000c68ba       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_info    0x00000000000c68e8       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2.os)
+ .debug_info    0x00000000000c6916       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-avx2.os)
+ .debug_info    0x00000000000c6944       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-sse2.os)
+ .debug_info    0x00000000000c6972       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-sse2.os)
+ .debug_info    0x00000000000c69a0       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-avx2.os)
+ .debug_info    0x00000000000c69ce       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-avx2.os)
+ .debug_info    0x00000000000c69fc       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2.os)
+ .debug_info    0x00000000000c6a2a       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_info    0x00000000000c6a58       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_info    0x00000000000c6a86       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_info    0x00000000000c6ab4       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-ssse3.os)
+ .debug_info    0x00000000000c6ae2       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-sse2.os)
+ .debug_info    0x00000000000c6b10      0x6e4 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-c.os)
+ .debug_info    0x00000000000c71f4      0x183 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(varshift.os)
+ .debug_info    0x00000000000c7377       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_info    0x00000000000c73a5       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+ .debug_info    0x00000000000c73d3       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .debug_info    0x00000000000c7401       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .debug_info    0x00000000000c742f       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-sse2-unaligned-erms.os)
+ .debug_info    0x00000000000c745d       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .debug_info    0x00000000000c748b       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .debug_info    0x00000000000c74b9     0x49c4 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(cacheinfo.os)
+ .debug_info    0x00000000000cbe7d     0x1dc7 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(closedir.os)
+ .debug_info    0x00000000000cdc44     0x1dbf /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rewinddir.os)
+ .debug_info    0x00000000000cfa03     0x1eae /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(readdir64.os)
+ .debug_info    0x00000000000d18b1     0x1f46 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fdopendir.os)
+ .debug_info    0x00000000000d37f7       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(uname.os)
+ .debug_info    0x00000000000d3825      0x7eb /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(_exit.os)
+ .debug_info    0x00000000000d4010       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getpid.os)
+ .debug_info    0x00000000000d403e       0xf4 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(environ.os)
+ .debug_info    0x00000000000d4132      0x8fa /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(xstat.os)
+ .debug_info    0x00000000000d4a2c      0x8f9 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fxstat.os)
+ .debug_info    0x00000000000d5325      0x8fa /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lxstat.os)
+ .debug_info    0x00000000000d5c1f      0x806 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lseek64.os)
+ .debug_info    0x00000000000d6425     0x1ef3 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(access.os)
+ .debug_info    0x00000000000d8318     0x1ed0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(close_nocancel.os)
+ .debug_info    0x00000000000da1e8     0x219c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fcntl_nocancel.os)
+ .debug_info    0x00000000000dc384      0x8b8 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(open64_nocancel.os)
+ .debug_info    0x00000000000dcc3c     0x1ff8 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(openat64_nocancel.os)
+ .debug_info    0x00000000000dec34     0x1f38 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(read_nocancel.os)
+ .debug_info    0x00000000000e0b6c     0x1f38 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(write_nocancel.os)
+ .debug_info    0x00000000000e2aa4     0x3c4d /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mmap64.os)
+ .debug_info    0x00000000000e66f1       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(munmap.os)
+ .debug_info    0x00000000000e671f       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mprotect.os)
+ .debug_info    0x00000000000e674d     0x1171 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(profil.os)
+ .debug_info    0x00000000000e78be     0x387c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(prof-freq.os)
+ .debug_info    0x00000000000eb13a       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc-lowlevellock.os)
+ .debug_info    0x00000000000eb168     0x1e24 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc_multiple_threads.os)
+ .debug_info    0x00000000000ecf8c     0x2856 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(dl-addr-obj.os)
+ .debug_info    0x00000000000ef7e2      0xc9d /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(sigaction.os)
+ .debug_info    0x00000000000f047f       0x2e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setitimer.os)
+ .debug_info    0x00000000000f04ad     0x1d0e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getdents64.os)
+
+.debug_abbrev   0x0000000000000000    0x147bb
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000     0xb8ed /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+ .debug_abbrev  0x000000000000b8ed      0x23d /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(check_fds.os)
+ .debug_abbrev  0x000000000000bb2a      0x149 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(errno.os)
+ .debug_abbrev  0x000000000000bc73       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setjmp.os)
+ .debug_abbrev  0x000000000000bc87       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(__longjmp.os)
+ .debug_abbrev  0x000000000000bc9b      0x29c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(scratch_buffer_set_array_size.os)
+ .debug_abbrev  0x000000000000bf37      0x3e6 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr.os)
+ .debug_abbrev  0x000000000000c31d      0x3e6 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp.os)
+ .debug_abbrev  0x000000000000c703      0x3e6 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn.os)
+ .debug_abbrev  0x000000000000cae9      0x13f /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strdup.os)
+ .debug_abbrev  0x000000000000cc28      0x3e6 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen.os)
+ .debug_abbrev  0x000000000000d00e      0x3e6 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen.os)
+ .debug_abbrev  0x000000000000d3f4      0x3e6 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp.os)
+ .debug_abbrev  0x000000000000d7da      0x3e6 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr.os)
+ .debug_abbrev  0x000000000000dbc0      0x3e4 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp.os)
+ .debug_abbrev  0x000000000000dfa4      0x3e4 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove.os)
+ .debug_abbrev  0x000000000000e388      0x3e4 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset.os)
+ .debug_abbrev  0x000000000000e76c      0x3e4 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mempcpy.os)
+ .debug_abbrev  0x000000000000eb50      0x3e6 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy.os)
+ .debug_abbrev  0x000000000000ef36      0x3e4 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy.os)
+ .debug_abbrev  0x000000000000f31a      0x3e6 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr.os)
+ .debug_abbrev  0x000000000000f700       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2.os)
+ .debug_abbrev  0x000000000000f714       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_abbrev  0x000000000000f728       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-ssse3.os)
+ .debug_abbrev  0x000000000000f73c       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-avx2.os)
+ .debug_abbrev  0x000000000000f750       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse2.os)
+ .debug_abbrev  0x000000000000f764       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-ssse3.os)
+ .debug_abbrev  0x000000000000f778       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse4_2.os)
+ .debug_abbrev  0x000000000000f78c       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-avx2.os)
+ .debug_abbrev  0x000000000000f7a0       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-sse2.os)
+ .debug_abbrev  0x000000000000f7b4       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-sse2.os)
+ .debug_abbrev  0x000000000000f7c8       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-avx2.os)
+ .debug_abbrev  0x000000000000f7dc       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-avx2.os)
+ .debug_abbrev  0x000000000000f7f0       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse2.os)
+ .debug_abbrev  0x000000000000f804       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-avx2-movbe.os)
+ .debug_abbrev  0x000000000000f818       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse4.os)
+ .debug_abbrev  0x000000000000f82c       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3.os)
+ .debug_abbrev  0x000000000000f840       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3.os)
+ .debug_abbrev  0x000000000000f854       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_abbrev  0x000000000000f868       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_abbrev  0x000000000000f87c       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_abbrev  0x000000000000f890       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2.os)
+ .debug_abbrev  0x000000000000f8a4       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-avx2.os)
+ .debug_abbrev  0x000000000000f8b8       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-sse2.os)
+ .debug_abbrev  0x000000000000f8cc       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-sse2.os)
+ .debug_abbrev  0x000000000000f8e0       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-avx2.os)
+ .debug_abbrev  0x000000000000f8f4       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-avx2.os)
+ .debug_abbrev  0x000000000000f908       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2.os)
+ .debug_abbrev  0x000000000000f91c       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_abbrev  0x000000000000f930       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_abbrev  0x000000000000f944       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_abbrev  0x000000000000f958       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-ssse3.os)
+ .debug_abbrev  0x000000000000f96c       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-sse2.os)
+ .debug_abbrev  0x000000000000f980      0x219 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-c.os)
+ .debug_abbrev  0x000000000000fb99       0xba /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(varshift.os)
+ .debug_abbrev  0x000000000000fc53       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_abbrev  0x000000000000fc67       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+ .debug_abbrev  0x000000000000fc7b       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .debug_abbrev  0x000000000000fc8f       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .debug_abbrev  0x000000000000fca3       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-sse2-unaligned-erms.os)
+ .debug_abbrev  0x000000000000fcb7       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .debug_abbrev  0x000000000000fccb       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .debug_abbrev  0x000000000000fcdf      0x5d2 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(cacheinfo.os)
+ .debug_abbrev  0x00000000000102b1      0x376 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(closedir.os)
+ .debug_abbrev  0x0000000000010627      0x367 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rewinddir.os)
+ .debug_abbrev  0x000000000001098e      0x38a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(readdir64.os)
+ .debug_abbrev  0x0000000000010d18      0x382 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fdopendir.os)
+ .debug_abbrev  0x000000000001109a       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(uname.os)
+ .debug_abbrev  0x00000000000110ae      0x1a3 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(_exit.os)
+ .debug_abbrev  0x0000000000011251       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getpid.os)
+ .debug_abbrev  0x0000000000011265       0x78 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(environ.os)
+ .debug_abbrev  0x00000000000112dd      0x19b /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(xstat.os)
+ .debug_abbrev  0x0000000000011478      0x19b /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fxstat.os)
+ .debug_abbrev  0x0000000000011613      0x19b /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lxstat.os)
+ .debug_abbrev  0x00000000000117ae      0x1b5 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lseek64.os)
+ .debug_abbrev  0x0000000000011963      0x350 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(access.os)
+ .debug_abbrev  0x0000000000011cb3      0x35f /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(close_nocancel.os)
+ .debug_abbrev  0x0000000000012012      0x40f /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fcntl_nocancel.os)
+ .debug_abbrev  0x0000000000012421      0x1aa /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(open64_nocancel.os)
+ .debug_abbrev  0x00000000000125cb      0x37a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(openat64_nocancel.os)
+ .debug_abbrev  0x0000000000012945      0x36e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(read_nocancel.os)
+ .debug_abbrev  0x0000000000012cb3      0x36e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(write_nocancel.os)
+ .debug_abbrev  0x0000000000013021      0x43a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mmap64.os)
+ .debug_abbrev  0x000000000001345b       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(munmap.os)
+ .debug_abbrev  0x000000000001346f       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mprotect.os)
+ .debug_abbrev  0x0000000000013483      0x32d /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(profil.os)
+ .debug_abbrev  0x00000000000137b0      0x39c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(prof-freq.os)
+ .debug_abbrev  0x0000000000013b4c       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc-lowlevellock.os)
+ .debug_abbrev  0x0000000000013b60      0x2f7 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc_multiple_threads.os)
+ .debug_abbrev  0x0000000000013e57      0x370 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(dl-addr-obj.os)
+ .debug_abbrev  0x00000000000141c7      0x28a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(sigaction.os)
+ .debug_abbrev  0x0000000000014451       0x14 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setitimer.os)
+ .debug_abbrev  0x0000000000014465      0x356 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getdents64.os)
+
+.debug_line     0x0000000000000000    0x23470
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000    0x11788 /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+ .debug_line    0x0000000000011788      0x2bb /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(check_fds.os)
+ .debug_line    0x0000000000011a43      0x193 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(errno.os)
+ .debug_line    0x0000000000011bd6       0x60 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setjmp.os)
+ .debug_line    0x0000000000011c36       0x61 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(__longjmp.os)
+ .debug_line    0x0000000000011c97      0x24f /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(scratch_buffer_set_array_size.os)
+ .debug_line    0x0000000000011ee6      0x4fa /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr.os)
+ .debug_line    0x00000000000123e0      0x4fb /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp.os)
+ .debug_line    0x00000000000128db      0x50b /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn.os)
+ .debug_line    0x0000000000012de6       0xbf /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strdup.os)
+ .debug_line    0x0000000000012ea5      0x50a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen.os)
+ .debug_line    0x00000000000133af      0x50b /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen.os)
+ .debug_line    0x00000000000138ba      0x4fd /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp.os)
+ .debug_line    0x0000000000013db7      0x50a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr.os)
+ .debug_line    0x00000000000142c1      0x519 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp.os)
+ .debug_line    0x00000000000147da      0x525 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove.os)
+ .debug_line    0x0000000000014cff      0x51e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset.os)
+ .debug_line    0x000000000001521d      0x525 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mempcpy.os)
+ .debug_line    0x0000000000015742      0x515 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy.os)
+ .debug_line    0x0000000000015c57      0x524 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy.os)
+ .debug_line    0x000000000001617b      0x50d /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr.os)
+ .debug_line    0x0000000000016688      0x48f /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2.os)
+ .debug_line    0x0000000000016b17      0x10c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_line    0x0000000000016c23      0x45f /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-ssse3.os)
+ .debug_line    0x0000000000017082      0x192 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-avx2.os)
+ .debug_line    0x0000000000017214      0x525 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse2.os)
+ .debug_line    0x0000000000017739      0x4e9 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-ssse3.os)
+ .debug_line    0x0000000000017c22      0x398 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse4_2.os)
+ .debug_line    0x0000000000017fba      0x1c0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-avx2.os)
+ .debug_line    0x000000000001817a      0x124 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-sse2.os)
+ .debug_line    0x000000000001829e       0xd3 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-sse2.os)
+ .debug_line    0x0000000000018371      0x10c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-avx2.os)
+ .debug_line    0x000000000001847d       0xc0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-avx2.os)
+ .debug_line    0x000000000001853d      0x14c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse2.os)
+ .debug_line    0x0000000000018689      0x146 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-avx2-movbe.os)
+ .debug_line    0x00000000000187cf      0x500 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse4.os)
+ .debug_line    0x0000000000018ccf      0x947 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3.os)
+ .debug_line    0x0000000000019616      0x99b /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3.os)
+ .debug_line    0x0000000000019fb1      0x87d /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_line    0x000000000001a82e      0x882 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_line    0x000000000001b0b0      0x1b3 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_line    0x000000000001b263       0xde /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2.os)
+ .debug_line    0x000000000001b341       0xe0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-avx2.os)
+ .debug_line    0x000000000001b421       0xa5 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-sse2.os)
+ .debug_line    0x000000000001b4c6       0xa5 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-sse2.os)
+ .debug_line    0x000000000001b56b       0xc9 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-avx2.os)
+ .debug_line    0x000000000001b634      0x11c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-avx2.os)
+ .debug_line    0x000000000001b750       0x95 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2.os)
+ .debug_line    0x000000000001b7e5      0x627 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_line    0x000000000001be0c      0x1e2 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_line    0x000000000001bfee      0x111 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_line    0x000000000001c0ff      0x5cd /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-ssse3.os)
+ .debug_line    0x000000000001c6cc       0x80 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-sse2.os)
+ .debug_line    0x000000000001c74c      0x1fa /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-c.os)
+ .debug_line    0x000000000001c946       0xb4 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(varshift.os)
+ .debug_line    0x000000000001c9fa       0xeb /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_line    0x000000000001cae5      0x16a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+ .debug_line    0x000000000001cc4f      0x160 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .debug_line    0x000000000001cdaf      0x16a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .debug_line    0x000000000001cf19       0xd1 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-sse2-unaligned-erms.os)
+ .debug_line    0x000000000001cfea       0xd3 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .debug_line    0x000000000001d0bd       0xd8 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .debug_line    0x000000000001d195      0x830 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(cacheinfo.os)
+ .debug_line    0x000000000001d9c5      0x48e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(closedir.os)
+ .debug_line    0x000000000001de53      0x442 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rewinddir.os)
+ .debug_line    0x000000000001e295      0x4a7 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(readdir64.os)
+ .debug_line    0x000000000001e73c      0x4ed /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fdopendir.os)
+ .debug_line    0x000000000001ec29       0x58 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(uname.os)
+ .debug_line    0x000000000001ec81      0x211 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(_exit.os)
+ .debug_line    0x000000000001ee92       0x57 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getpid.os)
+ .debug_line    0x000000000001eee9       0x75 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(environ.os)
+ .debug_line    0x000000000001ef5e      0x21f /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(xstat.os)
+ .debug_line    0x000000000001f17d      0x220 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fxstat.os)
+ .debug_line    0x000000000001f39d      0x220 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lxstat.os)
+ .debug_line    0x000000000001f5bd      0x202 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lseek64.os)
+ .debug_line    0x000000000001f7bf      0x471 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(access.os)
+ .debug_line    0x000000000001fc30      0x468 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(close_nocancel.os)
+ .debug_line    0x0000000000020098      0x4b8 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fcntl_nocancel.os)
+ .debug_line    0x0000000000020550      0x268 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(open64_nocancel.os)
+ .debug_line    0x00000000000207b8      0x4b0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(openat64_nocancel.os)
+ .debug_line    0x0000000000020c68      0x467 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(read_nocancel.os)
+ .debug_line    0x00000000000210cf      0x468 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(write_nocancel.os)
+ .debug_line    0x0000000000021537      0x565 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mmap64.os)
+ .debug_line    0x0000000000021a9c       0x58 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(munmap.os)
+ .debug_line    0x0000000000021af4       0x58 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mprotect.os)
+ .debug_line    0x0000000000021b4c      0x3d6 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(profil.os)
+ .debug_line    0x0000000000021f22      0x508 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(prof-freq.os)
+ .debug_line    0x000000000002242a       0x80 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc-lowlevellock.os)
+ .debug_line    0x00000000000224aa      0x407 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc_multiple_threads.os)
+ .debug_line    0x00000000000228b1      0x473 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(dl-addr-obj.os)
+ .debug_line    0x0000000000022d24      0x2f9 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(sigaction.os)
+ .debug_line    0x000000000002301d       0x58 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setitimer.os)
+ .debug_line    0x0000000000023075      0x3fb /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getdents64.os)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000    0xa2cc2
+ *(.debug_str)
+ .debug_str     0x0000000000000000    0x5c829 /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+ .debug_str     0x000000000005c829      0x817 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(check_fds.os)
+ .debug_str     0x000000000005d040      0x5c8 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(errno.os)
+ .debug_str     0x000000000005d608       0x58 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setjmp.os)
+ .debug_str     0x000000000005d660       0x5b /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(__longjmp.os)
+ .debug_str     0x000000000005d6bb      0x6dc /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(scratch_buffer_set_array_size.os)
+ .debug_str     0x000000000005dd97     0x27a8 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr.os)
+ .debug_str     0x000000000006053f     0x2805 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp.os)
+ .debug_str     0x0000000000062d44     0x2808 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn.os)
+ .debug_str     0x000000000006554c      0x238 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strdup.os)
+ .debug_str     0x0000000000065784     0x27a8 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen.os)
+ .debug_str     0x0000000000067f2c     0x27ad /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen.os)
+ .debug_str     0x000000000006a6d9     0x2808 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp.os)
+ .debug_str     0x000000000006cee1     0x27a8 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr.os)
+ .debug_str     0x000000000006f689     0x2805 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp.os)
+ .debug_str     0x0000000000071e8e     0x280f /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove.os)
+ .debug_str     0x000000000007469d     0x2805 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset.os)
+ .debug_str     0x0000000000076ea2     0x280a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mempcpy.os)
+ .debug_str     0x00000000000796ac     0x2807 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy.os)
+ .debug_str     0x000000000007beb3     0x280b /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy.os)
+ .debug_str     0x000000000007e6be     0x27b3 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr.os)
+ .debug_str     0x0000000000080e71       0x58 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2.os)
+ .debug_str     0x0000000000080ec9       0x71 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_str     0x0000000000080f3a       0x65 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-ssse3.os)
+ .debug_str     0x0000000000080f9f       0x67 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcmp-avx2.os)
+ .debug_str     0x0000000000081006       0x58 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse2.os)
+ .debug_str     0x000000000008105e       0x58 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-ssse3.os)
+ .debug_str     0x00000000000810b6       0x68 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-sse4_2.os)
+ .debug_str     0x000000000008111e       0x67 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strncmp-avx2.os)
+ .debug_str     0x0000000000081185       0x65 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-sse2.os)
+ .debug_str     0x00000000000811ea       0x68 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-sse2.os)
+ .debug_str     0x0000000000081252       0x67 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memchr-avx2.os)
+ .debug_str     0x00000000000812b9       0x67 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rawmemchr-avx2.os)
+ .debug_str     0x0000000000081320       0x58 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse2.os)
+ .debug_str     0x0000000000081378       0x6d /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-avx2-movbe.os)
+ .debug_str     0x00000000000813e5       0x67 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-sse4.os)
+ .debug_str     0x000000000008144c       0x68 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3.os)
+ .debug_str     0x00000000000814b4       0x68 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3.os)
+ .debug_str     0x000000000008151c       0x6d /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_str     0x0000000000081589       0x6d /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_str     0x00000000000815f6       0x78 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_str     0x000000000008166e       0x65 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2.os)
+ .debug_str     0x00000000000816d3       0x67 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-avx2.os)
+ .debug_str     0x000000000008173a       0x65 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-sse2.os)
+ .debug_str     0x000000000008179f       0x65 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-sse2.os)
+ .debug_str     0x0000000000081804       0x67 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strlen-avx2.os)
+ .debug_str     0x000000000008186b       0x67 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strnlen-avx2.os)
+ .debug_str     0x00000000000818d2       0x58 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2.os)
+ .debug_str     0x000000000008192a       0x68 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_str     0x0000000000081992       0x71 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_str     0x0000000000081a03       0x6e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_str     0x0000000000081a71       0x68 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp-ssse3.os)
+ .debug_str     0x0000000000081ad9       0x59 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-sse2.os)
+ .debug_str     0x0000000000081b32      0x338 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-c.os)
+ .debug_str     0x0000000000081e6a      0x23a /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(varshift.os)
+ .debug_str     0x00000000000820a4       0x77 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_str     0x000000000008211b       0x76 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-sse2-unaligned-erms.os)
+ .debug_str     0x0000000000082191       0x76 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .debug_str     0x0000000000082207       0x76 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .debug_str     0x000000000008227d       0x75 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-sse2-unaligned-erms.os)
+ .debug_str     0x00000000000822f2       0x75 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .debug_str     0x0000000000082367       0x75 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .debug_str     0x00000000000823dc     0x3a06 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(cacheinfo.os)
+ .debug_str     0x0000000000085de2     0x16ca /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(closedir.os)
+ .debug_str     0x00000000000874ac     0x1694 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rewinddir.os)
+ .debug_str     0x0000000000088b40     0x174c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(readdir64.os)
+ .debug_str     0x000000000008a28c     0x17cc /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fdopendir.os)
+ .debug_str     0x000000000008ba58       0x5f /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(uname.os)
+ .debug_str     0x000000000008bab7      0x668 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(_exit.os)
+ .debug_str     0x000000000008c11f       0x5f /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getpid.os)
+ .debug_str     0x000000000008c17e      0x1d7 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(environ.os)
+ .debug_str     0x000000000008c355      0x72b /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(xstat.os)
+ .debug_str     0x000000000008ca80      0x729 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fxstat.os)
+ .debug_str     0x000000000008d1a9      0x72e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lxstat.os)
+ .debug_str     0x000000000008d8d7      0x687 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lseek64.os)
+ .debug_str     0x000000000008df5e     0x1856 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(access.os)
+ .debug_str     0x000000000008f7b4     0x186b /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(close_nocancel.os)
+ .debug_str     0x000000000009101f     0x1950 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fcntl_nocancel.os)
+ .debug_str     0x000000000009296f      0x71e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(open64_nocancel.os)
+ .debug_str     0x000000000009308d     0x1914 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(openat64_nocancel.os)
+ .debug_str     0x00000000000949a1     0x188f /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(read_nocancel.os)
+ .debug_str     0x0000000000096230     0x1892 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(write_nocancel.os)
+ .debug_str     0x0000000000097ac2     0x288e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mmap64.os)
+ .debug_str     0x000000000009a350       0x5e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(munmap.os)
+ .debug_str     0x000000000009a3ae       0x5e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mprotect.os)
+ .debug_str     0x000000000009a40c      0xbaa /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(profil.os)
+ .debug_str     0x000000000009afb6     0x27c8 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(prof-freq.os)
+ .debug_str     0x000000000009d77e       0x6c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc-lowlevellock.os)
+ .debug_str     0x000000000009d7ea     0x188d /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(libc_multiple_threads.os)
+ .debug_str     0x000000000009f077     0x1d2d /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(dl-addr-obj.os)
+ .debug_str     0x00000000000a0da4      0x899 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(sigaction.os)
+ .debug_str     0x00000000000a163d       0x5e /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(setitimer.os)
+ .debug_str     0x00000000000a169b     0x1627 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getdents64.os)
+
+.debug_loc      0x0000000000000000    0x34433
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000    0x2f9ac /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+ .debug_loc     0x000000000002f9ac      0x138 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(check_fds.os)
+ .debug_loc     0x000000000002fae4      0x3b8 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(scratch_buffer_set_array_size.os)
+ .debug_loc     0x000000000002fe9c      0x107 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strdup.os)
+ .debug_loc     0x000000000002ffa3      0x4fc /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-c.os)
+ .debug_loc     0x000000000003049f     0x1cec /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(cacheinfo.os)
+ .debug_loc     0x000000000003218b       0x82 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(closedir.os)
+ .debug_loc     0x000000000003220d       0x4c /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rewinddir.os)
+ .debug_loc     0x0000000000032259      0x1ba /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(readdir64.os)
+ .debug_loc     0x0000000000032413       0xbe /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fdopendir.os)
+ .debug_loc     0x00000000000324d1      0x148 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(_exit.os)
+ .debug_loc     0x0000000000032619      0x1de /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(xstat.os)
+ .debug_loc     0x00000000000327f7      0x1de /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fxstat.os)
+ .debug_loc     0x00000000000329d5      0x1de /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lxstat.os)
+ .debug_loc     0x0000000000032bb3       0xcd /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lseek64.os)
+ .debug_loc     0x0000000000032c80       0x5b /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(access.os)
+ .debug_loc     0x0000000000032cdb       0x5b /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(close_nocancel.os)
+ .debug_loc     0x0000000000032d36      0x337 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fcntl_nocancel.os)
+ .debug_loc     0x000000000003306d      0x2c5 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(open64_nocancel.os)
+ .debug_loc     0x0000000000033332      0x206 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(openat64_nocancel.os)
+ .debug_loc     0x0000000000033538       0xcd /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(read_nocancel.os)
+ .debug_loc     0x0000000000033605       0xcd /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(write_nocancel.os)
+ .debug_loc     0x00000000000336d2      0x5a3 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mmap64.os)
+ .debug_loc     0x0000000000033c75      0x32d /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(profil.os)
+ .debug_loc     0x0000000000033fa2       0x65 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(dl-addr-obj.os)
+ .debug_loc     0x0000000000034007      0x35f /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(sigaction.os)
+ .debug_loc     0x0000000000034366       0xcd /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getdents64.os)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0x7f80
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000     0x7350 /home/holy/vscode_remote_setup/glibc-build/elf/dl-allobjs.os
+ .debug_ranges  0x0000000000007350       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcmp.os)
+ .debug_ranges  0x0000000000007380       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memmove.os)
+ .debug_ranges  0x00000000000073b0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memset.os)
+ .debug_ranges  0x00000000000073e0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mempcpy.os)
+ .debug_ranges  0x0000000000007410       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(memcpy.os)
+ .debug_ranges  0x0000000000007440      0x260 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(strcspn-c.os)
+ .debug_ranges  0x00000000000076a0      0x3a0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(cacheinfo.os)
+ .debug_ranges  0x0000000000007a40       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(rewinddir.os)
+ .debug_ranges  0x0000000000007a70       0xd0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(readdir64.os)
+ .debug_ranges  0x0000000000007b40       0x90 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(_exit.os)
+ .debug_ranges  0x0000000000007bd0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(xstat.os)
+ .debug_ranges  0x0000000000007c00       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fxstat.os)
+ .debug_ranges  0x0000000000007c30       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lxstat.os)
+ .debug_ranges  0x0000000000007c60       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(lseek64.os)
+ .debug_ranges  0x0000000000007c90       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(access.os)
+ .debug_ranges  0x0000000000007cc0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(close_nocancel.os)
+ .debug_ranges  0x0000000000007cf0       0x60 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(fcntl_nocancel.os)
+ .debug_ranges  0x0000000000007d50       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(open64_nocancel.os)
+ .debug_ranges  0x0000000000007d80       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(openat64_nocancel.os)
+ .debug_ranges  0x0000000000007db0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(read_nocancel.os)
+ .debug_ranges  0x0000000000007de0       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(write_nocancel.os)
+ .debug_ranges  0x0000000000007e10       0x60 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(mmap64.os)
+ .debug_ranges  0x0000000000007e70       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(profil.os)
+ .debug_ranges  0x0000000000007ea0       0xb0 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(sigaction.os)
+ .debug_ranges  0x0000000000007f50       0x30 /home/holy/vscode_remote_setup/glibc-build/libc_pic.a(getdents64.os)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_addr
+ *(.debug_addr)
+
+.gnu.attributes
+ *(.gnu.attributes)
+OUTPUT(/home/holy/vscode_remote_setup/glibc-build/elf/librtld.map.o elf64-x86-64)

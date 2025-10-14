@@ -1,0 +1,17 @@
+/home/holy/vscode_remote_setup/glibc-build/dummy.o: \
+ /home/holy/vscode_remote_setup/glibc-build/dummy.c \
+ ../include/stdc-predef.h \
+ /home/holy/vscode_remote_setup/glibc-build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/holy/vscode_remote_setup/glibc-build/config.h \
+ ../sysdeps/generic/symbol-hacks.h
+
+../include/stdc-predef.h:
+
+/home/holy/vscode_remote_setup/glibc-build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/home/holy/vscode_remote_setup/glibc-build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
