@@ -14,7 +14,7 @@ https://www.jb51.net/server/329015f9n.htm
 ![alt text](img/image.png)
 
 需要关闭vscode的自动更新以及一些自动下载功能，不然之后配置的文件可能会被覆盖：
-![image.png](attachment:66e6186a-c504-4c6b-9fe9-68910366ed7a:image.png)
+![alt text](img/image-1.png)
 
 # 使用方法：
 0. 解压缩该项目到一个文件夹下，cd到这个目录
