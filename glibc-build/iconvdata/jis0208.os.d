@@ -13,7 +13,7 @@ $(common-objpfx)iconvdata/jis0208.os: \
  ../include/gconv.h ../iconv/gconv.h ../include/bits/types/__mbstate_t.h \
  ../wcsmbs/bits/types/__mbstate_t.h ../include/bits/types/wint_t.h \
  ../wcsmbs/bits/types/wint_t.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 
 ../include/stdc-predef.h:
 
@@ -67,4 +67,4 @@ jis0208.h:
 
 ../wcsmbs/bits/types/wint_t.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:

@@ -11,7 +11,7 @@ $(common-objpfx)nss/db-sgrp.os: \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h ../include/gnu/stubs.h \
  ../sysdeps/unix/sysv/linux/paths.h ../include/bits/types/FILE.h \
  ../libio/bits/types/FILE.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h nss_files/files-parse.c \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h nss_files/files-parse.c \
  ../include/ctype.h ../ctype/ctype.h ../include/bits/types.h \
  ../posix/bits/types.h ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h \
  ../include/endian.h ../string/endian.h ../sysdeps/x86/bits/endian.h \
@@ -25,7 +25,7 @@ $(common-objpfx)nss/db-sgrp.os: \
  ../bits/types/error_t.h ../sysdeps/x86_64/nptl/tls.h \
  ../sysdeps/unix/sysv/linux/x86/include/asm/prctl.h \
  /usr/include/x86_64-linux-gnu/asm/prctl.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
  ../sysdeps/generic/stdint.h ../bits/libc-header-start.h ../bits/wchar.h \
  ../bits/stdint-intn.h ../bits/stdint-uintn.h ../include/stdlib.h \
  ../stdlib/stdlib.h ../sysdeps/unix/sysv/linux/bits/waitflags.h \
@@ -49,7 +49,7 @@ $(common-objpfx)nss/db-sgrp.os: \
  ../include/elf.h ../elf/elf.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -144,7 +144,7 @@ $(common-objpfx)nss/db-sgrp.os: \
  ../include/arpa/nameser_compat.h ../resolv/arpa/nameser_compat.h \
  ../include/nss.h ../nss/nss.h ../include/resolv.h ../resolv/resolv.h \
  ../include/stdio.h ../libio/stdio.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  ../include/bits/types/__fpos_t.h ../libio/bits/types/__fpos_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
  ../include/bits/types/__fpos64_t.h ../libio/bits/types/__fpos64_t.h \
@@ -195,7 +195,7 @@ nss_files/files-sgrp.c:
 
 ../libio/bits/types/FILE.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 nss_files/files-parse.c:
 
@@ -249,7 +249,7 @@ nss_files/files-parse.c:
 
 /usr/include/x86_64-linux-gnu/asm/prctl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../sysdeps/generic/stdint.h:
 
@@ -339,7 +339,7 @@ nss_files/files-parse.c:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -667,7 +667,7 @@ nss_files/../nss_db/db-XXX.c:
 
 ../libio/stdio.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types/__fpos_t.h:
 

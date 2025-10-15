@@ -12,7 +12,7 @@ $(common-objpfx)math/w_lgamma.os: w_lgamma.c \
  ../bits/floatn-common.h ../sysdeps/generic/math-nan-payload-double.h \
  ../sysdeps/generic/math-type-macros.h ../include/float.h \
  ../bits/libc-header-start.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/float.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/float.h \
  ../math/math-svid-compat.h ../include/shlib-compat.h \
  $(common-objpfx)abi-versions.h \
  w_lgamma_template.c
@@ -55,7 +55,7 @@ $(common-objpfx)config.h:
 
 ../bits/libc-header-start.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/float.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/float.h:
 
 ../math/math-svid-compat.h:
 

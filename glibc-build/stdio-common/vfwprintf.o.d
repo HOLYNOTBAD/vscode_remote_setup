@@ -17,11 +17,11 @@ $(common-objpfx)stdio-common/vfwprintf.o: \
  ../include/bits/types/__locale_t.h ../locale/bits/types/__locale_t.h \
  vfprintf.c ../include/array_length.h ../include/ctype.h ../ctype/ctype.h \
  ../include/../locale/localeinfo.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../include/langinfo.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../include/langinfo.h \
  ../locale/langinfo.h ../include/nl_types.h ../catgets/nl_types.h \
  ../include/bits/locale.h ../locale/bits/locale.h ../include/limits.h \
  ../bits/libc-header-start.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -50,7 +50,7 @@ $(common-objpfx)stdio-common/vfwprintf.o: \
  ../sysdeps/x86_64/nptl/tls.h \
  ../sysdeps/unix/sysv/linux/x86/include/asm/prctl.h \
  /usr/include/x86_64-linux-gnu/asm/prctl.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h ../include/stdlib.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h ../include/stdlib.h \
  ../stdlib/stdlib.h ../sysdeps/unix/sysv/linux/bits/waitflags.h \
  ../bits/waitstatus.h ../sysdeps/x86/bits/floatn.h \
  ../bits/floatn-common.h ../include/alloca.h ../stdlib/alloca.h \
@@ -124,7 +124,7 @@ $(common-objpfx)stdio-common/vfwprintf.o: \
  ../sysdeps/unix/sysv/linux/bits/in.h ../include/printf.h \
  ../stdio-common/printf.h ../include/bits/types/FILE.h \
  ../libio/bits/types/FILE.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h ../include/errno.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h ../include/errno.h \
  ../stdlib/errno.h ../sysdeps/unix/sysv/linux/bits/errno.h \
  /usr/include/linux/errno.h /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
@@ -232,7 +232,7 @@ vfprintf.c:
 
 ../include/../locale/localeinfo.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/langinfo.h:
 
@@ -250,7 +250,7 @@ vfprintf.c:
 
 ../bits/libc-header-start.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -354,7 +354,7 @@ vfprintf.c:
 
 /usr/include/x86_64-linux-gnu/asm/prctl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../include/stdlib.h:
 
@@ -604,7 +604,7 @@ vfprintf.c:
 
 ../libio/bits/types/FILE.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/errno.h:
 

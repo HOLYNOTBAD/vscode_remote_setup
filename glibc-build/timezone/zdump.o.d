@@ -8,7 +8,7 @@ $(common-objpfx)timezone/zdump.o: zdump.c \
  ../include/sys/cdefs.h ../misc/sys/cdefs.h \
  ../sysdeps/x86/bits/wordsize.h \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h ../include/gnu/stubs.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../sysdeps/unix/sysv/linux/bits/time.h ../include/bits/types.h \
  ../posix/bits/types.h ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h \
  ../sysdeps/unix/sysv/linux/bits/timex.h \
@@ -33,7 +33,7 @@ $(common-objpfx)timezone/zdump.o: zdump.c \
  ../sysdeps/nptl/bits/thread-shared-types.h \
  ../sysdeps/x86/nptl/bits/pthreadtypes-arch.h ../include/stdio.h \
  ../libio/stdio.h ../bits/libc-header-start.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  ../include/bits/types/__fpos_t.h ../libio/bits/types/__fpos_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
  ../include/bits/types/__fpos64_t.h ../libio/bits/types/__fpos64_t.h \
@@ -46,7 +46,7 @@ $(common-objpfx)timezone/zdump.o: zdump.c \
  ../sysdeps/unix/sysv/linux/bits/sys_errlist.h ../libio/bits/stdio.h \
  ../include/string.h ../string/string.h ../include/strings.h \
  ../string/strings.h ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -89,7 +89,7 @@ $(common-objpfx)timezone/zdump.o: zdump.c \
  ../include/bits/getopt_core.h ../posix/bits/getopt_core.h \
  ../sysdeps/generic/stdint.h ../bits/wchar.h ../bits/stdint-uintn.h \
  ../include/inttypes.h ../sysdeps/generic/inttypes.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h
 
 ../include/stdc-predef.h:
 
@@ -119,7 +119,7 @@ private.h:
 
 ../include/gnu/stubs.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../sysdeps/unix/sysv/linux/bits/time.h:
 
@@ -211,7 +211,7 @@ private.h:
 
 ../bits/libc-header-start.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types/__fpos_t.h:
 
@@ -257,7 +257,7 @@ $(common-objpfx)bits/stdio_lim.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -407,4 +407,4 @@ $(common-objpfx)bits/stdio_lim.h:
 
 ../sysdeps/generic/inttypes.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:

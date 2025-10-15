@@ -15,7 +15,10 @@ $(common-objpfx)csu/sysdep.o: \
  /usr/include/x86_64-linux-gnu/asm/unistd_64.h ../sysdeps/x86_64/sysdep.h \
  ../sysdeps/x86/sysdep.h ../sysdeps/x86_64/nptl/tls.h \
  $(common-objpfx)tcb-offsets.h \
- ../sysdeps/unix/sysv/linux/dl-sysdep.h ../sysdeps/generic/dl-sysdep.h
+ ../sysdeps/unix/sysv/linux/dl-sysdep.h ../sysdeps/generic/dl-sysdep.h \
+ ../sysdeps/unix/x86_64/sysdep.S ../sysdeps/unix/sysv/linux/bits/errno.h \
+ /usr/include/linux/errno.h /usr/include/x86_64-linux-gnu/asm/errno.h \
+ /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h
 
 ../include/stdc-predef.h:
 
@@ -62,3 +65,15 @@ $(common-objpfx)tcb-offsets.h:
 ../sysdeps/unix/sysv/linux/dl-sysdep.h:
 
 ../sysdeps/generic/dl-sysdep.h:
+
+../sysdeps/unix/x86_64/sysdep.S:
+
+../sysdeps/unix/sysv/linux/bits/errno.h:
+
+/usr/include/linux/errno.h:
+
+/usr/include/x86_64-linux-gnu/asm/errno.h:
+
+/usr/include/asm-generic/errno.h:
+
+/usr/include/asm-generic/errno-base.h:

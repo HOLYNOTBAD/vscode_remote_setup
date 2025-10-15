@@ -10,7 +10,7 @@ $(common-objpfx)support/support_shared_allocate.oS: \
  ../sysdeps/unix/sysv/linux/bits/errno.h /usr/include/linux/errno.h \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
- ../bits/types/error_t.h /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ ../bits/types/error_t.h /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../support/support.h ../support/xunistd.h ../include/sys/types.h \
  ../posix/sys/types.h ../include/bits/types.h ../posix/bits/types.h \
  ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h \
@@ -77,7 +77,7 @@ $(common-objpfx)config.h:
 
 ../bits/types/error_t.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../support/support.h:
 

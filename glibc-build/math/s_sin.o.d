@@ -22,7 +22,7 @@ $(common-objpfx)math/s_sin.o: \
  ../include/bits/types/clockid_t.h ../time/bits/types/clockid_t.h \
  ../include/bits/types/time_t.h ../time/bits/types/time_t.h \
  ../include/bits/types/timer_t.h ../time/bits/types/timer_t.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../include/endian.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../include/endian.h \
  ../string/endian.h ../sysdeps/x86/bits/endian.h ../bits/byteswap.h \
  ../bits/uintn-identity.h ../include/sys/select.h ../misc/sys/select.h \
  ../sysdeps/x86/bits/select.h ../include/bits/types/sigset_t.h \
@@ -39,7 +39,7 @@ $(common-objpfx)math/s_sin.o: \
  ../include/bits/types/__locale_t.h ../locale/bits/types/__locale_t.h \
  ../include/strings.h ../string/strings.h ../sysdeps/x86/ldsodefs.h \
  ../sysdeps/x86/cpu-features.h ../sysdeps/generic/ldsodefs.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h ../include/dlfcn.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h ../include/dlfcn.h \
  ../dlfcn/dlfcn.h ../include/bits/dlfcn.h ../bits/dlfcn.h \
  ../include/link.h ../elf/link.h ../bits/elfclass.h \
  ../sysdeps/x86/bits/link.h ../sysdeps/x86/linkmap.h \
@@ -53,7 +53,7 @@ $(common-objpfx)math/s_sin.o: \
  ../bits/waitstatus.h ../include/alloca.h ../stdlib/alloca.h \
  ../include/stackinfo.h ../sysdeps/x86_64/stackinfo.h \
  ../sysdeps/pthread/allocalim.h ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -143,7 +143,7 @@ $(common-objpfx)math/s_sin.o: \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  ../bits/types/error_t.h ../include/float.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/float.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/float.h \
  ../sysdeps/ieee754/dbl-64/mydefs.h ../sysdeps/ieee754/dbl-64/usncs.h \
  ../sysdeps/ieee754/dbl-64/MathLib.h ../include/math.h ../math/math.h \
  ../sysdeps/x86/fpu/bits/math-vector.h ../bits/libm-simd-decl-stubs.h \
@@ -160,7 +160,8 @@ $(common-objpfx)math/s_sin.o: \
  ../sysdeps/x86/fpu/bits/fenv.h ../bits/fenvinline.h \
  ../sysdeps/generic/math_private.h ../sysdeps/generic/get-rounding-mode.h \
  ../sysdeps/x86_64/fpu/math_ldbl.h \
- ../sysdeps/generic/math_private_calls.h math-underflow.h \
+ ../sysdeps/generic/math_private_calls.h \
+ ../sysdeps/ieee754/float128/ieee754_float128.h math-underflow.h \
  ../sysdeps/x86/fpu/math-barriers.h
 
 ../include/stdc-predef.h:
@@ -247,7 +248,7 @@ $(common-objpfx)libc-abis.h:
 
 ../time/bits/types/timer_t.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/endian.h:
 
@@ -307,7 +308,7 @@ $(common-objpfx)libc-abis.h:
 
 ../sysdeps/generic/ldsodefs.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../include/dlfcn.h:
 
@@ -369,7 +370,7 @@ $(common-objpfx)libc-abis.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -651,7 +652,7 @@ $(common-objpfx)libc-abis.h:
 
 ../include/float.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/float.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/float.h:
 
 ../sysdeps/ieee754/dbl-64/mydefs.h:
 
@@ -712,6 +713,8 @@ $(common-objpfx)libc-abis.h:
 ../sysdeps/x86_64/fpu/math_ldbl.h:
 
 ../sysdeps/generic/math_private_calls.h:
+
+../sysdeps/ieee754/float128/ieee754_float128.h:
 
 math-underflow.h:
 

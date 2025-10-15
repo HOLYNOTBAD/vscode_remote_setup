@@ -15,12 +15,12 @@ $(common-objpfx)elf/dl-getcwd.os: \
  ../bits/types/error_t.h ../sysdeps/unix/sysv/linux/dl-sysdep.h \
  ../sysdeps/generic/dl-sysdep.h ../include/limits.h \
  ../bits/libc-header-start.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
  ../include/bits/xopen_lim.h ../sysdeps/unix/sysv/linux/bits/uio_lim.h \
- ../include/stdlib.h /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ ../include/stdlib.h /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../stdlib/stdlib.h ../sysdeps/unix/sysv/linux/bits/waitflags.h \
  ../bits/waitstatus.h ../sysdeps/x86/bits/floatn.h \
  ../bits/floatn-common.h ../include/bits/types/locale_t.h \
@@ -92,7 +92,7 @@ $(common-objpfx)elf/dl-getcwd.os: \
  ../sysdeps/x86/sysdep.h ../sysdeps/x86_64/nptl/tls.h \
  ../sysdeps/unix/sysv/linux/x86/include/asm/prctl.h \
  /usr/include/x86_64-linux-gnu/asm/prctl.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
  ../sysdeps/generic/dl-dtv.h ../nptl/descr.h ../include/sched.h \
  ../posix/sched.h ../sysdeps/unix/sysv/linux/bits/sched.h \
  ../bits/types/struct_sched_param.h ../include/bits/cpu-set.h \
@@ -191,7 +191,7 @@ $(common-objpfx)config.h:
 
 ../bits/libc-header-start.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -211,7 +211,7 @@ $(common-objpfx)config.h:
 
 ../include/stdlib.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../stdlib/stdlib.h:
 
@@ -447,7 +447,7 @@ $(common-objpfx)config.h:
 
 /usr/include/x86_64-linux-gnu/asm/prctl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../sysdeps/generic/dl-dtv.h:
 

@@ -14,8 +14,8 @@ $(common-objpfx)math/s_sin-avx.os: \
  ../bits/types/error_t.h ../sysdeps/x86_64/nptl/tls.h \
  ../sysdeps/unix/sysv/linux/x86/include/asm/prctl.h \
  /usr/include/x86_64-linux-gnu/asm/prctl.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../sysdeps/generic/stdint.h ../bits/libc-header-start.h \
  ../include/bits/types.h ../posix/bits/types.h \
  ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h ../bits/wchar.h \
@@ -45,7 +45,7 @@ $(common-objpfx)math/s_sin-avx.os: \
  ../include/elf.h ../elf/elf.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -121,7 +121,7 @@ $(common-objpfx)math/s_sin-avx.os: \
  ../include/bits/types/struct_osockaddr.h \
  ../socket/bits/types/struct_osockaddr.h \
  ../sysdeps/unix/sysv/linux/bits/in.h ../include/float.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/float.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/float.h \
  ../sysdeps/ieee754/dbl-64/mydefs.h ../sysdeps/ieee754/dbl-64/usncs.h \
  ../sysdeps/ieee754/dbl-64/MathLib.h ../include/math.h ../math/math.h \
  ../sysdeps/x86/fpu/bits/math-vector.h ../bits/libm-simd-decl-stubs.h \
@@ -139,7 +139,8 @@ $(common-objpfx)math/s_sin-avx.os: \
  ../include/fpu_control.h ../sysdeps/x86/fpu_control.h \
  ../sysdeps/generic/math_private.h ../sysdeps/generic/get-rounding-mode.h \
  ../sysdeps/x86_64/fpu/math_ldbl.h \
- ../sysdeps/generic/math_private_calls.h math-underflow.h \
+ ../sysdeps/generic/math_private_calls.h \
+ ../sysdeps/ieee754/float128/ieee754_float128.h math-underflow.h \
  ../sysdeps/x86/fpu/math-barriers.h \
  ../sysdeps/generic/libm-alias-double.h
 
@@ -189,9 +190,9 @@ $(common-objpfx)config.h:
 
 /usr/include/x86_64-linux-gnu/asm/prctl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../sysdeps/generic/stdint.h:
 
@@ -305,7 +306,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -551,7 +552,7 @@ $(common-objpfx)config.h:
 
 ../include/float.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/float.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/float.h:
 
 ../sysdeps/ieee754/dbl-64/mydefs.h:
 
@@ -616,6 +617,8 @@ $(common-objpfx)config.h:
 ../sysdeps/x86_64/fpu/math_ldbl.h:
 
 ../sysdeps/generic/math_private_calls.h:
+
+../sysdeps/ieee754/float128/ieee754_float128.h:
 
 math-underflow.h:
 

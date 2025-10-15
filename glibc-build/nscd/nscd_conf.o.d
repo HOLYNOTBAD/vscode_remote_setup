@@ -19,11 +19,11 @@ $(common-objpfx)nscd/nscd_conf.o: nscd_conf.c \
  ../bits/types/error_t.h ../include/error.h ../misc/error.h \
  ../include/bits/error.h ../include/bits/../../misc/bits/error.h \
  ../include/libintl.h ../intl/libintl.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../include/locale.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../include/locale.h \
  ../locale/locale.h ../include/bits/locale.h ../locale/bits/locale.h \
  ../include/malloc.h ../malloc/malloc.h ../include/stdio.h \
  ../libio/stdio.h ../bits/libc-header-start.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  ../include/bits/types/__fpos_t.h ../libio/bits/types/__fpos_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
  ../include/bits/types/__fpos64_t.h ../libio/bits/types/__fpos64_t.h \
@@ -65,7 +65,7 @@ $(common-objpfx)nscd/nscd_conf.o: nscd_conf.c \
  ../include/elf.h ../elf/elf.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -116,7 +116,7 @@ $(common-objpfx)nscd/nscd_conf.o: nscd_conf.c \
  ../include/bits/types/struct_tm.h ../time/bits/types/struct_tm.h \
  ../include/bits/types/struct_itimerspec.h \
  ../time/bits/types/struct_itimerspec.h ../sysdeps/x86/bits/setjmp.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h ../include/sys/uio.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h ../include/sys/uio.h \
  ../misc/sys/uio.h ../include/bits/types/struct_iovec.h \
  ../misc/bits/types/struct_iovec.h \
  ../sysdeps/unix/sysv/linux/bits/uio-ext.h nscd-client.h \
@@ -237,7 +237,7 @@ $(common-objpfx)config.h:
 
 ../intl/libintl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/locale.h:
 
@@ -257,7 +257,7 @@ $(common-objpfx)config.h:
 
 ../bits/libc-header-start.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types/__fpos_t.h:
 
@@ -411,7 +411,7 @@ $(common-objpfx)abi-versions.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -589,7 +589,7 @@ nscd.h:
 
 ../sysdeps/x86/bits/setjmp.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../include/sys/uio.h:
 

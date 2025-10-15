@@ -14,7 +14,7 @@ $(common-objpfx)malloc/obstack.o: obstack.c \
  ../include/bits/types/clockid_t.h ../time/bits/types/clockid_t.h \
  ../include/bits/types/time_t.h ../time/bits/types/time_t.h \
  ../include/bits/types/timer_t.h ../time/bits/types/timer_t.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../bits/stdint-intn.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../bits/stdint-intn.h \
  ../include/endian.h ../string/endian.h ../sysdeps/x86/bits/endian.h \
  ../bits/byteswap.h ../bits/uintn-identity.h ../include/sys/select.h \
  ../misc/sys/select.h ../sysdeps/x86/bits/select.h \
@@ -33,7 +33,7 @@ $(common-objpfx)malloc/obstack.o: obstack.c \
  ../string/strings.h ../include/shlib-compat.h \
  $(common-objpfx)abi-versions.h \
  ../include/stdio.h ../libio/stdio.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  ../include/bits/types/__fpos_t.h ../libio/bits/types/__fpos_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
  ../include/bits/types/__fpos64_t.h ../libio/bits/types/__fpos64_t.h \
@@ -54,7 +54,7 @@ $(common-objpfx)malloc/obstack.o: obstack.c \
  ../include/elf.h ../elf/elf.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -120,7 +120,7 @@ $(common-objpfx)config.h:
 
 ../time/bits/types/timer_t.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../bits/stdint-intn.h:
 
@@ -186,7 +186,7 @@ $(common-objpfx)abi-versions.h:
 
 ../libio/stdio.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types/__fpos_t.h:
 
@@ -270,7 +270,7 @@ $(common-objpfx)bits/stdio_lim.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 

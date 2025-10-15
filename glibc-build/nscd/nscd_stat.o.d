@@ -22,8 +22,8 @@ $(common-objpfx)nscd/nscd_stat.o: nscd_stat.c \
  ../include/bits/types/locale_t.h ../locale/bits/types/locale_t.h \
  ../include/bits/types/__locale_t.h ../locale/bits/types/__locale_t.h \
  ../include/stdio.h ../libio/stdio.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  ../include/bits/types/__fpos_t.h ../libio/bits/types/__fpos_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
  ../include/bits/types/__fpos64_t.h ../libio/bits/types/__fpos64_t.h \
@@ -63,7 +63,7 @@ $(common-objpfx)nscd/nscd_stat.o: nscd_stat.c \
  ../include/elf.h ../elf/elf.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -102,7 +102,7 @@ $(common-objpfx)nscd/nscd_stat.o: nscd_stat.c \
  ../include/bits/types/struct_tm.h ../time/bits/types/struct_tm.h \
  ../include/bits/types/struct_itimerspec.h \
  ../time/bits/types/struct_itimerspec.h ../sysdeps/x86/bits/setjmp.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h ../include/sys/uio.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h ../include/sys/uio.h \
  ../misc/sys/uio.h ../sysdeps/unix/sysv/linux/bits/uio-ext.h \
  nscd-client.h ../include/atomic.h ../sysdeps/x86_64/atomic-machine.h \
  ../sysdeps/x86_64/nptl/tls.h \
@@ -248,9 +248,9 @@ $(common-objpfx)config.h:
 
 ../libio/stdio.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types/__fpos_t.h:
 
@@ -394,7 +394,7 @@ $(common-objpfx)abi-versions.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -546,7 +546,7 @@ nscd.h:
 
 ../sysdeps/x86/bits/setjmp.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../include/sys/uio.h:
 

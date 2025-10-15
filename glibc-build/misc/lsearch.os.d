@@ -7,7 +7,7 @@ $(common-objpfx)misc/lsearch.os: lsearch.c \
  ../include/features.h ../include/sys/cdefs.h ../misc/sys/cdefs.h \
  ../sysdeps/x86/bits/wordsize.h \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h ../include/gnu/stubs.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../include/string.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../include/string.h \
  ../include/sys/types.h ../posix/sys/types.h ../include/bits/types.h \
  ../posix/bits/types.h ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h \
  ../include/bits/types/clock_t.h ../time/bits/types/clock_t.h \
@@ -58,7 +58,7 @@ $(common-objpfx)config.h:
 
 ../include/gnu/stubs.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/string.h:
 

@@ -7,7 +7,7 @@ $(common-objpfx)debug/mbstowcs_chk.os: \
  ../include/features.h ../include/sys/cdefs.h ../misc/sys/cdefs.h \
  ../sysdeps/x86/bits/wordsize.h \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h ../include/gnu/stubs.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../include/bits/locale.h ../locale/bits/locale.h \
  ../include/bits/types/locale_t.h ../locale/bits/types/locale_t.h \
  ../include/bits/types/__locale_t.h ../locale/bits/types/__locale_t.h \
@@ -33,7 +33,7 @@ $(common-objpfx)debug/mbstowcs_chk.os: \
  ../sysdeps/x86/string_private.h ../string/string.h \
  ../bits/libc-header-start.h ../include/strings.h ../string/strings.h \
  ../include/wchar.h ../wcsmbs/wchar.h ../sysdeps/x86/bits/floatn.h \
- ../bits/floatn-common.h /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
+ ../bits/floatn-common.h /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  ../bits/wchar.h ../include/bits/types/wint_t.h \
  ../wcsmbs/bits/types/wint_t.h ../include/bits/types/mbstate_t.h \
  ../wcsmbs/bits/types/mbstate_t.h ../include/bits/types/__mbstate_t.h \
@@ -67,7 +67,7 @@ $(common-objpfx)config.h:
 
 ../include/gnu/stubs.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/bits/locale.h:
 
@@ -165,7 +165,7 @@ $(common-objpfx)config.h:
 
 ../bits/floatn-common.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../bits/wchar.h:
 

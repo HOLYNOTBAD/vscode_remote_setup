@@ -12,7 +12,7 @@ $(common-objpfx)support/xpthread_cond_wait.oS: \
  ../bits/byteswap.h ../include/bits/types.h ../posix/bits/types.h \
  ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h ../bits/uintn-identity.h \
  ../include/sched.h ../posix/sched.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../include/bits/types/time_t.h ../time/bits/types/time_t.h \
  ../include/bits/types/struct_timespec.h \
  ../time/bits/types/struct_timespec.h \
@@ -82,7 +82,7 @@ $(common-objpfx)config.h:
 
 ../posix/sched.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/bits/types/time_t.h:
 

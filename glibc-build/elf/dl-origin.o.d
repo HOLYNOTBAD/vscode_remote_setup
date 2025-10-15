@@ -7,7 +7,7 @@ $(common-objpfx)elf/dl-origin.o: \
  ../include/features.h ../include/sys/cdefs.h ../misc/sys/cdefs.h \
  ../sysdeps/x86/bits/wordsize.h \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h ../include/gnu/stubs.h \
- ../include/stdlib.h /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ ../include/stdlib.h /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../stdlib/stdlib.h ../bits/libc-header-start.h \
  ../sysdeps/unix/sysv/linux/bits/waitflags.h ../bits/waitstatus.h \
  ../sysdeps/x86/bits/floatn.h ../bits/floatn-common.h \
@@ -36,7 +36,7 @@ $(common-objpfx)elf/dl-origin.o: \
  ../bits/wchar.h ../bits/stdint-uintn.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -79,7 +79,7 @@ $(common-objpfx)elf/dl-origin.o: \
  $(common-objpfx)libc-abis.h \
  ../sysdeps/x86/ldsodefs.h ../sysdeps/x86/cpu-features.h \
  ../sysdeps/generic/ldsodefs.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h ../include/dlfcn.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h ../include/dlfcn.h \
  ../dlfcn/dlfcn.h ../include/bits/dlfcn.h ../bits/dlfcn.h \
  ../include/link.h ../elf/link.h ../bits/elfclass.h \
  ../sysdeps/x86/bits/link.h ../sysdeps/x86/linkmap.h \
@@ -171,7 +171,7 @@ $(common-objpfx)config.h:
 
 ../include/stdlib.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../stdlib/stdlib.h:
 
@@ -283,7 +283,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -419,7 +419,7 @@ $(common-objpfx)libc-abis.h:
 
 ../sysdeps/generic/ldsodefs.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../include/dlfcn.h:
 

@@ -20,7 +20,7 @@ $(common-objpfx)misc/ualarm.os: \
  ../time/bits/types/struct_timespec.h ../include/unistd.h \
  ../posix/unistd.h ../sysdeps/unix/sysv/linux/bits/posix_opt.h \
  ../sysdeps/unix/sysv/linux/x86/bits/environments.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../bits/confname.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../bits/confname.h \
  ../include/bits/getopt_posix.h ../posix/bits/getopt_posix.h \
  ../include/bits/getopt_core.h ../posix/bits/getopt_core.h
 
@@ -90,7 +90,7 @@ $(common-objpfx)config.h:
 
 ../sysdeps/unix/sysv/linux/x86/bits/environments.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../bits/confname.h:
 

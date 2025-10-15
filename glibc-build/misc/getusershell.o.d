@@ -4,7 +4,7 @@ $(common-objpfx)misc/getusershell.o: \
  ../include/libc-symbols.h \
  $(common-objpfx)config.h \
  ../sysdeps/generic/symbol-hacks.h ../include/sys/param.h \
- ../misc/sys/param.h /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ ../misc/sys/param.h /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../include/sys/types.h ../posix/sys/types.h ../include/features.h \
  ../include/sys/cdefs.h ../misc/sys/cdefs.h \
  ../sysdeps/x86/bits/wordsize.h \
@@ -28,7 +28,7 @@ $(common-objpfx)misc/getusershell.o: \
  ../sysdeps/nptl/bits/thread-shared-types.h \
  ../sysdeps/x86/nptl/bits/pthreadtypes-arch.h ../include/limits.h \
  ../bits/libc-header-start.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -63,7 +63,7 @@ $(common-objpfx)misc/getusershell.o: \
  /usr/include/linux/falloc.h ../sysdeps/unix/sysv/linux/x86/bits/stat.h \
  ../include/sys/stat.h ../io/sys/stat.h ../include/bits/statx.h \
  ../io/bits/statx.h ../include/stdio.h ../libio/stdio.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  ../include/bits/types/__fpos_t.h ../libio/bits/types/__fpos_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
  ../include/bits/types/__fpos64_t.h ../libio/bits/types/__fpos64_t.h \
@@ -95,7 +95,7 @@ $(common-objpfx)misc/getusershell.o: \
  ../sysdeps/x86_64/nptl/tls.h \
  ../sysdeps/unix/sysv/linux/x86/include/asm/prctl.h \
  /usr/include/x86_64-linux-gnu/asm/prctl.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h ../include/stdlib.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h ../include/stdlib.h \
  ../stdlib/stdlib.h ../sysdeps/unix/sysv/linux/bits/waitflags.h \
  ../bits/waitstatus.h ../sysdeps/x86/bits/floatn.h \
  ../bits/floatn-common.h ../include/alloca.h ../stdlib/alloca.h \
@@ -161,7 +161,7 @@ $(common-objpfx)config.h:
 
 ../misc/sys/param.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/sys/types.h:
 
@@ -243,7 +243,7 @@ $(common-objpfx)config.h:
 
 ../bits/libc-header-start.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -351,7 +351,7 @@ $(common-objpfx)config.h:
 
 ../libio/stdio.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types/__fpos_t.h:
 
@@ -469,7 +469,7 @@ $(common-objpfx)abi-versions.h:
 
 /usr/include/x86_64-linux-gnu/asm/prctl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../include/stdlib.h:
 

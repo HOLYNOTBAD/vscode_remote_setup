@@ -13,8 +13,8 @@ $(common-objpfx)math/s_sincosf-fma.o: \
  ../bits/types/error_t.h ../sysdeps/x86_64/nptl/tls.h \
  ../sysdeps/unix/sysv/linux/x86/include/asm/prctl.h \
  /usr/include/x86_64-linux-gnu/asm/prctl.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../sysdeps/generic/stdint.h ../bits/libc-header-start.h \
  ../include/bits/types.h ../posix/bits/types.h \
  ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h ../bits/wchar.h \
@@ -44,7 +44,7 @@ $(common-objpfx)math/s_sincosf-fma.o: \
  ../include/elf.h ../elf/elf.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -136,64 +136,60 @@ $(common-objpfx)math/s_sincosf-fma.o: \
  ../sysdeps/generic/math_private.h ../sysdeps/generic/get-rounding-mode.h \
  ../sysdeps/x86_64/fpu/math_ldbl.h \
  ../sysdeps/generic/math_private_calls.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/x86intrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/ia32intrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/mmintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/xmmintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/mm_malloc.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/emmintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/pmmintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/tmmintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/ammintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/smmintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/popcntintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/wmmintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/immintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/avxintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/avx2intrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/avx512fintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/avx512erintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/avx512pfintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/avx512cdintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/avx512vlintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/avx512bwintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/avx512dqintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/avx512vlbwintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/avx512vldqintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/avx512ifmaintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/avx512ifmavlintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/avx512vbmiintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/avx512vbmivlintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/avx5124fmapsintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/avx5124vnniwintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/avx512vpopcntdqintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/shaintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/lzcntintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/bmiintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/bmi2intrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/fmaintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/f16cintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/rtmintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/xtestintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/mm3dnow.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/prfchwintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/fma4intrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/xopintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/lwpintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/tbmintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/rdseedintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/fxsrintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/xsaveintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/xsaveoptintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/sgxintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/adxintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/clwbintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/clflushoptintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/xsavesintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/xsavecintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/mwaitxintrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/clzerointrin.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/pkuintrin.h \
+ ../sysdeps/ieee754/float128/ieee754_float128.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/x86intrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/ia32intrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/mmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/xmmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/mm_malloc.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/emmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/pmmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/tmmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/ammintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/smmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/popcntintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/wmmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/immintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avxintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx2intrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512fintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512erintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512pfintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512cdintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vlintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512bwintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512dqintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vlbwintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vldqintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512ifmaintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512ifmavlintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vbmiintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vbmivlintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/shaintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/lzcntintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/bmiintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/bmi2intrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/fmaintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/f16cintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/rtmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/xtestintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/mm3dnow.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/prfchwintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/fma4intrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/xopintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/lwpintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/tbmintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/rdseedintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/fxsrintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/xsaveintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/xsaveoptintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/adxintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/clwbintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/pcommitintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/clflushoptintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/xsavesintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/xsavecintrin.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/mwaitxintrin.h \
  ../sysdeps/generic/libm-alias-float.h \
  ../sysdeps/ieee754/flt-32/s_sincosf.h
 
@@ -241,9 +237,9 @@ $(common-objpfx)config.h:
 
 /usr/include/x86_64-linux-gnu/asm/prctl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../sysdeps/generic/stdint.h:
 
@@ -357,7 +353,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -659,121 +655,113 @@ $(common-objpfx)config.h:
 
 ../sysdeps/generic/math_private_calls.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/x86intrin.h:
+../sysdeps/ieee754/float128/ieee754_float128.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/ia32intrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/x86intrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/mmintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/ia32intrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/xmmintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/mmintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/mm_malloc.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/xmmintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/emmintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/mm_malloc.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/pmmintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/emmintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/tmmintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/pmmintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/ammintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/tmmintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/smmintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/ammintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/popcntintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/smmintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/wmmintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/popcntintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/immintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/wmmintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/avxintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/immintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/avx2intrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avxintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/avx512fintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx2intrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/avx512erintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512fintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/avx512pfintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512erintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/avx512cdintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512pfintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/avx512vlintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512cdintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/avx512bwintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vlintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/avx512dqintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512bwintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/avx512vlbwintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512dqintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/avx512vldqintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vlbwintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/avx512ifmaintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vldqintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/avx512ifmavlintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512ifmaintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/avx512vbmiintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512ifmavlintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/avx512vbmivlintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vbmiintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/avx5124fmapsintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/avx512vbmivlintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/avx5124vnniwintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/shaintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/avx512vpopcntdqintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/lzcntintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/shaintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/bmiintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/lzcntintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/bmi2intrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/bmiintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/fmaintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/bmi2intrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/f16cintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/fmaintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/rtmintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/f16cintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/xtestintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/rtmintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/mm3dnow.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/xtestintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/prfchwintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/mm3dnow.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/fma4intrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/prfchwintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/xopintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/fma4intrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/lwpintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/xopintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/tbmintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/lwpintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/rdseedintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/tbmintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/fxsrintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/rdseedintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/xsaveintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/fxsrintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/xsaveoptintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/xsaveintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/adxintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/xsaveoptintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/clwbintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/sgxintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/pcommitintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/adxintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/clflushoptintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/clwbintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/xsavesintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/clflushoptintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/xsavecintrin.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/xsavesintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/7/include/xsavecintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/7/include/mwaitxintrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/7/include/clzerointrin.h:
-
-/usr/lib/gcc/x86_64-linux-gnu/7/include/pkuintrin.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/mwaitxintrin.h:
 
 ../sysdeps/generic/libm-alias-float.h:
 

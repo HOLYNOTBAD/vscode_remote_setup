@@ -1936,37 +1936,11 @@ $(foreach p,$(sysd-rules-targets),$(foreach o,$(object-suffixes),$(objpfx)$(pats
 	) | $(compile-syscall) $(foreach p,$(patsubst %memfd_create,%,$(basename $(@F))),$($(p)CPPFLAGS))
 endif
 
-#### CALL=pkey_alloc NUMBER=330 ARGS=i:ii SOURCE=-
-ifeq (,$(filter pkey_alloc,$(unix-syscalls)))
-unix-syscalls += pkey_alloc
-unix-extra-syscalls += pkey_alloc
-$(foreach p,$(sysd-rules-targets),$(foreach o,$(object-suffixes),$(objpfx)$(patsubst %,$p,pkey_alloc)$o)): \
-		$(..)sysdeps/unix/make-syscalls.sh
-	$(make-target-directory)
-	(echo '#define SYSCALL_NAME pkey_alloc'; \
-	 echo '#define SYSCALL_NARGS 2'; \
-	 echo '#define SYSCALL_SYMBOL pkey_alloc'; \
-	 echo '#define SYSCALL_NOERRNO 0'; \
-	 echo '#define SYSCALL_ERRVAL 0'; \
-	 echo '#include <syscall-template.S>'; \
-	) | $(compile-syscall) $(foreach p,$(patsubst %pkey_alloc,%,$(basename $(@F))),$($(p)CPPFLAGS))
-endif
+#### CALL=pkey_alloc NUMBER=- ARGS=i:ii SOURCE=-
+unix-stub-syscalls += pkey_alloc 
 
-#### CALL=pkey_free NUMBER=331 ARGS=i:i SOURCE=-
-ifeq (,$(filter pkey_free,$(unix-syscalls)))
-unix-syscalls += pkey_free
-unix-extra-syscalls += pkey_free
-$(foreach p,$(sysd-rules-targets),$(foreach o,$(object-suffixes),$(objpfx)$(patsubst %,$p,pkey_free)$o)): \
-		$(..)sysdeps/unix/make-syscalls.sh
-	$(make-target-directory)
-	(echo '#define SYSCALL_NAME pkey_free'; \
-	 echo '#define SYSCALL_NARGS 1'; \
-	 echo '#define SYSCALL_SYMBOL pkey_free'; \
-	 echo '#define SYSCALL_NOERRNO 0'; \
-	 echo '#define SYSCALL_ERRVAL 0'; \
-	 echo '#include <syscall-template.S>'; \
-	) | $(compile-syscall) $(foreach p,$(patsubst %pkey_free,%,$(basename $(@F))),$($(p)CPPFLAGS))
-endif
+#### CALL=pkey_free NUMBER=- ARGS=i:i SOURCE=-
+unix-stub-syscalls += pkey_free 
 
 #### DIRECTORY = sysdeps/unix
 #### SYSDIRS = sysdeps/unix/sysv/linux/x86_64/64 sysdeps/unix/sysv/linux/x86_64 sysdeps/unix/sysv/linux/x86 sysdeps/x86/nptl sysdeps/unix/sysv/linux/wordsize-64 sysdeps/x86_64/nptl sysdeps/unix/sysv/linux sysdeps/nptl sysdeps/pthread sysdeps/gnu sysdeps/unix/inet sysdeps/unix/sysv sysdeps/unix/x86_64

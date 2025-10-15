@@ -14,8 +14,8 @@ $(common-objpfx)inet/check_pf.os: \
  ../bits/types/error_t.h ../sysdeps/x86_64/nptl/tls.h \
  ../sysdeps/unix/sysv/linux/x86/include/asm/prctl.h \
  /usr/include/x86_64-linux-gnu/asm/prctl.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../sysdeps/generic/stdint.h ../bits/libc-header-start.h \
  ../include/bits/types.h ../posix/bits/types.h \
  ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h ../bits/wchar.h \
@@ -45,7 +45,7 @@ $(common-objpfx)inet/check_pf.os: \
  ../include/elf.h ../elf/elf.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -128,7 +128,7 @@ $(common-objpfx)inet/check_pf.os: \
  ../include/arpa/nameser_compat.h ../resolv/arpa/nameser_compat.h \
  ../include/nss.h ../nss/nss.h ../include/resolv.h ../resolv/resolv.h \
  ../include/stdio.h ../libio/stdio.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  ../include/bits/types/__fpos_t.h ../libio/bits/types/__fpos_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
  ../include/bits/types/__fpos64_t.h ../libio/bits/types/__fpos64_t.h \
@@ -160,15 +160,15 @@ $(common-objpfx)inet/check_pf.os: \
  /usr/include/asm-generic/types.h /usr/include/asm-generic/int-ll64.h \
  /usr/include/x86_64-linux-gnu/asm/bitsperlong.h \
  /usr/include/asm-generic/bitsperlong.h /usr/include/linux/netlink.h \
- /usr/include/linux/const.h /usr/include/linux/socket.h \
+ /usr/include/linux/kernel.h /usr/include/linux/sysinfo.h \
  /usr/include/linux/types.h /usr/include/linux/posix_types.h \
  /usr/include/linux/stddef.h \
  /usr/include/x86_64-linux-gnu/asm/posix_types.h \
  /usr/include/x86_64-linux-gnu/asm/posix_types_64.h \
- /usr/include/asm-generic/posix_types.h /usr/include/linux/rtnetlink.h \
- /usr/include/linux/if_link.h /usr/include/linux/if_addr.h \
- /usr/include/linux/neighbour.h ../sysdeps/unix/sysv/linux/not-cancel.h \
- ../include/fcntl.h ../io/fcntl.h \
+ /usr/include/asm-generic/posix_types.h /usr/include/linux/socket.h \
+ /usr/include/linux/rtnetlink.h /usr/include/linux/if_link.h \
+ /usr/include/linux/if_addr.h /usr/include/linux/neighbour.h \
+ ../sysdeps/unix/sysv/linux/not-cancel.h ../include/fcntl.h ../io/fcntl.h \
  ../sysdeps/unix/sysv/linux/x86/bits/fcntl.h \
  ../sysdeps/unix/sysv/linux/bits/fcntl-linux.h \
  /usr/include/linux/falloc.h ../include/sys/wait.h ../posix/sys/wait.h \
@@ -225,9 +225,9 @@ $(common-objpfx)config.h:
 
 /usr/include/x86_64-linux-gnu/asm/prctl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../sysdeps/generic/stdint.h:
 
@@ -341,7 +341,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -625,7 +625,7 @@ $(common-objpfx)config.h:
 
 ../libio/stdio.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types/__fpos_t.h:
 
@@ -749,9 +749,9 @@ $(common-objpfx)abi-versions.h:
 
 /usr/include/linux/netlink.h:
 
-/usr/include/linux/const.h:
+/usr/include/linux/kernel.h:
 
-/usr/include/linux/socket.h:
+/usr/include/linux/sysinfo.h:
 
 /usr/include/linux/types.h:
 
@@ -764,6 +764,8 @@ $(common-objpfx)abi-versions.h:
 /usr/include/x86_64-linux-gnu/asm/posix_types_64.h:
 
 /usr/include/asm-generic/posix_types.h:
+
+/usr/include/linux/socket.h:
 
 /usr/include/linux/rtnetlink.h:
 

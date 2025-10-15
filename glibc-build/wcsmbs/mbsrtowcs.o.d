@@ -8,8 +8,8 @@ $(common-objpfx)wcsmbs/mbsrtowcs.o: \
  ../misc/sys/cdefs.h ../sysdeps/x86/bits/wordsize.h \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h ../include/gnu/stubs.h \
  ../sysdeps/x86/bits/floatn.h ../bits/floatn-common.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h ../bits/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h ../bits/wchar.h \
  ../include/bits/types/wint_t.h ../wcsmbs/bits/types/wint_t.h \
  ../include/bits/types/mbstate_t.h ../wcsmbs/bits/types/mbstate_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
@@ -20,7 +20,7 @@ $(common-objpfx)wcsmbs/mbsrtowcs.o: \
  ../locale/localeinfo.h ../include/langinfo.h ../locale/langinfo.h \
  ../include/nl_types.h ../catgets/nl_types.h ../include/bits/locale.h \
  ../locale/bits/locale.h ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -52,7 +52,7 @@ $(common-objpfx)wcsmbs/mbsrtowcs.o: \
  ../sysdeps/x86_64/nptl/tls.h \
  ../sysdeps/unix/sysv/linux/x86/include/asm/prctl.h \
  /usr/include/x86_64-linux-gnu/asm/prctl.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h ../include/stdlib.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h ../include/stdlib.h \
  ../stdlib/stdlib.h ../sysdeps/unix/sysv/linux/bits/waitflags.h \
  ../bits/waitstatus.h ../include/alloca.h ../stdlib/alloca.h \
  ../include/stackinfo.h ../sysdeps/x86_64/stackinfo.h ../include/elf.h \
@@ -156,9 +156,9 @@ $(common-objpfx)config.h:
 
 ../bits/floatn-common.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../bits/wchar.h:
 
@@ -206,7 +206,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -324,7 +324,7 @@ $(common-objpfx)config.h:
 
 /usr/include/x86_64-linux-gnu/asm/prctl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../include/stdlib.h:
 

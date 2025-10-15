@@ -7,7 +7,7 @@ $(common-objpfx)nscd/gai.o: gai.c \
  ../include/features.h ../include/sys/cdefs.h ../misc/sys/cdefs.h \
  ../sysdeps/x86/bits/wordsize.h \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h ../include/gnu/stubs.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../include/stackinfo.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../include/stackinfo.h \
  ../sysdeps/x86_64/stackinfo.h ../include/elf.h ../elf/elf.h \
  ../sysdeps/generic/stdint.h ../bits/libc-header-start.h \
  ../include/bits/types.h ../posix/bits/types.h \
@@ -15,7 +15,7 @@ $(common-objpfx)nscd/gai.o: gai.c \
  ../bits/stdint-intn.h ../bits/stdint-uintn.h \
  ../include/libc-pointer-arith.h ../sysdeps/generic/dl-dtprocnum.h \
  ../sysdeps/pthread/allocalim.h ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -57,7 +57,7 @@ $(common-objpfx)nscd/gai.o: gai.c \
  ../include/bits/types/struct_osockaddr.h \
  ../socket/bits/types/struct_osockaddr.h ../include/bits/socket2.h \
  ../socket/bits/socket2.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h ../include/netdb.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h ../include/netdb.h \
  ../resolv/netdb.h ../include/netinet/in.h ../inet/netinet/in.h \
  ../sysdeps/unix/sysv/linux/bits/in.h ../include/rpc/netdb.h \
  ../sunrpc/rpc/netdb.h ../sysdeps/unix/sysv/linux/bits/types/sigevent_t.h \
@@ -92,7 +92,7 @@ $(common-objpfx)nscd/gai.o: gai.c \
  ../string/bits/strings_fortified.h ../include/bits/string_fortified.h \
  ../string/bits/string_fortified.h ../include/nss.h ../nss/nss.h \
  ../include/resolv.h ../resolv/resolv.h ../include/stdio.h \
- ../libio/stdio.h /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
+ ../libio/stdio.h /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  ../include/bits/types/__fpos_t.h ../libio/bits/types/__fpos_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
  ../include/bits/types/__fpos64_t.h ../libio/bits/types/__fpos64_t.h \
@@ -184,14 +184,14 @@ $(common-objpfx)nscd/gai.o: gai.c \
  /usr/include/asm-generic/types.h /usr/include/asm-generic/int-ll64.h \
  /usr/include/x86_64-linux-gnu/asm/bitsperlong.h \
  /usr/include/asm-generic/bitsperlong.h /usr/include/linux/netlink.h \
- /usr/include/linux/const.h /usr/include/linux/socket.h \
+ /usr/include/linux/kernel.h /usr/include/linux/sysinfo.h \
  /usr/include/linux/types.h /usr/include/linux/posix_types.h \
  /usr/include/linux/stddef.h \
  /usr/include/x86_64-linux-gnu/asm/posix_types.h \
  /usr/include/x86_64-linux-gnu/asm/posix_types_64.h \
- /usr/include/asm-generic/posix_types.h /usr/include/linux/rtnetlink.h \
- /usr/include/linux/if_link.h /usr/include/linux/if_addr.h \
- /usr/include/linux/neighbour.h \
+ /usr/include/asm-generic/posix_types.h /usr/include/linux/socket.h \
+ /usr/include/linux/rtnetlink.h /usr/include/linux/if_link.h \
+ /usr/include/linux/if_addr.h /usr/include/linux/neighbour.h \
  ../sysdeps/unix/sysv/linux/netlinkaccess.h \
  ../sysdeps/unix/sysv/linux/check_native.c \
  ../sysdeps/unix/sysv/linux/net/if_arp.h ../include/sys/ioctl.h \
@@ -229,7 +229,7 @@ $(common-objpfx)config.h:
 
 ../include/gnu/stubs.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/stackinfo.h:
 
@@ -263,7 +263,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -409,7 +409,7 @@ $(common-objpfx)config.h:
 
 ../socket/bits/socket2.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../include/netdb.h:
 
@@ -533,7 +533,7 @@ $(common-objpfx)config.h:
 
 ../libio/stdio.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types/__fpos_t.h:
 
@@ -887,9 +887,9 @@ $(common-objpfx)abi-versions.h:
 
 /usr/include/linux/netlink.h:
 
-/usr/include/linux/const.h:
+/usr/include/linux/kernel.h:
 
-/usr/include/linux/socket.h:
+/usr/include/linux/sysinfo.h:
 
 /usr/include/linux/types.h:
 
@@ -902,6 +902,8 @@ $(common-objpfx)abi-versions.h:
 /usr/include/x86_64-linux-gnu/asm/posix_types_64.h:
 
 /usr/include/asm-generic/posix_types.h:
+
+/usr/include/linux/socket.h:
 
 /usr/include/linux/rtnetlink.h:
 

@@ -6,7 +6,7 @@ $(common-objpfx)io/fstatvfs.o: \
  $(common-objpfx)config.h \
  ../sysdeps/generic/symbol-hacks.h \
  ../sysdeps/unix/sysv/linux/wordsize-64/../fstatvfs.c \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../include/sys/stat.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../include/sys/stat.h \
  ../io/sys/stat.h ../include/features.h ../include/sys/cdefs.h \
  ../misc/sys/cdefs.h ../sysdeps/x86/bits/wordsize.h \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h ../include/gnu/stubs.h \
@@ -33,7 +33,7 @@ $(common-objpfx)config.h:
 
 ../sysdeps/unix/sysv/linux/wordsize-64/../fstatvfs.c:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/sys/stat.h:
 

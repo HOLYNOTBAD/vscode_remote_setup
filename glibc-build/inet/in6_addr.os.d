@@ -11,7 +11,7 @@ $(common-objpfx)inet/in6_addr.os: in6_addr.c \
  ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h ../include/sys/socket.h \
  ../socket/sys/socket.h ../include/bits/types/struct_iovec.h \
  ../misc/bits/types/struct_iovec.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../sysdeps/unix/sysv/linux/bits/socket.h ../include/sys/types.h \
  ../posix/sys/types.h ../include/bits/types/clock_t.h \
  ../time/bits/types/clock_t.h ../include/bits/types/clockid_t.h \
@@ -80,7 +80,7 @@ $(common-objpfx)config.h:
 
 ../misc/bits/types/struct_iovec.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../sysdeps/unix/sysv/linux/bits/socket.h:
 

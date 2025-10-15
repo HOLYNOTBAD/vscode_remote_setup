@@ -25,7 +25,7 @@ $(common-objpfx)gmon/sprofil.os: \
  ../sysdeps/unix/sysv/linux/bits/sigevent-consts.h \
  ../sysdeps/unix/sysv/linux/bits/sigaction.h \
  ../sysdeps/unix/sysv/linux/x86/bits/sigcontext.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../sysdeps/unix/sysv/linux/bits/types/stack_t.h \
  ../sysdeps/unix/sysv/linux/x86/sys/ucontext.h \
  ../sysdeps/unix/sysv/linux/bits/sigstack.h \
@@ -56,7 +56,7 @@ $(common-objpfx)gmon/sprofil.os: \
  ../bits/wchar.h ../bits/stdint-uintn.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -159,7 +159,7 @@ $(common-objpfx)config.h:
 
 ../sysdeps/unix/sysv/linux/x86/bits/sigcontext.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../sysdeps/unix/sysv/linux/bits/types/stack_t.h:
 
@@ -271,7 +271,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 

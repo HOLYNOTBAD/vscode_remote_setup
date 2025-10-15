@@ -7,7 +7,7 @@ $(common-objpfx)nscd/netgroupcache.o: \
  ../include/features.h ../include/sys/cdefs.h ../misc/sys/cdefs.h \
  ../sysdeps/x86/bits/wordsize.h \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h ../include/gnu/stubs.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../include/stackinfo.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../include/stackinfo.h \
  ../sysdeps/x86_64/stackinfo.h ../include/elf.h ../elf/elf.h \
  ../sysdeps/generic/stdint.h ../bits/libc-header-start.h \
  ../include/bits/types.h ../posix/bits/types.h \
@@ -15,7 +15,7 @@ $(common-objpfx)nscd/netgroupcache.o: \
  ../bits/stdint-intn.h ../bits/stdint-uintn.h \
  ../include/libc-pointer-arith.h ../sysdeps/generic/dl-dtprocnum.h \
  ../sysdeps/pthread/allocalim.h ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -29,7 +29,7 @@ $(common-objpfx)nscd/netgroupcache.o: \
  ../locale/bits/locale.h ../include/bits/types/locale_t.h \
  ../locale/bits/types/locale_t.h ../include/bits/types/__locale_t.h \
  ../locale/bits/types/__locale_t.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h ../include/stdlib.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h ../include/stdlib.h \
  ../stdlib/stdlib.h ../sysdeps/unix/sysv/linux/bits/waitflags.h \
  ../bits/waitstatus.h ../sysdeps/x86/bits/floatn.h \
  ../bits/floatn-common.h ../include/sys/types.h ../posix/sys/types.h \
@@ -105,7 +105,7 @@ $(common-objpfx)nscd/netgroupcache.o: \
  ../socket/bits/socket2.h ../sysdeps/unix/sysv/linux/bits/in.h \
  ../include/nss.h ../nss/nss.h ../include/resolv.h ../resolv/resolv.h \
  ../include/stdio.h ../libio/stdio.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  ../include/bits/types/__fpos_t.h ../libio/bits/types/__fpos_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
  ../include/bits/types/__fpos64_t.h ../libio/bits/types/__fpos64_t.h \
@@ -193,7 +193,7 @@ $(common-objpfx)config.h:
 
 ../include/gnu/stubs.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/stackinfo.h:
 
@@ -227,7 +227,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -285,7 +285,7 @@ $(common-objpfx)config.h:
 
 ../locale/bits/types/__locale_t.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../include/stdlib.h:
 
@@ -553,7 +553,7 @@ $(common-objpfx)config.h:
 
 ../libio/stdio.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types/__fpos_t.h:
 

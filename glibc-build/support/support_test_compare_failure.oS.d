@@ -12,8 +12,8 @@ $(common-objpfx)support/support_test_compare_failure.oS: \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  ../bits/types/error_t.h ../include/stdio.h ../libio/stdio.h \
  ../bits/libc-header-start.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h ../include/bits/types.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h ../include/bits/types.h \
  ../posix/bits/types.h ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h \
  ../include/bits/types/__fpos_t.h ../libio/bits/types/__fpos_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
@@ -75,9 +75,9 @@ $(common-objpfx)config.h:
 
 ../bits/libc-header-start.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types.h:
 

@@ -18,7 +18,7 @@ $(common-objpfx)nscd/mem.o: mem.c \
  ../sysdeps/unix/sysv/linux/x86/bits/fcntl.h \
  ../sysdeps/unix/sysv/linux/bits/fcntl-linux.h \
  ../include/bits/types/struct_iovec.h ../misc/bits/types/struct_iovec.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  /usr/include/linux/falloc.h ../include/bits/types/struct_timespec.h \
  ../time/bits/types/struct_timespec.h \
  ../sysdeps/unix/sysv/linux/x86/bits/stat.h ../include/bits/fcntl2.h \
@@ -30,7 +30,7 @@ $(common-objpfx)nscd/mem.o: mem.c \
  ../locale/bits/locale.h ../include/bits/types/locale_t.h \
  ../locale/bits/types/locale_t.h ../include/bits/types/__locale_t.h \
  ../locale/bits/types/__locale_t.h ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -105,7 +105,7 @@ $(common-objpfx)nscd/mem.o: mem.c \
  ../include/bits/types/struct_tm.h ../time/bits/types/struct_tm.h \
  ../include/bits/types/struct_itimerspec.h \
  ../time/bits/types/struct_itimerspec.h ../sysdeps/x86/bits/setjmp.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h ../include/sys/uio.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h ../include/sys/uio.h \
  ../misc/sys/uio.h ../sysdeps/unix/sysv/linux/bits/uio-ext.h \
  nscd-client.h ../include/atomic.h ../sysdeps/x86_64/atomic-machine.h \
  ../sysdeps/x86_64/nptl/tls.h \
@@ -214,7 +214,7 @@ $(common-objpfx)config.h:
 
 ../misc/bits/types/struct_iovec.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 /usr/include/linux/falloc.h:
 
@@ -264,7 +264,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -540,7 +540,7 @@ nscd.h:
 
 ../sysdeps/x86/bits/setjmp.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../include/sys/uio.h:
 

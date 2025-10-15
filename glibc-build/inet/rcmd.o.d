@@ -4,7 +4,7 @@ $(common-objpfx)inet/rcmd.o: rcmd.c \
  ../include/libc-symbols.h \
  $(common-objpfx)config.h \
  ../sysdeps/generic/symbol-hacks.h ../include/sys/param.h \
- ../misc/sys/param.h /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ ../misc/sys/param.h /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../include/sys/types.h ../posix/sys/types.h ../include/features.h \
  ../include/sys/cdefs.h ../misc/sys/cdefs.h \
  ../sysdeps/x86/bits/wordsize.h \
@@ -28,7 +28,7 @@ $(common-objpfx)inet/rcmd.o: rcmd.c \
  ../sysdeps/nptl/bits/thread-shared-types.h \
  ../sysdeps/x86/nptl/bits/pthreadtypes-arch.h ../include/limits.h \
  ../bits/libc-header-start.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -87,9 +87,9 @@ $(common-objpfx)inet/rcmd.o: rcmd.c \
  ../include/bits/types/locale_t.h ../locale/bits/types/locale_t.h \
  ../include/bits/types/__locale_t.h ../locale/bits/types/__locale_t.h \
  ../include/strings.h ../string/strings.h ../include/nss.h ../nss/nss.h \
- ../include/resolv.h /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
+ ../include/resolv.h /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
  ../resolv/resolv.h ../include/stdio.h ../libio/stdio.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  ../include/bits/types/__fpos_t.h ../libio/bits/types/__fpos_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
  ../include/bits/types/__fpos64_t.h ../libio/bits/types/__fpos64_t.h \
@@ -186,7 +186,7 @@ $(common-objpfx)config.h:
 
 ../misc/sys/param.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/sys/types.h:
 
@@ -268,7 +268,7 @@ $(common-objpfx)config.h:
 
 ../bits/libc-header-start.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -478,7 +478,7 @@ $(common-objpfx)config.h:
 
 ../include/resolv.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../resolv/resolv.h:
 
@@ -486,7 +486,7 @@ $(common-objpfx)config.h:
 
 ../libio/stdio.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types/__fpos_t.h:
 

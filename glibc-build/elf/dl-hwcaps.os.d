@@ -18,7 +18,7 @@ $(common-objpfx)elf/dl-hwcaps.os: dl-hwcaps.c \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  ../bits/types/error_t.h ../sysdeps/unix/sysv/linux/dl-sysdep.h \
  ../sysdeps/generic/dl-sysdep.h ../include/libintl.h ../intl/libintl.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../include/locale.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../include/locale.h \
  ../locale/locale.h ../include/bits/locale.h ../locale/bits/locale.h \
  ../include/bits/types/locale_t.h ../locale/bits/types/locale_t.h \
  ../include/bits/types/__locale_t.h ../locale/bits/types/__locale_t.h \
@@ -49,7 +49,7 @@ $(common-objpfx)elf/dl-hwcaps.os: dl-hwcaps.c \
  ../sysdeps/x86/string_private.h ../string/string.h ../include/strings.h \
  ../string/strings.h ../sysdeps/x86/ldsodefs.h \
  ../sysdeps/x86/cpu-features.h ../sysdeps/generic/ldsodefs.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h ../include/dlfcn.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h ../include/dlfcn.h \
  ../dlfcn/dlfcn.h ../include/bits/dlfcn.h ../bits/dlfcn.h \
  ../include/link.h ../elf/link.h ../bits/elfclass.h \
  ../sysdeps/x86/bits/link.h ../sysdeps/x86/linkmap.h \
@@ -64,7 +64,7 @@ $(common-objpfx)elf/dl-hwcaps.os: dl-hwcaps.c \
  ../bits/floatn-common.h ../include/alloca.h ../stdlib/alloca.h \
  ../include/stackinfo.h ../sysdeps/x86_64/stackinfo.h \
  ../sysdeps/pthread/allocalim.h ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -226,7 +226,7 @@ $(common-objpfx)config.h:
 
 ../intl/libintl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/locale.h:
 
@@ -342,7 +342,7 @@ $(common-objpfx)libc-abis.h:
 
 ../sysdeps/generic/ldsodefs.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../include/dlfcn.h:
 
@@ -408,7 +408,7 @@ $(common-objpfx)libc-abis.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 

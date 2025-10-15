@@ -4,7 +4,7 @@ $(common-objpfx)nptl_db/td_ta_delete.os: \
  ../include/libc-symbols.h \
  $(common-objpfx)config.h \
  ../sysdeps/generic/symbol-hacks.h ../include/stdlib.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../stdlib/stdlib.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../stdlib/stdlib.h \
  ../bits/libc-header-start.h ../include/features.h ../include/sys/cdefs.h \
  ../misc/sys/cdefs.h ../sysdeps/x86/bits/wordsize.h \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h ../include/gnu/stubs.h \
@@ -35,7 +35,7 @@ $(common-objpfx)nptl_db/td_ta_delete.os: \
  ../bits/wchar.h ../bits/stdint-uintn.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -44,7 +44,7 @@ $(common-objpfx)nptl_db/td_ta_delete.os: \
  ../stdlib/bits/stdlib-float.h ../include/sys/stat.h ../io/sys/stat.h \
  ../sysdeps/unix/sysv/linux/x86/bits/stat.h ../include/bits/statx.h \
  ../io/bits/statx.h thread_dbP.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h ../include/string.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h ../include/string.h \
  ../sysdeps/x86/string_private.h ../string/string.h ../include/strings.h \
  ../string/strings.h ../include/unistd.h ../posix/unistd.h \
  ../sysdeps/unix/sysv/linux/bits/posix_opt.h \
@@ -144,7 +144,7 @@ $(common-objpfx)config.h:
 
 ../include/stdlib.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../stdlib/stdlib.h:
 
@@ -268,7 +268,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -304,7 +304,7 @@ $(common-objpfx)config.h:
 
 thread_dbP.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../include/string.h:
 

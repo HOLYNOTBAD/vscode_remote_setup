@@ -12,8 +12,8 @@ $(common-objpfx)support/support_can_chroot.oS: \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  ../bits/types/error_t.h ../include/stdio.h ../libio/stdio.h \
  ../bits/libc-header-start.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h ../include/bits/types.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h ../include/bits/types.h \
  ../posix/bits/types.h ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h \
  ../include/bits/types/__fpos_t.h ../libio/bits/types/__fpos_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
@@ -30,7 +30,7 @@ $(common-objpfx)support/support_can_chroot.oS: \
  ../include/shlib-compat.h \
  $(common-objpfx)abi-versions.h \
  ../support/check.h ../support/namespace.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h ../support/support.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h ../support/support.h \
  ../support/xunistd.h ../include/sys/types.h ../posix/sys/types.h \
  ../include/bits/types/clock_t.h ../time/bits/types/clock_t.h \
  ../include/bits/types/clockid_t.h ../time/bits/types/clockid_t.h \
@@ -100,9 +100,9 @@ $(common-objpfx)config.h:
 
 ../bits/libc-header-start.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types.h:
 
@@ -162,7 +162,7 @@ $(common-objpfx)abi-versions.h:
 
 ../support/namespace.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../support/support.h:
 

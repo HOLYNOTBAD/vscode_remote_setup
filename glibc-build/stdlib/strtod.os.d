@@ -8,7 +8,7 @@ $(common-objpfx)stdlib/strtod.os: strtod.c \
  ../sysdeps/x86/bits/wordsize.h \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h ../include/gnu/stubs.h \
  ../bits/floatn-common.h ../include/stdlib.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../stdlib/stdlib.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../stdlib/stdlib.h \
  ../bits/libc-header-start.h ../sysdeps/unix/sysv/linux/bits/waitflags.h \
  ../bits/waitstatus.h ../include/bits/types/locale_t.h \
  ../locale/bits/types/locale_t.h ../include/bits/types/__locale_t.h \
@@ -36,7 +36,7 @@ $(common-objpfx)stdlib/strtod.os: strtod.c \
  ../bits/wchar.h ../bits/stdint-uintn.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -45,7 +45,7 @@ $(common-objpfx)stdlib/strtod.os: strtod.c \
  ../stdlib/bits/stdlib-float.h ../include/sys/stat.h ../io/sys/stat.h \
  ../sysdeps/unix/sysv/linux/x86/bits/stat.h ../include/bits/statx.h \
  ../io/bits/statx.h ../include/wchar.h ../wcsmbs/wchar.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  ../include/bits/types/wint_t.h ../wcsmbs/bits/types/wint_t.h \
  ../include/bits/types/mbstate_t.h ../wcsmbs/bits/types/mbstate_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
@@ -63,7 +63,7 @@ $(common-objpfx)stdlib/strtod.os: strtod.c \
  ../sysdeps/x86_64/nptl/tls.h \
  ../sysdeps/unix/sysv/linux/x86/include/asm/prctl.h \
  /usr/include/x86_64-linux-gnu/asm/prctl.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
  ../sysdeps/unix/sysv/linux/x86_64/sysdep.h \
  ../sysdeps/unix/sysv/linux/sysdep.h \
  ../sysdeps/unix/sysv/linux/x86_64/kernel-features.h \
@@ -155,7 +155,7 @@ $(common-objpfx)config.h:
 
 ../include/stdlib.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../stdlib/stdlib.h:
 
@@ -263,7 +263,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -301,7 +301,7 @@ $(common-objpfx)config.h:
 
 ../wcsmbs/wchar.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types/wint_t.h:
 
@@ -369,7 +369,7 @@ $(common-objpfx)config.h:
 
 /usr/include/x86_64-linux-gnu/asm/prctl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../sysdeps/unix/sysv/linux/x86_64/sysdep.h:
 

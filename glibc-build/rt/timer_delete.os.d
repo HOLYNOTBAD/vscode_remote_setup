@@ -28,7 +28,7 @@ $(common-objpfx)rt/timer_delete.os: \
  ../sysdeps/unix/sysv/linux/bits/sigevent-consts.h \
  ../sysdeps/unix/sysv/linux/bits/sigaction.h \
  ../sysdeps/unix/sysv/linux/x86/bits/sigcontext.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../sysdeps/unix/sysv/linux/bits/types/stack_t.h \
  ../sysdeps/unix/sysv/linux/x86/sys/ucontext.h \
  ../sysdeps/unix/sysv/linux/bits/sigstack.h \
@@ -62,7 +62,7 @@ $(common-objpfx)rt/timer_delete.os: \
  ../bits/types/error_t.h ../sysdeps/x86_64/nptl/tls.h \
  ../sysdeps/unix/sysv/linux/x86/include/asm/prctl.h \
  /usr/include/x86_64-linux-gnu/asm/prctl.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
  ../sysdeps/generic/stdint.h ../bits/libc-header-start.h ../bits/wchar.h \
  ../bits/stdint-uintn.h ../include/stdlib.h ../stdlib/stdlib.h \
  ../sysdeps/unix/sysv/linux/bits/waitflags.h ../bits/waitstatus.h \
@@ -71,7 +71,7 @@ $(common-objpfx)rt/timer_delete.os: \
  ../include/elf.h ../elf/elf.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -203,7 +203,7 @@ $(common-objpfx)abi-versions.h:
 
 ../sysdeps/unix/sysv/linux/x86/bits/sigcontext.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../sysdeps/unix/sysv/linux/bits/types/stack_t.h:
 
@@ -315,7 +315,7 @@ $(common-objpfx)abi-versions.h:
 
 /usr/include/x86_64-linux-gnu/asm/prctl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../sysdeps/generic/stdint.h:
 
@@ -357,7 +357,7 @@ $(common-objpfx)abi-versions.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 

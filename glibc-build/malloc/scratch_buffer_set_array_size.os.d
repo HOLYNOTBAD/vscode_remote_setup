@@ -4,8 +4,8 @@ $(common-objpfx)malloc/scratch_buffer_set_array_size.os: \
  ../include/libc-symbols.h \
  $(common-objpfx)config.h \
  ../sysdeps/generic/symbol-hacks.h ../include/scratch_buffer.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../include/stdlib.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../include/stdlib.h \
  ../stdlib/stdlib.h ../bits/libc-header-start.h ../include/features.h \
  ../include/sys/cdefs.h ../misc/sys/cdefs.h \
  ../sysdeps/x86/bits/wordsize.h \
@@ -37,7 +37,7 @@ $(common-objpfx)malloc/scratch_buffer_set_array_size.os: \
  ../bits/wchar.h ../bits/stdint-uintn.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -133,9 +133,9 @@ $(common-objpfx)config.h:
 
 ../include/scratch_buffer.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/stdlib.h:
 
@@ -261,7 +261,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 

@@ -7,7 +7,7 @@ $(common-objpfx)dlfcn/sdladdr.o: sdladdr.c \
  ../dlfcn/dlfcn.h ../include/features.h ../include/sys/cdefs.h \
  ../misc/sys/cdefs.h ../sysdeps/x86/bits/wordsize.h \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h ../include/gnu/stubs.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../include/bits/dlfcn.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../include/bits/dlfcn.h \
  ../bits/dlfcn.h ../include/link.h ../elf/link.h ../include/elf.h \
  ../elf/elf.h ../sysdeps/generic/stdint.h ../bits/libc-header-start.h \
  ../include/bits/types.h ../posix/bits/types.h \
@@ -32,7 +32,7 @@ $(common-objpfx)dlfcn/sdladdr.o: sdladdr.c \
  ../sysdeps/x86/nptl/bits/pthreadtypes-arch.h ../bits/elfclass.h \
  ../sysdeps/x86/bits/link.h ../sysdeps/x86/linkmap.h \
  ../sysdeps/posix/dl-fileid.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h ../include/sys/stat.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h ../include/sys/stat.h \
  ../io/sys/stat.h ../sysdeps/unix/sysv/linux/x86/bits/stat.h \
  ../include/bits/statx.h ../io/bits/statx.h \
  ../sysdeps/x86_64/dl-lookupcfg.h ../sysdeps/generic/dl-lookupcfg.h \
@@ -46,7 +46,7 @@ $(common-objpfx)dlfcn/sdladdr.o: sdladdr.c \
  ../locale/bits/types/__locale_t.h ../include/alloca.h ../stdlib/alloca.h \
  ../include/stackinfo.h ../sysdeps/x86_64/stackinfo.h \
  ../sysdeps/pthread/allocalim.h ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -163,7 +163,7 @@ dladdr.c:
 
 ../include/gnu/stubs.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/bits/dlfcn.h:
 
@@ -261,7 +261,7 @@ dladdr.c:
 
 ../sysdeps/posix/dl-fileid.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../include/sys/stat.h:
 
@@ -315,7 +315,7 @@ dladdr.c:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 

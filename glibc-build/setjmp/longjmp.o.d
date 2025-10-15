@@ -4,7 +4,7 @@ $(common-objpfx)setjmp/longjmp.o: \
  ../include/libc-symbols.h \
  $(common-objpfx)config.h \
  ../sysdeps/generic/symbol-hacks.h ../setjmp/longjmp.c \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../sysdeps/unix/sysv/linux/x86/setjmpP.h \
  ../sysdeps/unix/sysv/linux/bits/types/__sigset_t.h \
  ../include/libc-pointer-arith.h ../sysdeps/generic/stdint.h \
@@ -55,7 +55,7 @@ $(common-objpfx)config.h:
 
 ../setjmp/longjmp.c:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../sysdeps/unix/sysv/linux/x86/setjmpP.h:
 

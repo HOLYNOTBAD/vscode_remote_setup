@@ -4,7 +4,7 @@ $(common-objpfx)intl/gettext.o: gettext.c \
  ../include/libc-symbols.h \
  $(common-objpfx)config.h \
  ../sysdeps/generic/symbol-hacks.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h gettextP.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h gettextP.h \
  ../iconv/gconv_int.h ../iconv/gconv.h ../include/features.h \
  ../include/sys/cdefs.h ../misc/sys/cdefs.h \
  ../sysdeps/x86/bits/wordsize.h \
@@ -39,7 +39,7 @@ $(common-objpfx)intl/gettext.o: gettext.c \
  ../bits/wchar.h ../bits/stdint-uintn.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -61,7 +61,7 @@ $(common-objpfx)intl/gettext.o: gettext.c \
  ../sysdeps/x86_64/nptl/tls.h \
  ../sysdeps/unix/sysv/linux/x86/include/asm/prctl.h \
  /usr/include/x86_64-linux-gnu/asm/prctl.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
  ../sysdeps/unix/sysv/linux/x86_64/sysdep.h \
  ../sysdeps/unix/sysv/linux/sysdep.h \
  ../sysdeps/unix/sysv/linux/x86_64/kernel-features.h \
@@ -140,7 +140,7 @@ $(common-objpfx)config.h:
 
 ../sysdeps/generic/symbol-hacks.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 gettextP.h:
 
@@ -280,7 +280,7 @@ gettextP.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -364,7 +364,7 @@ gettextP.h:
 
 /usr/include/x86_64-linux-gnu/asm/prctl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../sysdeps/unix/sysv/linux/x86_64/sysdep.h:
 

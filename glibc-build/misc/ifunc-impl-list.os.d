@@ -14,7 +14,7 @@ $(common-objpfx)misc/ifunc-impl-list.os: \
  ../include/bits/types/clockid_t.h ../time/bits/types/clockid_t.h \
  ../include/bits/types/time_t.h ../time/bits/types/time_t.h \
  ../include/bits/types/timer_t.h ../time/bits/types/timer_t.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../bits/stdint-intn.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../bits/stdint-intn.h \
  ../include/endian.h ../string/endian.h ../sysdeps/x86/bits/endian.h \
  ../bits/byteswap.h ../bits/uintn-identity.h ../include/sys/select.h \
  ../misc/sys/select.h ../sysdeps/x86/bits/select.h \
@@ -32,14 +32,14 @@ $(common-objpfx)misc/ifunc-impl-list.os: \
  ../locale/bits/types/__locale_t.h ../include/strings.h \
  ../string/strings.h ../include/wchar.h ../wcsmbs/wchar.h \
  ../sysdeps/x86/bits/floatn.h ../bits/floatn-common.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h ../bits/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h ../bits/wchar.h \
  ../include/bits/types/wint_t.h ../wcsmbs/bits/types/wint_t.h \
  ../include/bits/types/mbstate_t.h ../wcsmbs/bits/types/mbstate_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
  ../include/bits/types/__FILE.h ../libio/bits/types/__FILE.h \
  ../include/bits/types/FILE.h ../libio/bits/types/FILE.h \
  ../include/ifunc-impl-list.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
  ../sysdeps/unix/sysv/linux/x86_64/sysdep.h \
  ../sysdeps/unix/sysv/linux/sysdep.h \
  ../sysdeps/unix/sysv/linux/x86_64/kernel-features.h \
@@ -58,7 +58,7 @@ $(common-objpfx)misc/ifunc-impl-list.os: \
  ../sysdeps/x86_64/stackinfo.h ../include/elf.h ../elf/elf.h \
  ../include/libc-pointer-arith.h ../sysdeps/generic/dl-dtprocnum.h \
  ../sysdeps/pthread/allocalim.h ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -200,7 +200,7 @@ $(common-objpfx)config.h:
 
 ../time/bits/types/timer_t.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../bits/stdint-intn.h:
 
@@ -266,7 +266,7 @@ $(common-objpfx)config.h:
 
 ../bits/floatn-common.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../bits/wchar.h:
 
@@ -292,7 +292,7 @@ $(common-objpfx)config.h:
 
 ../include/ifunc-impl-list.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../sysdeps/unix/sysv/linux/x86_64/sysdep.h:
 
@@ -358,7 +358,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 

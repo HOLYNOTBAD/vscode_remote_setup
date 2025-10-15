@@ -14,7 +14,7 @@ $(common-objpfx)string/explicit_bzero.os: \
  ../include/bits/types/clockid_t.h ../time/bits/types/clockid_t.h \
  ../include/bits/types/time_t.h ../time/bits/types/time_t.h \
  ../include/bits/types/timer_t.h ../time/bits/types/timer_t.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../bits/stdint-intn.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../bits/stdint-intn.h \
  ../include/endian.h ../string/endian.h ../sysdeps/x86/bits/endian.h \
  ../bits/byteswap.h ../bits/uintn-identity.h ../include/sys/select.h \
  ../misc/sys/select.h ../sysdeps/x86/bits/select.h \
@@ -82,7 +82,7 @@ $(common-objpfx)config.h:
 
 ../time/bits/types/timer_t.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../bits/stdint-intn.h:
 

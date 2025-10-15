@@ -11,7 +11,7 @@ $(common-objpfx)elf/enbl-secure.o: \
  ../sysdeps/unix/sysv/linux/x86/bits/environments.h \
  ../include/bits/types.h ../posix/bits/types.h \
  ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../bits/confname.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../bits/confname.h \
  ../include/bits/getopt_posix.h ../posix/bits/getopt_posix.h \
  ../include/bits/getopt_core.h ../posix/bits/getopt_core.h \
  ../include/libc-internal.h ../sysdeps/x86_64/hp-timing.h \
@@ -39,7 +39,7 @@ $(common-objpfx)elf/enbl-secure.o: \
  ../locale/bits/types/__locale_t.h ../include/strings.h \
  ../string/strings.h ../include/sys/param.h ../misc/sys/param.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -104,7 +104,7 @@ $(common-objpfx)config.h:
 
 ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../bits/confname.h:
 
@@ -206,7 +206,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 

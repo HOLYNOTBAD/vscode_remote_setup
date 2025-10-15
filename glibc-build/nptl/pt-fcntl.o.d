@@ -12,11 +12,11 @@ $(common-objpfx)nptl/pt-fcntl.o: \
  ../sysdeps/unix/sysv/linux/x86/bits/fcntl.h \
  ../sysdeps/unix/sysv/linux/bits/fcntl-linux.h \
  ../include/bits/types/struct_iovec.h ../misc/bits/types/struct_iovec.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  /usr/include/linux/falloc.h ../include/bits/types/struct_timespec.h \
  ../time/bits/types/struct_timespec.h \
  ../sysdeps/unix/sysv/linux/x86/bits/stat.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  ../include/shlib-compat.h \
  $(common-objpfx)abi-versions.h
 
@@ -60,7 +60,7 @@ $(common-objpfx)config.h:
 
 ../misc/bits/types/struct_iovec.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 /usr/include/linux/falloc.h:
 
@@ -70,7 +70,7 @@ $(common-objpfx)config.h:
 
 ../sysdeps/unix/sysv/linux/x86/bits/stat.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/shlib-compat.h:
 

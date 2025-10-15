@@ -19,7 +19,7 @@ $(common-objpfx)math/conjf128.os: \
  ../sysdeps/generic/stdint.h ../bits/libc-header-start.h ../bits/wchar.h \
  ../bits/stdint-intn.h ../bits/stdint-uintn.h \
  ../sysdeps/generic/math-type-macros.h ../include/float.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/float.h conj_template.c \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/float.h conj_template.c \
  ../include/complex.h ../math/complex.h ../bits/mathdef.h \
  ../include/bits/cmathcalls.h ../math/bits/cmathcalls.h
 
@@ -87,7 +87,7 @@ $(common-objpfx)config.h:
 
 ../include/float.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/float.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/float.h:
 
 conj_template.c:
 

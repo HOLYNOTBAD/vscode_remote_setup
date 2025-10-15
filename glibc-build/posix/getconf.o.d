@@ -11,7 +11,7 @@ $(common-objpfx)posix/getconf.o: getconf.c \
  ../sysdeps/unix/sysv/linux/x86/bits/environments.h \
  ../include/bits/types.h ../posix/bits/types.h \
  ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../bits/confname.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../bits/confname.h \
  ../include/bits/getopt_posix.h ../posix/bits/getopt_posix.h \
  ../include/bits/getopt_core.h ../posix/bits/getopt_core.h \
  ../include/errno.h ../stdlib/errno.h \
@@ -51,7 +51,7 @@ $(common-objpfx)posix/getconf.o: getconf.c \
  ../bits/wchar.h ../bits/stdint-uintn.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -60,7 +60,7 @@ $(common-objpfx)posix/getconf.o: getconf.c \
  ../stdlib/bits/stdlib-float.h ../include/sys/stat.h ../io/sys/stat.h \
  ../sysdeps/unix/sysv/linux/x86/bits/stat.h ../include/bits/statx.h \
  ../io/bits/statx.h ../include/stdio.h ../libio/stdio.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  ../include/bits/types/__fpos_t.h ../libio/bits/types/__fpos_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
  ../include/bits/types/__fpos64_t.h ../libio/bits/types/__fpos64_t.h \
@@ -114,7 +114,7 @@ $(common-objpfx)config.h:
 
 ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../bits/confname.h:
 
@@ -278,7 +278,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -316,7 +316,7 @@ $(common-objpfx)config.h:
 
 ../libio/stdio.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types/__fpos_t.h:
 

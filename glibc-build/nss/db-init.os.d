@@ -12,7 +12,7 @@ $(common-objpfx)nss/db-init.os: \
  ../bits/byteswap.h ../include/bits/types.h ../posix/bits/types.h \
  ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h ../bits/uintn-identity.h \
  ../include/sched.h ../posix/sched.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../include/bits/types/time_t.h ../time/bits/types/time_t.h \
  ../include/bits/types/struct_timespec.h \
  ../time/bits/types/struct_timespec.h \
@@ -33,7 +33,7 @@ $(common-objpfx)nss/db-init.os: \
  ../sysdeps/nptl/bits/thread-shared-types.h \
  ../sysdeps/x86/nptl/bits/pthreadtypes-arch.h \
  ../sysdeps/x86/bits/setjmp.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h ../include/sys/uio.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h ../include/sys/uio.h \
  ../misc/sys/uio.h ../include/sys/types.h ../posix/sys/types.h \
  ../bits/stdint-intn.h ../include/sys/select.h ../misc/sys/select.h \
  ../sysdeps/x86/bits/select.h ../include/bits/types/sigset_t.h \
@@ -53,7 +53,7 @@ $(common-objpfx)nss/db-init.os: \
  ../elf/elf.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -172,7 +172,7 @@ $(common-objpfx)config.h:
 
 ../posix/sched.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/bits/types/time_t.h:
 
@@ -238,7 +238,7 @@ $(common-objpfx)config.h:
 
 ../sysdeps/x86/bits/setjmp.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../include/sys/uio.h:
 
@@ -324,7 +324,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 

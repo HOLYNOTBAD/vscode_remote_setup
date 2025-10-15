@@ -16,8 +16,8 @@ $(common-objpfx)tcb-offsets.h.d $(common-objpfx)tcb-offsets.h: \
  $(..)sysdeps/x86/sysdep.h $(..)sysdeps/x86_64/nptl/tls.h \
  $(..)sysdeps/unix/sysv/linux/x86/include/asm/prctl.h \
  /usr/include/x86_64-linux-gnu/asm/prctl.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  $(..)sysdeps/generic/stdint.h $(..)bits/libc-header-start.h \
  $(..)include/features.h $(..)include/sys/cdefs.h $(..)misc/sys/cdefs.h \
  $(..)sysdeps/ieee754/ldbl-96/bits/long-double.h $(..)include/gnu/stubs.h \
@@ -49,7 +49,7 @@ $(common-objpfx)tcb-offsets.h.d $(common-objpfx)tcb-offsets.h: \
  $(..)include/elf.h $(..)elf/elf.h $(..)include/libc-pointer-arith.h \
  $(..)sysdeps/generic/dl-dtprocnum.h $(..)sysdeps/pthread/allocalim.h \
  $(..)include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  $(..)include/bits/posix1_lim.h $(..)posix/bits/posix1_lim.h \
  $(..)sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  $(..)include/bits/posix2_lim.h $(..)posix/bits/posix2_lim.h \
@@ -162,9 +162,9 @@ $(..)sysdeps/unix/sysv/linux/x86/include/asm/prctl.h:
 
 /usr/include/x86_64-linux-gnu/asm/prctl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 $(..)sysdeps/generic/stdint.h:
 
@@ -288,7 +288,7 @@ $(..)sysdeps/pthread/allocalim.h:
 
 $(..)include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 $(..)include/bits/posix1_lim.h:
 

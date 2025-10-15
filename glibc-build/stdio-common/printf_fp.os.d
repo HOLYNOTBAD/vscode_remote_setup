@@ -4,7 +4,7 @@ $(common-objpfx)stdio-common/printf_fp.os: \
  ../include/libc-symbols.h \
  $(common-objpfx)config.h \
  ../sysdeps/generic/symbol-hacks.h ../include/array_length.h \
- ../libio/libioP.h /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ ../libio/libioP.h /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../include/errno.h ../stdlib/errno.h ../include/features.h \
  ../include/sys/cdefs.h ../misc/sys/cdefs.h \
  ../sysdeps/x86/bits/wordsize.h \
@@ -15,7 +15,7 @@ $(common-objpfx)stdio-common/printf_fp.os: \
  ../bits/types/error_t.h ../sysdeps/x86_64/nptl/tls.h \
  ../sysdeps/unix/sysv/linux/x86/include/asm/prctl.h \
  /usr/include/x86_64-linux-gnu/asm/prctl.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
  ../sysdeps/generic/stdint.h ../bits/libc-header-start.h \
  ../include/bits/types.h ../posix/bits/types.h \
  ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h ../bits/wchar.h \
@@ -45,7 +45,7 @@ $(common-objpfx)stdio-common/printf_fp.os: \
  ../include/elf.h ../elf/elf.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -125,7 +125,7 @@ $(common-objpfx)stdio-common/printf_fp.os: \
  ../sysdeps/nptl/internaltypes.h ../include/atomic.h \
  ../sysdeps/x86_64/atomic-machine.h ../sysdeps/generic/math_ldbl_opt.h \
  ../include/stdio.h ../sysdeps/nptl/stdio-lock.h ../libio/stdio.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  ../include/bits/types/__fpos_t.h ../libio/bits/types/__fpos_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
  ../include/bits/types/__fpos64_t.h ../libio/bits/types/__fpos64_t.h \
@@ -158,7 +158,7 @@ $(common-objpfx)stdio-common/printf_fp.os: \
  ../include/bits/locale.h ../locale/bits/locale.h ../include/locale.h \
  ../locale/locale.h ../intl/loadinfo.h \
  ../include/../locale/categories.def ../sysdeps/generic/libc-tsd.h \
- ../include/float.h /usr/lib/gcc/x86_64-linux-gnu/7/include/float.h \
+ ../include/float.h /usr/lib/gcc/x86_64-linux-gnu/5/include/float.h \
  ../sysdeps/generic/gmp-mparam.h ../include/gmp.h ../stdlib/gmp.h \
  ../sysdeps/ieee754/ieee754.h ../stdlib/gmp-impl.h ../stdlib/longlong.h \
  ../stdlib/fpioconst.h ../include/math.h ../math/math.h \
@@ -197,7 +197,7 @@ $(common-objpfx)config.h:
 
 ../libio/libioP.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/errno.h:
 
@@ -233,7 +233,7 @@ $(common-objpfx)config.h:
 
 /usr/include/x86_64-linux-gnu/asm/prctl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../sysdeps/generic/stdint.h:
 
@@ -347,7 +347,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -611,7 +611,7 @@ $(common-objpfx)config.h:
 
 ../libio/stdio.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types/__fpos_t.h:
 
@@ -733,7 +733,7 @@ $(common-objpfx)abi-versions.h:
 
 ../include/float.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/float.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/float.h:
 
 ../sysdeps/generic/gmp-mparam.h:
 

@@ -1,6 +1,8 @@
 # 仓库功能描述：
-ubuntu18.04的系统中，vscode远程连接服务器时，提示glibc版本过低，无法连接。
+ubuntu18.04以及更低版本的系统中，vscode远程连接服务器时，提示glibc版本过低，无法连接。
 本项目通过编译一个较新的glibc版本，并配置vscode远程连接时使用该版本的glibc，从而解决该问题。
+
+目前该脚本已经在ubuntu18.04及ubuntu16.04上测试通过。欢迎大家使用并反馈问题~
 
 # 过程中参考了以下链接：
 https://blog.csdn.net/Mark_md/article/details/110879073

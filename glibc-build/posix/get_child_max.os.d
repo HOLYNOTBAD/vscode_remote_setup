@@ -7,7 +7,7 @@ $(common-objpfx)posix/get_child_max.os: \
  ../bits/libc-header-start.h ../include/features.h ../include/sys/cdefs.h \
  ../misc/sys/cdefs.h ../sysdeps/x86/bits/wordsize.h \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h ../include/gnu/stubs.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -23,10 +23,10 @@ $(common-objpfx)posix/get_child_max.os: \
  /usr/include/linux/stddef.h \
  /usr/include/x86_64-linux-gnu/asm/posix_types.h \
  /usr/include/x86_64-linux-gnu/asm/posix_types_64.h \
- /usr/include/asm-generic/posix_types.h /usr/include/linux/const.h \
- ../include/sys/resource.h ../resource/sys/resource.h \
- ../sysdeps/unix/sysv/linux/bits/resource.h ../include/bits/types.h \
- ../posix/bits/types.h ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h \
+ /usr/include/asm-generic/posix_types.h ../include/sys/resource.h \
+ ../resource/sys/resource.h ../sysdeps/unix/sysv/linux/bits/resource.h \
+ ../include/bits/types.h ../posix/bits/types.h \
+ ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h \
  ../include/bits/types/struct_timeval.h \
  ../time/bits/types/struct_timeval.h \
  ../include/bits/types/struct_rusage.h \
@@ -58,7 +58,7 @@ $(common-objpfx)config.h:
 
 ../include/gnu/stubs.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -107,8 +107,6 @@ $(common-objpfx)config.h:
 /usr/include/x86_64-linux-gnu/asm/posix_types_64.h:
 
 /usr/include/asm-generic/posix_types.h:
-
-/usr/include/linux/const.h:
 
 ../include/sys/resource.h:
 

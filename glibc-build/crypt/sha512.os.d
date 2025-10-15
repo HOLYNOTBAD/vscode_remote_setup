@@ -10,7 +10,7 @@ $(common-objpfx)crypt/sha512.os: sha512.c \
  ../sysdeps/x86/bits/endian.h ../bits/byteswap.h ../include/bits/types.h \
  ../posix/bits/types.h ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h \
  ../bits/uintn-identity.h ../include/stdlib.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../stdlib/stdlib.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../stdlib/stdlib.h \
  ../bits/libc-header-start.h ../sysdeps/unix/sysv/linux/bits/waitflags.h \
  ../bits/waitstatus.h ../sysdeps/x86/bits/floatn.h \
  ../bits/floatn-common.h ../include/bits/types/locale_t.h \
@@ -36,7 +36,7 @@ $(common-objpfx)crypt/sha512.os: sha512.c \
  ../bits/wchar.h ../bits/stdint-uintn.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -47,7 +47,7 @@ $(common-objpfx)crypt/sha512.os: sha512.c \
  ../io/bits/statx.h ../include/string.h ../sysdeps/x86/string_private.h \
  ../string/string.h ../include/strings.h ../string/strings.h sha512.h \
  ../include/stdio.h ../libio/stdio.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  ../include/bits/types/__fpos_t.h ../libio/bits/types/__fpos_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
  ../include/bits/types/__fpos64_t.h ../libio/bits/types/__fpos64_t.h \
@@ -104,7 +104,7 @@ $(common-objpfx)config.h:
 
 ../include/stdlib.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../stdlib/stdlib.h:
 
@@ -200,7 +200,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -250,7 +250,7 @@ sha512.h:
 
 ../libio/stdio.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types/__fpos_t.h:
 

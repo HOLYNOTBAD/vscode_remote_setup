@@ -13,8 +13,8 @@ $(common-objpfx)elf/dl-reloc.o: dl-reloc.c \
  ../bits/types/error_t.h ../sysdeps/x86_64/nptl/tls.h \
  ../sysdeps/unix/sysv/linux/x86/include/asm/prctl.h \
  /usr/include/x86_64-linux-gnu/asm/prctl.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../sysdeps/generic/stdint.h ../bits/libc-header-start.h \
  ../include/bits/types.h ../posix/bits/types.h \
  ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h ../bits/wchar.h \
@@ -44,7 +44,7 @@ $(common-objpfx)elf/dl-reloc.o: dl-reloc.c \
  ../include/elf.h ../elf/elf.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -149,7 +149,7 @@ $(common-objpfx)elf/dl-reloc.o: dl-reloc.c \
  ../sysdeps/x86_64/dl-tlsdesc.h \
  ../sysdeps/unix/sysv/linux/x86/cpu-features.c \
  ../sysdeps/x86/cpu-features.c \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/cpuid.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/cpuid.h \
  ../sysdeps/x86/dl-hwcap.h ../elf/dl-tunables.h ../elf/dl-tunable-types.h \
  $(common-objpfx)dl-tunable-list.h \
  ../sysdeps/unix/sysv/linux/x86_64/dl-procinfo.h \
@@ -200,9 +200,9 @@ $(common-objpfx)config.h:
 
 /usr/include/x86_64-linux-gnu/asm/prctl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../sysdeps/generic/stdint.h:
 
@@ -316,7 +316,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -672,7 +672,7 @@ dynamic-link.h:
 
 ../sysdeps/x86/cpu-features.c:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/cpuid.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/cpuid.h:
 
 ../sysdeps/x86/dl-hwcap.h:
 

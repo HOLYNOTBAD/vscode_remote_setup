@@ -9,10 +9,10 @@ $(common-objpfx)nptl/unwind.os: unwind.c \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h ../include/gnu/stubs.h \
  ../sysdeps/x86/bits/setjmp.h \
  ../sysdeps/unix/sysv/linux/bits/types/__sigset_t.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../sysdeps/unix/sysv/linux/x86_64/64/jmp_buf-macros.h ../include/stdio.h \
  ../libio/stdio.h ../bits/libc-header-start.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h ../include/bits/types.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h ../include/bits/types.h \
  ../posix/bits/types.h ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h \
  ../include/bits/types/__fpos_t.h ../libio/bits/types/__fpos_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
@@ -53,7 +53,7 @@ $(common-objpfx)nptl/unwind.os: unwind.c \
  ../bits/wchar.h ../bits/stdint-uintn.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -77,7 +77,7 @@ $(common-objpfx)nptl/unwind.os: unwind.c \
  ../include/bits/types/struct_tm.h ../time/bits/types/struct_tm.h \
  ../include/bits/types/struct_itimerspec.h \
  ../time/bits/types/struct_itimerspec.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
  ../sysdeps/unix/sysv/linux/sys/syscall.h \
  /usr/include/x86_64-linux-gnu/asm/unistd.h \
  /usr/include/x86_64-linux-gnu/asm/unistd_64.h descr.h \
@@ -175,7 +175,7 @@ $(common-objpfx)config.h:
 
 ../sysdeps/unix/sysv/linux/bits/types/__sigset_t.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../sysdeps/unix/sysv/linux/x86_64/64/jmp_buf-macros.h:
 
@@ -185,7 +185,7 @@ $(common-objpfx)config.h:
 
 ../bits/libc-header-start.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types.h:
 
@@ -343,7 +343,7 @@ $(common-objpfx)abi-versions.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -439,7 +439,7 @@ pthreadP.h:
 
 ../time/bits/types/struct_itimerspec.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../sysdeps/unix/sysv/linux/sys/syscall.h:
 

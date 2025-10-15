@@ -17,7 +17,7 @@ $(common-objpfx)iconv/dummy-repertoire.o: \
  ../include/bits/types/clockid_t.h ../time/bits/types/clockid_t.h \
  ../include/bits/types/time_t.h ../time/bits/types/time_t.h \
  ../include/bits/types/timer_t.h ../time/bits/types/timer_t.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../include/endian.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../include/endian.h \
  ../string/endian.h ../sysdeps/x86/bits/endian.h ../bits/byteswap.h \
  ../bits/uintn-identity.h ../include/sys/select.h ../misc/sys/select.h \
  ../sysdeps/x86/bits/select.h ../include/bits/types/sigset_t.h \
@@ -33,7 +33,7 @@ $(common-objpfx)iconv/dummy-repertoire.o: \
  ../include/bits/types/locale_t.h ../locale/bits/types/locale_t.h \
  ../include/bits/types/__locale_t.h ../locale/bits/types/__locale_t.h \
  ../include/strings.h ../string/strings.h ../locale/programs/charmap.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
  ../locale/programs/repertoire.h ../locale/programs/simple-hash.h \
  ../include/inttypes.h ../sysdeps/generic/inttypes.h
 
@@ -107,7 +107,7 @@ $(common-objpfx)config.h:
 
 ../time/bits/types/timer_t.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/endian.h:
 
@@ -163,7 +163,7 @@ $(common-objpfx)config.h:
 
 ../locale/programs/charmap.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../locale/programs/repertoire.h:
 

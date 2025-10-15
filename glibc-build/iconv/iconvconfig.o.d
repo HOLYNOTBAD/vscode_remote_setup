@@ -8,8 +8,8 @@ $(common-objpfx)iconv/iconvconfig.o: \
  ../include/features.h ../include/sys/cdefs.h ../misc/sys/cdefs.h \
  ../sysdeps/x86/bits/wordsize.h \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h ../include/gnu/stubs.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h ../include/bits/types.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h ../include/bits/types.h \
  ../posix/bits/types.h ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h \
  ../include/bits/types/__fpos_t.h ../libio/bits/types/__fpos_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
@@ -33,7 +33,7 @@ $(common-objpfx)iconv/iconvconfig.o: \
  ../include/bits/getopt_core.h ../posix/bits/getopt_core.h \
  ../include/bits/getopt_ext.h ../posix/bits/getopt_ext.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -55,7 +55,7 @@ $(common-objpfx)iconv/iconvconfig.o: \
  ../include/bits/locale.h ../locale/bits/locale.h ../include/mcheck.h \
  ../malloc/mcheck.h ../include/search.h ../misc/search.h \
  ../sysdeps/generic/stdint.h ../bits/wchar.h ../bits/stdint-intn.h \
- ../bits/stdint-uintn.h /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
+ ../bits/stdint-uintn.h /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
  ../include/stdio_ext.h ../stdio-common/stdio_ext.h ../include/stdlib.h \
  ../stdlib/stdlib.h ../sysdeps/unix/sysv/linux/bits/waitflags.h \
  ../bits/waitstatus.h ../sysdeps/x86/bits/floatn.h \
@@ -119,9 +119,9 @@ $(common-objpfx)config.h:
 
 ../include/gnu/stubs.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types.h:
 
@@ -213,7 +213,7 @@ $(common-objpfx)abi-versions.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -307,7 +307,7 @@ $(common-objpfx)abi-versions.h:
 
 ../bits/stdint-uintn.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../include/stdio_ext.h:
 

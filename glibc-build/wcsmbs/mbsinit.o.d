@@ -14,7 +14,7 @@ $(common-objpfx)wcsmbs/mbsinit.o: mbsinit.c \
  ../include/bits/types/clockid_t.h ../time/bits/types/clockid_t.h \
  ../include/bits/types/time_t.h ../time/bits/types/time_t.h \
  ../include/bits/types/timer_t.h ../time/bits/types/timer_t.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../bits/stdint-intn.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../bits/stdint-intn.h \
  ../include/endian.h ../string/endian.h ../sysdeps/x86/bits/endian.h \
  ../bits/byteswap.h ../bits/uintn-identity.h ../include/sys/select.h \
  ../misc/sys/select.h ../sysdeps/x86/bits/select.h \
@@ -32,7 +32,7 @@ $(common-objpfx)wcsmbs/mbsinit.o: mbsinit.c \
  ../locale/bits/types/__locale_t.h ../include/strings.h \
  ../string/strings.h ../include/wchar.h ../wcsmbs/wchar.h \
  ../sysdeps/x86/bits/floatn.h ../bits/floatn-common.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h ../bits/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h ../bits/wchar.h \
  ../include/bits/types/wint_t.h ../wcsmbs/bits/types/wint_t.h \
  ../include/bits/types/mbstate_t.h ../wcsmbs/bits/types/mbstate_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
@@ -89,7 +89,7 @@ $(common-objpfx)config.h:
 
 ../time/bits/types/timer_t.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../bits/stdint-intn.h:
 
@@ -155,7 +155,7 @@ $(common-objpfx)config.h:
 
 ../bits/floatn-common.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../bits/wchar.h:
 

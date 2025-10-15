@@ -17,8 +17,8 @@ $(common-objpfx)wcsmbs/wcscasecmp.os: \
  ../include/bits/types/__locale_t.h ../locale/bits/types/__locale_t.h \
  ../include/wchar.h ../wcsmbs/wchar.h ../bits/libc-header-start.h \
  ../sysdeps/x86/bits/floatn.h ../bits/floatn-common.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h ../bits/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h ../bits/wchar.h \
  ../include/bits/types/mbstate_t.h ../wcsmbs/bits/types/mbstate_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
  ../include/bits/types/__FILE.h ../libio/bits/types/__FILE.h \
@@ -92,9 +92,9 @@ $(common-objpfx)config.h:
 
 ../bits/floatn-common.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../bits/wchar.h:
 

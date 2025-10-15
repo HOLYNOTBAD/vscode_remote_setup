@@ -19,7 +19,7 @@ $(common-objpfx)math/s_fminf128.os: \
  ../sysdeps/generic/stdint.h ../bits/libc-header-start.h ../bits/wchar.h \
  ../bits/stdint-intn.h ../bits/stdint-uintn.h \
  ../sysdeps/generic/math-type-macros.h ../include/float.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/float.h s_fmin_template.c \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/float.h s_fmin_template.c \
  ../include/math.h ../math/math.h ../sysdeps/x86/fpu/bits/math-vector.h \
  ../bits/libm-simd-decl-stubs.h ../sysdeps/x86/bits/flt-eval-method.h \
  ../sysdeps/x86/bits/fp-logb.h ../bits/fp-fast.h \
@@ -95,7 +95,7 @@ $(common-objpfx)config.h:
 
 ../include/float.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/float.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/float.h:
 
 s_fmin_template.c:
 

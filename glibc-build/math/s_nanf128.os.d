@@ -19,7 +19,7 @@ $(common-objpfx)math/s_nanf128.os: \
  ../sysdeps/generic/stdint.h ../bits/libc-header-start.h ../bits/wchar.h \
  ../bits/stdint-intn.h ../bits/stdint-uintn.h \
  ../sysdeps/generic/math-type-macros.h ../include/float.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/float.h s_nan_template.c \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/float.h s_nan_template.c \
  ../include/math.h ../math/math.h ../sysdeps/x86/fpu/bits/math-vector.h \
  ../bits/libm-simd-decl-stubs.h ../sysdeps/x86/bits/flt-eval-method.h \
  ../sysdeps/x86/bits/fp-logb.h ../bits/fp-fast.h \
@@ -30,8 +30,8 @@ $(common-objpfx)math/s_nanf128.os: \
  ../sysdeps/ieee754/ldbl-96/include/bits/iscanonical.h \
  ../sysdeps/ieee754/ldbl-96/bits/iscanonical.h \
  ../sysdeps/x86/fpu/bits/mathinline.h ../include/stdio.h ../libio/stdio.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  ../include/bits/types/__fpos_t.h ../libio/bits/types/__fpos_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
  ../include/bits/types/__fpos64_t.h ../libio/bits/types/__fpos64_t.h \
@@ -69,7 +69,7 @@ $(common-objpfx)math/s_nanf128.os: \
  ../include/elf.h ../elf/elf.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -145,7 +145,7 @@ $(common-objpfx)config.h:
 
 ../include/float.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/float.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/float.h:
 
 s_nan_template.c:
 
@@ -185,9 +185,9 @@ s_nan_template.c:
 
 ../libio/stdio.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types/__fpos_t.h:
 
@@ -319,7 +319,7 @@ $(common-objpfx)abi-versions.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 

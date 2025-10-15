@@ -14,7 +14,7 @@ $(common-objpfx)math/w_ilogbl.o: \
  ../sysdeps/ieee754/ldbl-96/math-nan-payload-ldouble.h \
  ../sysdeps/generic/math-type-macros.h ../include/float.h \
  ../bits/libc-header-start.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/float.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/float.h \
  ../math/math-svid-compat.h ../include/shlib-compat.h \
  $(common-objpfx)abi-versions.h \
  w_ilogb_template.c ../include/math.h ../math/math.h \
@@ -35,8 +35,8 @@ $(common-objpfx)math/w_ilogbl.o: \
  ../bits/types/error_t.h ../sysdeps/x86_64/nptl/tls.h \
  ../sysdeps/unix/sysv/linux/x86/include/asm/prctl.h \
  /usr/include/x86_64-linux-gnu/asm/prctl.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../sysdeps/generic/stdint.h ../bits/wchar.h ../bits/stdint-intn.h \
  ../bits/stdint-uintn.h ../include/stdlib.h ../stdlib/stdlib.h \
  ../sysdeps/unix/sysv/linux/bits/waitflags.h ../bits/waitstatus.h \
@@ -62,7 +62,7 @@ $(common-objpfx)math/w_ilogbl.o: \
  ../include/elf.h ../elf/elf.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -144,7 +144,8 @@ $(common-objpfx)math/w_ilogbl.o: \
  ../include/fpu_control.h ../sysdeps/x86/fpu_control.h \
  ../sysdeps/generic/math_private.h ../sysdeps/generic/get-rounding-mode.h \
  ../sysdeps/x86_64/fpu/math_ldbl.h \
- ../sysdeps/generic/math_private_calls.h
+ ../sysdeps/generic/math_private_calls.h \
+ ../sysdeps/ieee754/float128/ieee754_float128.h
 
 ../include/stdc-predef.h:
 
@@ -184,7 +185,7 @@ $(common-objpfx)config.h:
 
 ../bits/libc-header-start.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/float.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/float.h:
 
 ../math/math-svid-compat.h:
 
@@ -254,9 +255,9 @@ w_ilogb_template.c:
 
 /usr/include/x86_64-linux-gnu/asm/prctl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../sysdeps/generic/stdint.h:
 
@@ -358,7 +359,7 @@ w_ilogb_template.c:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -627,3 +628,5 @@ w_ilogb_template.c:
 ../sysdeps/x86_64/fpu/math_ldbl.h:
 
 ../sysdeps/generic/math_private_calls.h:
+
+../sysdeps/ieee754/float128/ieee754_float128.h:

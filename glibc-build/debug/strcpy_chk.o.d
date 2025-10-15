@@ -4,7 +4,7 @@ $(common-objpfx)debug/strcpy_chk.o: \
  ../include/libc-symbols.h \
  $(common-objpfx)config.h \
  ../sysdeps/generic/symbol-hacks.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../include/string.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../include/string.h \
  ../include/sys/types.h ../posix/sys/types.h ../include/features.h \
  ../include/sys/cdefs.h ../misc/sys/cdefs.h \
  ../sysdeps/x86/bits/wordsize.h \
@@ -43,7 +43,7 @@ $(common-objpfx)config.h:
 
 ../sysdeps/generic/symbol-hacks.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/string.h:
 

@@ -7,7 +7,7 @@ $(common-objpfx)nscd/connections.o: \
  ../include/features.h ../include/sys/cdefs.h ../misc/sys/cdefs.h \
  ../sysdeps/x86/bits/wordsize.h \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h ../include/gnu/stubs.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../include/stackinfo.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../include/stackinfo.h \
  ../sysdeps/x86_64/stackinfo.h ../include/elf.h ../elf/elf.h \
  ../sysdeps/generic/stdint.h ../bits/libc-header-start.h \
  ../include/bits/types.h ../posix/bits/types.h \
@@ -15,7 +15,7 @@ $(common-objpfx)nscd/connections.o: \
  ../bits/stdint-intn.h ../bits/stdint-uintn.h \
  ../include/libc-pointer-arith.h ../sysdeps/generic/dl-dtprocnum.h \
  ../sysdeps/pthread/allocalim.h ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -51,7 +51,7 @@ $(common-objpfx)nscd/connections.o: \
  ../sysdeps/x86_64/atomic-machine.h ../sysdeps/x86_64/nptl/tls.h \
  ../sysdeps/unix/sysv/linux/x86/include/asm/prctl.h \
  /usr/include/x86_64-linux-gnu/asm/prctl.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
  ../sysdeps/unix/sysv/linux/x86_64/sysdep.h \
  ../sysdeps/unix/sysv/linux/sysdep.h \
  ../sysdeps/unix/sysv/linux/x86_64/kernel-features.h \
@@ -140,7 +140,7 @@ $(common-objpfx)nscd/connections.o: \
  ../include/bits/locale.h ../locale/bits/locale.h ../include/pwd.h \
  ../pwd/pwd.h ../include/nss.h ../nss/nss.h ../include/resolv.h \
  ../resolv/resolv.h ../include/stdio.h ../libio/stdio.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  ../include/bits/types/__fpos_t.h ../libio/bits/types/__fpos_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
  ../include/bits/types/__fpos64_t.h ../libio/bits/types/__fpos64_t.h \
@@ -163,7 +163,7 @@ $(common-objpfx)nscd/connections.o: \
  ../include/bits/getopt_core.h ../posix/bits/getopt_core.h \
  ../include/bits/unistd.h ../posix/bits/unistd.h ../include/arpa/inet.h \
  ../inet/arpa/inet.h /usr/include/linux/netlink.h \
- /usr/include/linux/const.h /usr/include/linux/socket.h \
+ /usr/include/linux/kernel.h /usr/include/linux/sysinfo.h \
  /usr/include/linux/types.h /usr/include/x86_64-linux-gnu/asm/types.h \
  /usr/include/asm-generic/types.h /usr/include/asm-generic/int-ll64.h \
  /usr/include/x86_64-linux-gnu/asm/bitsperlong.h \
@@ -171,10 +171,10 @@ $(common-objpfx)nscd/connections.o: \
  /usr/include/linux/stddef.h \
  /usr/include/x86_64-linux-gnu/asm/posix_types.h \
  /usr/include/x86_64-linux-gnu/asm/posix_types_64.h \
- /usr/include/asm-generic/posix_types.h /usr/include/linux/rtnetlink.h \
- /usr/include/linux/if_link.h /usr/include/linux/if_addr.h \
- /usr/include/linux/neighbour.h ../include/sys/epoll.h \
- ../sysdeps/unix/sysv/linux/sys/epoll.h \
+ /usr/include/asm-generic/posix_types.h /usr/include/linux/socket.h \
+ /usr/include/linux/rtnetlink.h /usr/include/linux/if_link.h \
+ /usr/include/linux/if_addr.h /usr/include/linux/neighbour.h \
+ ../include/sys/epoll.h ../sysdeps/unix/sysv/linux/sys/epoll.h \
  ../sysdeps/unix/sysv/linux/x86/bits/epoll.h \
  ../sysdeps/unix/sysv/linux/sys/inotify.h \
  ../sysdeps/unix/sysv/linux/bits/inotify.h ../include/sys/mman.h \
@@ -214,7 +214,7 @@ $(common-objpfx)config.h:
 
 ../include/gnu/stubs.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/stackinfo.h:
 
@@ -248,7 +248,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -380,7 +380,7 @@ $(common-objpfx)config.h:
 
 /usr/include/x86_64-linux-gnu/asm/prctl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../sysdeps/unix/sysv/linux/x86_64/sysdep.h:
 
@@ -686,7 +686,7 @@ $(common-objpfx)config.h:
 
 ../libio/stdio.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types/__fpos_t.h:
 
@@ -770,9 +770,9 @@ $(common-objpfx)abi-versions.h:
 
 /usr/include/linux/netlink.h:
 
-/usr/include/linux/const.h:
+/usr/include/linux/kernel.h:
 
-/usr/include/linux/socket.h:
+/usr/include/linux/sysinfo.h:
 
 /usr/include/linux/types.h:
 
@@ -795,6 +795,8 @@ $(common-objpfx)abi-versions.h:
 /usr/include/x86_64-linux-gnu/asm/posix_types_64.h:
 
 /usr/include/asm-generic/posix_types.h:
+
+/usr/include/linux/socket.h:
 
 /usr/include/linux/rtnetlink.h:
 

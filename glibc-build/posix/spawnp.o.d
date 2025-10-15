@@ -9,7 +9,7 @@ $(common-objpfx)posix/spawnp.o: spawnp.c \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h ../include/gnu/stubs.h \
  ../include/sched.h ../posix/sched.h ../include/bits/types.h \
  ../posix/bits/types.h ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../include/bits/types/time_t.h ../time/bits/types/time_t.h \
  ../include/bits/types/struct_timespec.h \
  ../time/bits/types/struct_timespec.h \
@@ -29,7 +29,7 @@ $(common-objpfx)posix/spawnp.o: spawnp.c \
  ../time/bits/types/struct_timeval.h ../sysdeps/nptl/bits/pthreadtypes.h \
  ../sysdeps/nptl/bits/thread-shared-types.h \
  ../sysdeps/x86/nptl/bits/pthreadtypes-arch.h spawn_int.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
  ../include/shlib-compat.h \
  $(common-objpfx)abi-versions.h
 
@@ -69,7 +69,7 @@ $(common-objpfx)config.h:
 
 ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/bits/types/time_t.h:
 
@@ -139,7 +139,7 @@ $(common-objpfx)config.h:
 
 spawn_int.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../include/shlib-compat.h:
 

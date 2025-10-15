@@ -4,13 +4,13 @@ $(common-objpfx)debug/swprintf_chk.os: \
  ../include/libc-symbols.h \
  $(common-objpfx)config.h \
  ../sysdeps/generic/symbol-hacks.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h ../include/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h ../include/wchar.h \
  ../wcsmbs/wchar.h ../bits/libc-header-start.h ../include/features.h \
  ../include/sys/cdefs.h ../misc/sys/cdefs.h \
  ../sysdeps/x86/bits/wordsize.h \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h ../include/gnu/stubs.h \
  ../sysdeps/x86/bits/floatn.h ../bits/floatn-common.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../bits/wchar.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../bits/wchar.h \
  ../include/bits/types/wint_t.h ../wcsmbs/bits/types/wint_t.h \
  ../include/bits/types/mbstate_t.h ../wcsmbs/bits/types/mbstate_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
@@ -29,7 +29,7 @@ $(common-objpfx)config.h:
 
 ../sysdeps/generic/symbol-hacks.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/wchar.h:
 
@@ -53,7 +53,7 @@ $(common-objpfx)config.h:
 
 ../bits/floatn-common.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../bits/wchar.h:
 

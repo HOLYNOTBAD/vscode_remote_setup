@@ -7,7 +7,7 @@ $(common-objpfx)stdlib/mpn2float128.os: \
  ../sysdeps/generic/gmp-mparam.h ../sysdeps/x86/bits/wordsize.h \
  ../stdlib/gmp.h ../include/features.h ../include/sys/cdefs.h \
  ../misc/sys/cdefs.h ../sysdeps/ieee754/ldbl-96/bits/long-double.h \
- ../include/gnu/stubs.h /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ ../include/gnu/stubs.h /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../sysdeps/x86/bits/floatn.h ../bits/floatn-common.h gmp-impl.h \
  ../include/sys/param.h ../misc/sys/param.h ../include/sys/types.h \
  ../posix/sys/types.h ../include/bits/types.h ../posix/bits/types.h \
@@ -29,7 +29,7 @@ $(common-objpfx)stdlib/mpn2float128.os: \
  ../sysdeps/nptl/bits/thread-shared-types.h \
  ../sysdeps/x86/nptl/bits/pthreadtypes-arch.h ../include/limits.h \
  ../bits/libc-header-start.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -57,7 +57,7 @@ $(common-objpfx)stdlib/mpn2float128.os: \
  ../sysdeps/unix/sysv/linux/bits/param.h /usr/include/linux/param.h \
  /usr/include/x86_64-linux-gnu/asm/param.h \
  /usr/include/asm-generic/param.h ../include/float.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/float.h ../include/math.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/float.h ../include/math.h \
  ../math/math.h ../sysdeps/x86/fpu/bits/math-vector.h \
  ../bits/libm-simd-decl-stubs.h ../sysdeps/x86/bits/flt-eval-method.h \
  ../sysdeps/x86/bits/fp-logb.h ../bits/fp-fast.h \
@@ -99,7 +99,7 @@ $(common-objpfx)config.h:
 
 ../include/gnu/stubs.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../sysdeps/x86/bits/floatn.h:
 
@@ -179,7 +179,7 @@ gmp-impl.h:
 
 ../bits/libc-header-start.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -257,7 +257,7 @@ gmp-impl.h:
 
 ../include/float.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/float.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/float.h:
 
 ../include/math.h:
 

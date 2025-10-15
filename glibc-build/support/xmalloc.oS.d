@@ -4,11 +4,11 @@ $(common-objpfx)support/xmalloc.oS: xmalloc.c \
  ../include/libc-symbols.h \
  $(common-objpfx)config.h \
  ../sysdeps/generic/symbol-hacks.h ../support/support.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../include/sys/cdefs.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../include/sys/cdefs.h \
  ../misc/sys/cdefs.h ../include/features.h ../include/gnu/stubs.h \
  ../sysdeps/x86/bits/wordsize.h \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h ../include/stdio.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h ../include/stdio.h \
  ../libio/stdio.h ../bits/libc-header-start.h ../include/bits/types.h \
  ../posix/bits/types.h ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h \
  ../include/bits/types/__fpos_t.h ../libio/bits/types/__fpos_t.h \
@@ -51,7 +51,7 @@ $(common-objpfx)support/xmalloc.oS: xmalloc.c \
  ../bits/wchar.h ../bits/stdint-uintn.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -73,7 +73,7 @@ $(common-objpfx)config.h:
 
 ../support/support.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/sys/cdefs.h:
 
@@ -87,7 +87,7 @@ $(common-objpfx)config.h:
 
 ../sysdeps/ieee754/ldbl-96/bits/long-double.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/stdio.h:
 
@@ -251,7 +251,7 @@ $(common-objpfx)abi-versions.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 

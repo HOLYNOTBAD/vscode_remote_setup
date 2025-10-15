@@ -25,7 +25,7 @@ $(common-objpfx)support/xsignal.oS: xsignal.c \
  ../sysdeps/unix/sysv/linux/bits/sigevent-consts.h \
  ../sysdeps/unix/sysv/linux/bits/sigaction.h \
  ../sysdeps/unix/sysv/linux/x86/bits/sigcontext.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../sysdeps/unix/sysv/linux/bits/types/stack_t.h \
  ../sysdeps/unix/sysv/linux/x86/sys/ucontext.h \
  ../sysdeps/unix/sysv/linux/bits/sigstack.h \
@@ -115,7 +115,7 @@ $(common-objpfx)config.h:
 
 ../sysdeps/unix/sysv/linux/x86/bits/sigcontext.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../sysdeps/unix/sysv/linux/bits/types/stack_t.h:
 

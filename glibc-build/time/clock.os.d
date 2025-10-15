@@ -10,7 +10,7 @@ $(common-objpfx)time/clock.os: \
  ../include/bits/types/clock_t.h ../time/bits/types/clock_t.h \
  ../include/bits/types.h ../posix/bits/types.h \
  ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h ../include/time.h \
- ../time/time.h /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ ../time/time.h /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../sysdeps/unix/sysv/linux/bits/time.h \
  ../sysdeps/unix/sysv/linux/bits/timex.h \
  ../include/bits/types/struct_timeval.h \
@@ -68,7 +68,7 @@ $(common-objpfx)config.h:
 
 ../time/time.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../sysdeps/unix/sysv/linux/bits/time.h:
 

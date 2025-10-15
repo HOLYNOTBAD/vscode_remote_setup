@@ -23,13 +23,13 @@ $(common-objpfx)stdlib/strtold_nan.o: \
  ../sysdeps/generic/libm-alias-ldouble.h \
  ../sysdeps/ieee754/ldbl-96/math-nan-payload-ldouble.h \
  ../sysdeps/generic/math-type-macros.h ../include/float.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/float.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/float.h \
  ../math/math-svid-compat.h ../include/shlib-compat.h \
  $(common-objpfx)abi-versions.h \
  strtod_nan_main.c ../sysdeps/ieee754/ieee754.h ../include/endian.h \
  ../string/endian.h ../sysdeps/x86/bits/endian.h ../bits/byteswap.h \
  ../bits/uintn-identity.h ../include/locale.h ../locale/locale.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../include/bits/locale.h ../locale/bits/locale.h \
  ../include/bits/types/locale_t.h ../locale/bits/types/locale_t.h \
  ../include/bits/types/__locale_t.h ../locale/bits/types/__locale_t.h \
@@ -55,7 +55,7 @@ $(common-objpfx)stdlib/strtold_nan.o: \
  ../bits/wchar.h ../bits/stdint-uintn.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -64,7 +64,7 @@ $(common-objpfx)stdlib/strtold_nan.o: \
  ../stdlib/bits/stdlib-float.h ../include/sys/stat.h ../io/sys/stat.h \
  ../sysdeps/unix/sysv/linux/x86/bits/stat.h ../include/bits/statx.h \
  ../io/bits/statx.h ../include/wchar.h ../wcsmbs/wchar.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  ../include/bits/types/wint_t.h ../wcsmbs/bits/types/wint_t.h \
  ../include/bits/types/mbstate_t.h ../wcsmbs/bits/types/mbstate_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
@@ -149,7 +149,7 @@ strtod_nan_narrow.h:
 
 ../include/float.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/float.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/float.h:
 
 ../math/math-svid-compat.h:
 
@@ -175,7 +175,7 @@ strtod_nan_main.c:
 
 ../locale/locale.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/bits/locale.h:
 
@@ -271,7 +271,7 @@ strtod_nan_main.c:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -309,7 +309,7 @@ strtod_nan_main.c:
 
 ../wcsmbs/wchar.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types/wint_t.h:
 

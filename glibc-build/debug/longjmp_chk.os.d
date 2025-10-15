@@ -14,7 +14,7 @@ $(common-objpfx)debug/longjmp_chk.os: \
  ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h ../bits/wchar.h \
  ../bits/stdint-intn.h ../bits/stdint-uintn.h ../include/setjmp.h \
  ../setjmp/setjmp.h ../sysdeps/x86/bits/setjmp.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h \
  ../sysdeps/unix/sysv/linux/x86_64/64/jmp_buf-macros.h \
  ../include/signal.h ../signal/signal.h \
  ../sysdeps/unix/sysv/linux/bits/signum.h ../bits/signum-generic.h \
@@ -93,7 +93,7 @@ $(common-objpfx)config.h:
 
 ../sysdeps/x86/bits/setjmp.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../sysdeps/unix/sysv/linux/x86_64/64/jmp_buf-macros.h:
 

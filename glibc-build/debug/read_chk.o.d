@@ -11,7 +11,7 @@ $(common-objpfx)debug/read_chk.o: read_chk.c \
  ../sysdeps/unix/sysv/linux/x86/bits/environments.h \
  ../include/bits/types.h ../posix/bits/types.h \
  ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../bits/confname.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../bits/confname.h \
  ../include/bits/getopt_posix.h ../posix/bits/getopt_posix.h \
  ../include/bits/getopt_core.h ../posix/bits/getopt_core.h \
  ../include/sys/param.h ../misc/sys/param.h ../include/sys/types.h \
@@ -32,7 +32,7 @@ $(common-objpfx)debug/read_chk.o: read_chk.c \
  ../sysdeps/nptl/bits/thread-shared-types.h \
  ../sysdeps/x86/nptl/bits/pthreadtypes-arch.h ../include/limits.h \
  ../bits/libc-header-start.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -66,7 +66,7 @@ $(common-objpfx)debug/read_chk.o: read_chk.c \
  ../bits/types/error_t.h ../sysdeps/x86_64/nptl/tls.h \
  ../sysdeps/unix/sysv/linux/x86/include/asm/prctl.h \
  /usr/include/x86_64-linux-gnu/asm/prctl.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
  ../sysdeps/generic/stdint.h ../bits/wchar.h ../bits/stdint-uintn.h \
  ../include/stdlib.h ../stdlib/stdlib.h \
  ../sysdeps/unix/sysv/linux/bits/waitflags.h ../bits/waitstatus.h \
@@ -162,7 +162,7 @@ $(common-objpfx)config.h:
 
 ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../bits/confname.h:
 
@@ -240,7 +240,7 @@ $(common-objpfx)config.h:
 
 ../bits/libc-header-start.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -338,7 +338,7 @@ $(common-objpfx)config.h:
 
 /usr/include/x86_64-linux-gnu/asm/prctl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../sysdeps/generic/stdint.h:
 

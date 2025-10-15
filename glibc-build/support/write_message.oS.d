@@ -4,7 +4,7 @@ $(common-objpfx)support/write_message.oS: \
  ../include/libc-symbols.h \
  $(common-objpfx)config.h \
  ../sysdeps/generic/symbol-hacks.h ../support/support.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../include/sys/cdefs.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../include/sys/cdefs.h \
  ../misc/sys/cdefs.h ../include/features.h ../include/gnu/stubs.h \
  ../sysdeps/x86/bits/wordsize.h \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h ../include/errno.h \
@@ -52,7 +52,7 @@ $(common-objpfx)config.h:
 
 ../support/support.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/sys/cdefs.h:
 

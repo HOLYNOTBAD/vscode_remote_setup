@@ -13,7 +13,7 @@ $(common-objpfx)math/mpa.os: \
  ../sysdeps/ieee754/dbl-64/mpa-arch.h ../sysdeps/generic/stdint.h \
  ../bits/libc-header-start.h ../bits/wchar.h ../bits/stdint-intn.h \
  ../bits/stdint-uintn.h ../include/sys/param.h ../misc/sys/param.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../include/sys/types.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../include/sys/types.h \
  ../posix/sys/types.h ../include/bits/types/clock_t.h \
  ../time/bits/types/clock_t.h ../include/bits/types/clockid_t.h \
  ../time/bits/types/clockid_t.h ../include/bits/types/time_t.h \
@@ -28,7 +28,7 @@ $(common-objpfx)math/mpa.os: \
  ../time/bits/types/struct_timespec.h ../sysdeps/nptl/bits/pthreadtypes.h \
  ../sysdeps/nptl/bits/thread-shared-types.h \
  ../sysdeps/x86/nptl/bits/pthreadtypes-arch.h ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -116,7 +116,7 @@ $(common-objpfx)config.h:
 
 ../misc/sys/param.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/sys/types.h:
 
@@ -166,7 +166,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 

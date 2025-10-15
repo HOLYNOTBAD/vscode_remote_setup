@@ -17,16 +17,16 @@ $(common-objpfx)iconv/charmap.o: \
  /usr/include/x86_64-linux-gnu/asm/errno.h \
  /usr/include/asm-generic/errno.h /usr/include/asm-generic/errno-base.h \
  ../bits/types/error_t.h ../include/libintl.h ../intl/libintl.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../include/locale.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../include/locale.h \
  ../locale/locale.h ../include/bits/locale.h ../locale/bits/locale.h \
  ../include/limits.h ../bits/libc-header-start.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
  ../include/bits/xopen_lim.h ../sysdeps/unix/sysv/linux/bits/uio_lim.h \
  ../include/stdio.h ../libio/stdio.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h \
  ../include/bits/types/__fpos_t.h ../libio/bits/types/__fpos_t.h \
  ../include/bits/types/__mbstate_t.h ../wcsmbs/bits/types/__mbstate_t.h \
  ../include/bits/types/__fpos64_t.h ../libio/bits/types/__fpos64_t.h \
@@ -69,7 +69,7 @@ $(common-objpfx)iconv/charmap.o: \
  ../io/bits/statx.h ../include/string.h ../sysdeps/x86/string_private.h \
  ../string/string.h ../include/strings.h ../string/strings.h \
  ../locale/programs/localedef.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
  ../locale/programs/record-status.h ../locale/programs/repertoire.h \
  ../include/obstack.h ../malloc/obstack.h ../locale/programs/charmap.h \
  ../locale/programs/simple-hash.h ../include/inttypes.h \
@@ -150,7 +150,7 @@ $(common-objpfx)config.h:
 
 ../intl/libintl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/locale.h:
 
@@ -164,7 +164,7 @@ $(common-objpfx)config.h:
 
 ../bits/libc-header-start.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -186,7 +186,7 @@ $(common-objpfx)config.h:
 
 ../libio/stdio.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdarg.h:
 
 ../include/bits/types/__fpos_t.h:
 
@@ -348,7 +348,7 @@ $(common-objpfx)abi-versions.h:
 
 ../locale/programs/localedef.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../locale/programs/record-status.h:
 

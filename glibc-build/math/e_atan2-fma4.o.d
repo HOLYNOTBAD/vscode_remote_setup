@@ -27,8 +27,8 @@ $(common-objpfx)math/e_atan2-fma4.o: \
  ../bits/byteswap.h ../bits/uintn-identity.h \
  ../sysdeps/ieee754/dbl-64/atnat2.h ../include/fenv.h ../math/fenv.h \
  ../sysdeps/x86/fpu/include/bits/fenv.h ../sysdeps/x86/fpu/bits/fenv.h \
- ../bits/fenvinline.h /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
- ../include/float.h /usr/lib/gcc/x86_64-linux-gnu/7/include/float.h \
+ ../bits/fenvinline.h /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
+ ../include/float.h /usr/lib/gcc/x86_64-linux-gnu/5/include/float.h \
  ../sysdeps/x86/fpu/math-barriers.h ../sysdeps/x86_64/fpu/math_private.h \
  ../sysdeps/i386/fpu/fenv_private.h ../include/fpu_control.h \
  ../sysdeps/x86/fpu_control.h ../sysdeps/generic/math_private.h \
@@ -37,7 +37,7 @@ $(common-objpfx)math/e_atan2-fma4.o: \
  ../include/bits/types/clockid_t.h ../time/bits/types/clockid_t.h \
  ../include/bits/types/time_t.h ../time/bits/types/time_t.h \
  ../include/bits/types/timer_t.h ../time/bits/types/timer_t.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../include/sys/select.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../include/sys/select.h \
  ../misc/sys/select.h ../sysdeps/x86/bits/select.h \
  ../include/bits/types/sigset_t.h ../signal/bits/types/sigset_t.h \
  ../sysdeps/unix/sysv/linux/bits/types/__sigset_t.h \
@@ -56,7 +56,7 @@ $(common-objpfx)math/e_atan2-fma4.o: \
  ../elf/elf.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -65,7 +65,8 @@ $(common-objpfx)math/e_atan2-fma4.o: \
  ../stdlib/bits/stdlib-float.h ../include/sys/stat.h ../io/sys/stat.h \
  ../sysdeps/unix/sysv/linux/x86/bits/stat.h ../include/bits/statx.h \
  ../io/bits/statx.h ../sysdeps/x86_64/fpu/math_ldbl.h \
- ../sysdeps/generic/math_private_calls.h ../include/stap-probe.h
+ ../sysdeps/generic/math_private_calls.h \
+ ../sysdeps/ieee754/float128/ieee754_float128.h ../include/stap-probe.h
 
 ../include/stdc-predef.h:
 
@@ -175,11 +176,11 @@ $(common-objpfx)config.h:
 
 ../bits/fenvinline.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../include/float.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/float.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/float.h:
 
 ../sysdeps/x86/fpu/math-barriers.h:
 
@@ -213,7 +214,7 @@ $(common-objpfx)config.h:
 
 ../time/bits/types/timer_t.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../include/sys/select.h:
 
@@ -279,7 +280,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -316,5 +317,7 @@ $(common-objpfx)config.h:
 ../sysdeps/x86_64/fpu/math_ldbl.h:
 
 ../sysdeps/generic/math_private_calls.h:
+
+../sysdeps/ieee754/float128/ieee754_float128.h:
 
 ../include/stap-probe.h:

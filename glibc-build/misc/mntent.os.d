@@ -9,7 +9,7 @@ $(common-objpfx)misc/mntent.os: mntent.c \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h ../include/gnu/stubs.h \
  ../sysdeps/unix/sysv/linux/paths.h ../include/bits/types/FILE.h \
  ../libio/bits/types/FILE.h ../include/stdlib.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h ../stdlib/stdlib.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h ../stdlib/stdlib.h \
  ../bits/libc-header-start.h ../sysdeps/unix/sysv/linux/bits/waitflags.h \
  ../bits/waitstatus.h ../sysdeps/x86/bits/floatn.h \
  ../bits/floatn-common.h ../include/bits/types/locale_t.h \
@@ -38,7 +38,7 @@ $(common-objpfx)misc/mntent.os: mntent.c \
  ../bits/wchar.h ../bits/stdint-uintn.h ../include/libc-pointer-arith.h \
  ../sysdeps/generic/dl-dtprocnum.h ../sysdeps/pthread/allocalim.h \
  ../include/limits.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h \
  ../include/bits/posix1_lim.h ../posix/bits/posix1_lim.h \
  ../sysdeps/unix/sysv/linux/bits/local_lim.h /usr/include/linux/limits.h \
  ../include/bits/posix2_lim.h ../posix/bits/posix2_lim.h \
@@ -94,7 +94,7 @@ $(common-objpfx)misc/mntent.os: mntent.c \
  ../sysdeps/x86/sysdep.h ../sysdeps/x86_64/nptl/tls.h \
  ../sysdeps/unix/sysv/linux/x86/include/asm/prctl.h \
  /usr/include/x86_64-linux-gnu/asm/prctl.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h \
  ../sysdeps/generic/dl-dtv.h ../nptl/descr.h ../include/setjmp.h \
  ../setjmp/setjmp.h ../sysdeps/unix/sysv/linux/x86_64/64/jmp_buf-macros.h \
  ../sysdeps/x86_64/hp-timing.h ../sysdeps/generic/hp-timing-common.h \
@@ -155,7 +155,7 @@ $(common-objpfx)config.h:
 
 ../include/stdlib.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
 
 ../stdlib/stdlib.h:
 
@@ -267,7 +267,7 @@ $(common-objpfx)config.h:
 
 ../include/limits.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed/limits.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed/limits.h:
 
 ../include/bits/posix1_lim.h:
 
@@ -439,7 +439,7 @@ $(common-objpfx)config.h:
 
 /usr/include/x86_64-linux-gnu/asm/prctl.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stdbool.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stdbool.h:
 
 ../sysdeps/generic/dl-dtv.h:
 

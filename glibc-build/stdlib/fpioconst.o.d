@@ -7,7 +7,7 @@ $(common-objpfx)stdlib/fpioconst.o: \
  ../bits/libc-header-start.h ../include/features.h ../include/sys/cdefs.h \
  ../misc/sys/cdefs.h ../sysdeps/x86/bits/wordsize.h \
  ../sysdeps/ieee754/ldbl-96/bits/long-double.h ../include/gnu/stubs.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/float.h \
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/float.h \
  ../sysdeps/x86/bits/floatn.h ../bits/floatn-common.h ../include/math.h \
  ../math/math.h ../include/bits/types.h ../posix/bits/types.h \
  ../sysdeps/unix/sysv/linux/x86/bits/typesizes.h \
@@ -21,7 +21,7 @@ $(common-objpfx)stdlib/fpioconst.o: \
  ../sysdeps/ieee754/ldbl-96/bits/iscanonical.h \
  ../sysdeps/x86/fpu/bits/mathinline.h ../include/gmp.h \
  ../sysdeps/generic/gmp-mparam.h ../stdlib/gmp.h \
- /usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h
+ /usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h
 
 ../include/stdc-predef.h:
 
@@ -51,7 +51,7 @@ fpioconst.h:
 
 ../include/gnu/stubs.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/float.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/float.h:
 
 ../sysdeps/x86/bits/floatn.h:
 
@@ -101,4 +101,4 @@ fpioconst.h:
 
 ../stdlib/gmp.h:
 
-/usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:
+/usr/lib/gcc/x86_64-linux-gnu/5/include/stddef.h:
